@@ -1,43 +1,65 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-* {
-    font-family: montserrat;
-    color: #111;
-}
+  /* general */
+  * {
+      font-family: montserrat !important;
+      color: #111;
+  }
 
-body {
-    background-color: #f2eff5;
-    overflow-x: hidden; 
-}
+  body {
+      background-color: #f2eff5;
+      overflow-x: hidden;
+  }
 
-nav .logo {
-    font-weight: 900;
-    text-decoration: none;
-    margin: 30px 0 0 30px;
-    position: absolute;
-}
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+      font-weight: 700 !important;
+  }
 
-nav .logo h2,
-nav .logo p {
-    width: 200px;
-    display: inline-block;
-    position: absolute;
-    left: 55px;
-}
+  .subHeading {
+      text-transform: uppercase;
+      color: #bebebe;
+      letter-spacing: 3px;
+  }
 
-nav .logo h2 {
-    font-size: 25px;
-    top: -23px;
-}
+  /* nav */
+  .nav {
+      height: 100px;
+  }
 
-nav .logo p {
-    margin-left: 1px;
-    font-size: 15px;
-    color: #8e8e8e;
-    font-weight: 100;
-    top: 15px;
-}
+  nav .logo {
+      font-weight: 900;
+      text-decoration: none;
+      margin: 35px 0px 0px 35px;
+      position: fixed;
+  }
 
-nav img {
-    width: 46px;
-}
+  nav .logo h2,
+  nav .logo p {
+      width: 200px;
+      display: inline-block;
+      position: fixed;
+      left: 85px;
+  }
+
+  nav .logo h2 {
+      font-size: 20px;
+      top: 35px;
+  }
+
+  nav .logo p {
+      letter-spacing: 0.4px;
+      margin-left: 1px;
+      font-size: 12px;
+      color: #8e8e8e;
+      font-weight: 300;
+      top: 61px;
+  }
+
+  nav img {
+      width: 42px;
+  }
