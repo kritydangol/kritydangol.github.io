@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); */
 
 label .menu {
     position: fixed;
     right: 35px;
     top: 35px;
     z-index: 100;
-    width: 50px;
-    height: 50px;
+    width: 42px;
+    height: 42px;
     background: #272727;
     border-radius: 50% 50% 50% 50%;
     -webkit-transition: .5s ease-in-out;
@@ -18,9 +18,9 @@ label .menu {
 
 label .hamburger {
     position: fixed;
-    top: 58px;
-    right: 48px;
-    width: 23px;
+    top: 55px;
+    right: 45px;
+    width: 21px;
     height: 2.5px;
     background: #ccc;
     display: block;
@@ -114,6 +114,13 @@ label a {
     color: #ccc;
     font-weight: bold;
     font-size: 25px !important;
-    text-decoration: none;
-    font-family: poppins;
+    text-decoration: underline 0.15em rgba(0, 0, 0, 0);
+    text-underline-offset: 0.2em;
+    transition: text-decoration-color 300ms, text-underline-offset 300ms;
+}
+
+label a:hover {
+    color: #ccc;
+    text-decoration-color: #ccc;
+    text-underline-offset: 0.4em;
 }

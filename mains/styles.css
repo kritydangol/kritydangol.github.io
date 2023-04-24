@@ -1,65 +1,63 @@
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* nav */
+.nav {
+    height: 100px;
+}
 
-  /* general */
-  * {
-      font-family: montserrat !important;
-      color: #111;
-  }
+nav .logo {
+    font-weight: 900;
+    text-decoration: none;
+    margin: 35px 0px 0px 35px;
+    position: fixed;
+}
 
-  body {
-      background-color: #f2eff5;
-      overflow-x: hidden;
-  }
+nav .logo h2,
+nav .logo p {
+    width: 200px;
+    display: inline-block;
+    position: fixed;
+    left: 85px;
+}
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-      font-weight: 700 !important;
-  }
+nav .logo h2 {
+    font-size: 20px;
+    top: 35px;
+}
 
-  .subHeading {
-      text-transform: uppercase;
-      color: #bebebe;
-      letter-spacing: 3px;
-  }
+nav .logo p {
+    letter-spacing: 0.4px;
+    margin-left: 1px;
+    font-size: 12px;
+    color: #8e8e8e;
+    font-weight: 300;
+    top: 61px;
+}
 
-  /* nav */
-  .nav {
-      height: 100px;
-  }
+nav img {
+    width: 42px;
+}
 
-  nav .logo {
-      font-weight: 900;
-      text-decoration: none;
-      margin: 35px 0px 0px 35px;
-      position: fixed;
-  }
+/* landing */
 
-  nav .logo h2,
-  nav .logo p {
-      width: 200px;
-      display: inline-block;
-      position: fixed;
-      left: 85px;
-  }
+.landing .left {
+    padding-top: 200px;
+}
 
-  nav .logo h2 {
-      font-size: 20px;
-      top: 35px;
-  }
+.landing .right {
+    padding-top: 100px;
+    text-align: center !important;
+}
 
-  nav .logo p {
-      letter-spacing: 0.4px;
-      margin-left: 1px;
-      font-size: 12px;
-      color: #8e8e8e;
-      font-weight: 300;
-      top: 61px;
-  }
+.imageRot {
+    width: 80%;
+    animation: rotation 100s infinite linear;
+}
 
-  nav img {
-      width: 42px;
-  }
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(359deg);
+    }
+}
