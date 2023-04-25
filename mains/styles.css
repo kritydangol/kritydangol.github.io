@@ -38,8 +38,12 @@ nav img {
 
 /* landing */
 
+.landing{
+    height: 90vh;
+}
+
 .landing .left {
-    padding-top: 200px;
+    padding-top: 250px;
 }
 
 .landing .right {
@@ -60,4 +64,21 @@ nav img {
     to {
         transform: rotate(359deg);
     }
+}
+
+/* card */
+.card{
+    background-color: rgba(206, 206, 206, 0.498) !important;
+    width: 100%;
+    height: 80vh;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+
+.card .smallH{
+    max-width: 70%;
+}
+
+.card span{
+    
 }
