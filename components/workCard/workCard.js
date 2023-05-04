@@ -27,11 +27,11 @@ function renderWorks() {
                 <h3 class="smallH">
                     ${projectsInfo[i].title} - ${projectsInfo[i].subTitle}
                 </h3>
+                <span class="">View Project</span>
             </a>
         </div>`
         worksCardEl.innerHTML = worksDOM
 
     }
 }
-// <span>View Project</span>
 renderWorks()
