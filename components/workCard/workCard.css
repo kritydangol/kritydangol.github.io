@@ -27,5 +27,5 @@ a.card:hover {
 
 .card:hover .view {
     display: block;
-    transition: display 300ms;
+    transition: all 800ms;
 }   
