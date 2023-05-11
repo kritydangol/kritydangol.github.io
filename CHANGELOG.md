@@ -1,0 +1,1 @@
+- installed: npm install gh-pages --save-dev | for: git deploy | usage: npm run deploy
