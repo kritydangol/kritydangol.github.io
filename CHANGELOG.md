@@ -1,3 +1,4 @@
-- installed: npm install gh-pages --save-dev 
--- for: git deploy | usage: npm run deploy || npm run deploy -- -m "Deploy React app to GitHub Pages" 
--- link: https://github.com/gitname/react-gh-pages
+###  installed: npm install gh-pages --save-dev 
+- for: git deploy
+- usage: npm run deploy || npm run deploy -- -m "Deploy React app to GitHub Pages" 
+- link: https://github.com/gitname/react-gh-pages
