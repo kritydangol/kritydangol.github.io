@@ -5,11 +5,12 @@ const Home = () => {
         <>
 
             <div class="nav">
-                <nav id="nav"><a href="/mains" class="logo">
-                    <img src="../images/logo-circle-06.png" alt="Logo" />
-                    <h2>Krity Dangol</h2>
-                    <p>Front-end Developer</p>
-                </a>
+                <nav id="nav">
+                    <a href="/home" class="logo">
+                        <img src={require("../assets/images/logo-circle-06.png")} alt="Logo" />
+                        <h2>Krity Dangol</h2>
+                        <p>Front-end Developer</p>
+                    </a>
 
                     <label>
                         <input type="checkbox" />
@@ -18,7 +19,8 @@ const Home = () => {
                             <li> <a href="/">Home</a> </li>
                             <li> <a href="/home">Home real</a> </li>
                         </ul>
-                    </label></nav>
+                    </label>
+                </nav>
             </div>
 
             {/* Landing Section */}
@@ -40,14 +42,14 @@ const Home = () => {
                     </div>
 
                     <div class="col-lg-6 right">
-                        <img src="../images/logo-circle-06.png" alt="" class="imageRot" />
+                        <img src={require("../assets/images/logo-circle-06.png")} alt="" class="imageRot" />
                     </div>
                 </div>
             </section>
 
             <section class="container projects">
                 <div class="row">
-                    <div class="col">
+                    <div class="col-12">
                         <p class="subH">
                             Selected Projects
                         </p>
