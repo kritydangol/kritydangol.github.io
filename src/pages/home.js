@@ -5,7 +5,20 @@ const Home = () => {
         <>
 
             <div class="nav">
-                <nav id="nav"></nav>
+                <nav id="nav"><a href="/mains" class="logo">
+                    <img src="../images/logo-circle-06.png" alt="Logo" />
+                    <h2>Krity Dangol</h2>
+                    <p>Front-end Developer</p>
+                </a>
+
+                    <label>
+                        <input type="checkbox" />
+                        <span class="menu"> <span class="hamburger"></span> </span>
+                        <ul id="nav-links">
+                            <li> <a href="/">Home</a> </li>
+                            <li> <a href="/home">Home real</a> </li>
+                        </ul>
+                    </label></nav>
             </div>
 
             {/* Landing Section */}
