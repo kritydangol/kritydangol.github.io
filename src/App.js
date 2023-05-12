@@ -1,13 +1,10 @@
-import logo from './assets/images/logo-short.png';
 import './App.css';
 
+// routes
+import AppRouting from "./utils/routing";
+
 function App() {
-  return (
-    <section>
-        <img src={logo} alt="logo" class="logo-img"/>
-        <h1>Under Construction.</h1>
-    </section>
-  );
+  return <AppRouting />;
 }
 
 export default App;
