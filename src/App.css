@@ -11,20 +11,6 @@ body, html {
   height: 100%;
 }
 
-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  flex-direction: column;
-}
-
-h1 {
-  font-family: montserrat;
-  font-size: 40px;
-  color: #ccc;
-}
-
 a {
   font-family: Montserrat;
   position: relative;
@@ -49,7 +35,21 @@ a:hover:after{
   background: black;
 }
 
-.logo-img{
+.construction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.construction h1 {
+  font-family: Montserrat;
+  font-size: 40px;
+  color: #ccc;
+}
+
+.construction .logo-img{
   width: 100px;
   margin: 30px;
   filter: saturate(0.3) opacity(0.3);
