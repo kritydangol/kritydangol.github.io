@@ -4,7 +4,7 @@ import logo from '../assets/images/logo-short.png';
 const Construction = () => {
     return (
         <section className='construction'>
-            <img src={logo} alt="logo" class="logo-img" />
+            <img src={logo} alt="logo" className="logo-img" />
             <h1>Under Construction.</h1>
         </section>
     )

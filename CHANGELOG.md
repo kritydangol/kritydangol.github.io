@@ -7,6 +7,7 @@
     - [`GitHub Pages`](#github-pages)
     - [`Routes`](#routes)
     - [`Added: Bootstrap`](#added-bootstrap)
+- [To Do](#to-do)
 
 # Versions
 
@@ -34,6 +35,12 @@
 - `usage`: added in index.html on public folder, so free to use as normal 
 - `link`: https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
+
+# To Do
+- [ ] Mockups
+- [ ] Dynamic works page
+- [ ] CV page
+- [ ] separate designs, development page (?)
 
 
 <!-- CheatCodes: -->
