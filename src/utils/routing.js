@@ -1,9 +1,10 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import React from "react";
 
-// importing 
+// importing
 import Const from "../pages/construction";
 import Home from "../pages/home";
+import Playground from "../pages/playground/playground";
 // import Nav from "../components/nav";
 
 const Routing = () => {
@@ -12,12 +13,13 @@ const Routing = () => {
       <Routes>
         <Route exact path="/" element={<Const />} />
         <Route exact path="/home" element={<Home />} />
+        <Route exact path="/playground" element={<Playground />} />
 
         {/* default routes for invalid links */}
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
     </Router>
-  )
-}
+  );
+};
 
-export default Routing
+export default Routing;
