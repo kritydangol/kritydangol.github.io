@@ -5,12 +5,12 @@ const Home = () => {
     <>
       <Nav />
       {/* Landing Section */}
-      <section className="grid md:grid-cols-2 gap-4 lg:mx-56 mx-10 min-h-screen">
+      <section className="grid md:grid-cols-2 gap-4 lg:mx-56 sm:mx-10 mx-5 min-h-screen">
         <div className="table">
           <div className="table-cell align-middle">
             <p className="subH">Krity Dangol</p>
             <h2 className="head">Frontend Developer</h2>
-            <p>
+            <p className="mb-6">
               Over the past 4 years, i have been doing projects as a frontend
               developer/designer, Lorem ipsum dolor minus laborum accusamus non
               laudantium accusantium alias vitae aliquam dolor laboriosam quo
@@ -36,14 +36,9 @@ const Home = () => {
         </div>
       </section>
 
-      <section className="container projects lg:mx-56 mx-10">
-        <div className="row">
-          <div className="col-12">
-            <p className="subH">Selected Projects</p>
-            <h3 className="midH">Case Studies</h3>
-          </div>
-        </div>
-        <div className="row pt-4" id="worksCard"></div>
+      <section className="lg:mx-56 sm:mx-10 mx-5">
+        <p className="subH">Selected Projects</p>
+        <h3 className="midH">Case Studies</h3>
       </section>
     </>
   );
