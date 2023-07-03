@@ -36,6 +36,7 @@
 
 
 # To Do
+- [ ] Add new sliding menu
 - [ ] Mockups
 - [ ] Dynamic works page
 - [ ] CV page
