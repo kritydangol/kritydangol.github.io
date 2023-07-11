@@ -6,7 +6,8 @@
 - [Installed](#installed)
     - [`GitHub Pages`](#github-pages)
     - [`Routes`](#routes)
-    - [`Added: Tailwind`](#added-tailwind)
+    - [`Tailwind`](#tailwind)
+    - [`Sliding menu`](#sliding-menu)
 - [To Do](#to-do)
 
 # Versions
@@ -29,11 +30,16 @@
 - `usage`: import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; 
 - `link`: https://www.npmjs.com/package/react-router-dom
 
-###  `Added: Tailwind`
+###  `Tailwind`
 - `for`: for easy css
 - `installed`: npm i tailwindcss | npx tailwindcss init
 - `link`: https://tailwindcss.com/docs/guides/create-react-app
 
+###  `Sliding menu`
+- `installed`: npm i react-flexible-sliding-menu
+- `usage`: toggle button | ham menu | index.js
+- `link`: https://www.npmjs.com/package/react-flexible-sliding-menu
+- `link`: https://react-flexible-sliding-menu.netlify.app/example/react-router
 
 # To Do
 - [ ] Add new sliding menu
