@@ -1,5 +1,6 @@
 import React, { useContext } from "react";
 import { MenuContext } from "react-flexible-sliding-menu";
+import { AiOutlineMenu } from "react-icons/ai";
 
 const Nav = () => {
   const { toggleMenu } = useContext(MenuContext);
@@ -15,9 +16,10 @@ const Nav = () => {
           <h2>Krity Dangol</h2>
           <p>Front-end Developer</p>
         </a>
-        <button onClick={toggleMenu} className="primary-button">
-          Toggle Menu
-        </button>
+        {/* open full page menu */}
+        <span className="toggleMenu" onClick={toggleMenu}>
+          <AiOutlineMenu />
+        </span>
       </nav>
     </div>
   );
