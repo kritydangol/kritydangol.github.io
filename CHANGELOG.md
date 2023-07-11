@@ -8,6 +8,7 @@
     - [`Routes`](#routes)
     - [`Tailwind`](#tailwind)
     - [`Sliding menu`](#sliding-menu)
+    - [`Icons`](#icons)
 - [To Do](#to-do)
 
 # Versions
@@ -40,6 +41,11 @@
 - `usage`: toggle button | ham menu | index.js
 - `link`: https://www.npmjs.com/package/react-flexible-sliding-menu
 - `link`: https://react-flexible-sliding-menu.netlify.app/example/react-router
+
+### `Icons`
+- `installed`: npm i react-icons
+- `usage`: import { FiInstagram } from "react-icons/fi";
+- `link`: https://www.npmjs.com/package/react-icons
 
 # To Do
 - [ ] Add new sliding menu
