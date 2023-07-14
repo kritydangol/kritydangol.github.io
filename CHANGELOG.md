@@ -48,7 +48,7 @@
 - `link`: https://www.npmjs.com/package/react-icons
 
 # To Do
-- [ ] Add new sliding menu
+- [x] ~~Add new sliding menu~~
 - [ ] Mockups
 - [ ] Dynamic works page
 - [ ] CV page
