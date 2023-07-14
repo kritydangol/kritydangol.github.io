@@ -1,8 +1,8 @@
 // Rendering NAV
-const navEl = document.getElementById("nav")
+const navEl = document.getElementById("nav");
 
 function navRender() {
-    let navLit = `
+  let navLit = `
     <a href="/mains" class="logo">
         <img src="../images/logo-circle-06.png" alt="Logo">
         <h2>Krity Dangol</h2>
@@ -14,26 +14,25 @@ function navRender() {
         <span class="menu"> <span class="hamburger"></span> </span>
         <ul id="nav-links"> </ul>
     </label>
-    `
-    navEl.innerHTML = navLit
+    `;
+  navEl.innerHTML = navLit;
 }
 
-navRender()
-
+navRender();
 
 // Rendering nav MENU
-const navMenu = document.getElementById("nav-links")
+const navMenu = document.getElementById("nav-links");
 
 const menuItems = [
-    { link: "/", item: "Home" },
-    { link: "/mains", item: "Mains" },
-]
+  { link: "/", item: "Home" },
+  { link: "/mains", item: "Mains" },
+];
 function renderMenu() {
-    let navDOM = ""
-    for (let i = 0; i < menuItems.length; i++) {
-        navDOM += `<li> <a href="${menuItems[i].link}">${menuItems[i].item}</a> </li>`
-        navMenu.innerHTML = navDOM
-    }
+  let navDOM = "";
+  for (let i = 0; i < menuItems.length; i++) {
+    navDOM += `<li> <a href="${menuItems[i].link}">${menuItems[i].item}</a> </li>`;
+    navMenu.innerHTML = navDOM;
+  }
 }
 
-renderMenu()
+renderMenu();
