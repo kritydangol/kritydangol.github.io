@@ -4,16 +4,25 @@ import { MenuContext } from "react-flexible-sliding-menu";
 
 function Menu() {
   const { closeMenu } = useContext(MenuContext);
+  const menuItems = [
+    {
+      name: "Home",
+      link: "/",
+    },
+    {
+      name: "Home real",
+      link: "/home",
+    },
+  ];
   return (
     <div className="menu table w-screen h-screen">
       <div className="nav-links table-cell align-middle p-10 text-2xl leading-[6vh]">
         <ul>
-          <li className="w-fit mx-auto">
-            <a href="/">Home</a>
-          </li>
-          <li className="w-fit mx-auto">
-            <a href="/home">Home real</a>
-          </li>
+          {menuItems.map((item) => (
+            <li className="w-fit mx-auto font-bold mb-5">
+              <a href={item.link}>{item.name}</a>
+            </li>
+          ))}
         </ul>
       </div>
       {/* close full page menu */}
