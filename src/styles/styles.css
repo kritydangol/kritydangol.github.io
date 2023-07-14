@@ -54,7 +54,7 @@ h6 {
 
 .link:hover {
   color: #111;
-  text-decoration-color: #111;
+  text-decoration-color: #11111100;
   text-underline-offset: 0.4em;
 }
 
