@@ -56,7 +56,7 @@
 - [ ] separate designs, development page (?)
 
 # Doing
-- [ ] Mockups
+- [ ] PSV Mockups
 
 <!-- CheatCodes: -->
 <!-- To do done: alt + c || alt + s -->
