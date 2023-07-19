@@ -10,6 +10,7 @@
     - [`Sliding menu`](#sliding-menu)
     - [`Icons`](#icons)
 - [To Do](#to-do)
+- [Doing](#doing)
 
 # Versions
 ### `v1.0.0`
@@ -54,6 +55,8 @@
 - [ ] CV page
 - [ ] separate designs, development page (?)
 
+# Doing
+- [ ] Mockups
 
 <!-- CheatCodes: -->
 <!-- To do done: alt + c || alt + s -->
