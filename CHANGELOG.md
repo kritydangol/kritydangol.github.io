@@ -10,7 +10,6 @@
     - [`Sliding menu`](#sliding-menu)
     - [`Icons`](#icons)
 - [To Do](#to-do)
-- [Doing](#doing)
 
 # Versions
 ### `v1.0.0`
@@ -50,13 +49,11 @@
 
 # To Do
 - [x] ~~Add new sliding menu~~
+- [ ] PSV Mockups
 - [ ] Mockups
 - [ ] Dynamic works page
 - [ ] CV page
 - [ ] separate designs, development page (?)
-
-# Doing
-- [ ] PSV Mockups
 
 <!-- CheatCodes: -->
 <!-- To do done: alt + c || alt + s -->
