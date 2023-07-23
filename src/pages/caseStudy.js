@@ -6,7 +6,7 @@ const CaseStudy = () => {
       <h5>Case study</h5>
       <h1>PSV — responsive website development</h1>
       <h5>My role</h5>
-      <h4 class="header-dark">
+      <h4>
         Creative Direction
         <br />
         UI / UX
@@ -16,9 +16,9 @@ const CaseStudy = () => {
         Deployment
       </h4>
       <h5>Client</h5>
-      <h4 class="header-dark">Triniso</h4>
+      <h4>Triniso</h4>
       <h5>Year</h5>
-      <h4 class="header-dark">2017</h4>
+      <h4>2017</h4>
     </div>
   );
 };
