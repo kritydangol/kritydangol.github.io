@@ -1,7 +1,11 @@
 import React from "react";
 
 const CaseStudy = () => {
-  return <div>CaseStudy</div>;
+  return (
+    <div>
+      <h1>CaseStudy</h1>
+    </div>
+  );
 };
 
 export default CaseStudy;
