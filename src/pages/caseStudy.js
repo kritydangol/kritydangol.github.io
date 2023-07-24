@@ -22,7 +22,22 @@ const CaseStudy = () => {
         <h4>2017</h4>
       </div>
       <div className="images">
-        <img src={require("../assets/images/PSV mockups.jpg")} alt="" />
+        <img
+          src={require("../assets/images/PSV mockups.jpg")}
+          alt="PSV mockup"
+        />
+        <img
+          src={require("../assets/images/PSV laptop.jpg")}
+          alt="PSV mockup"
+        />
+        <img
+          src={require("../assets/images/PSV mobile.jpg")}
+          alt="PSV mockup"
+        />
+        <img
+          src={require("../assets/images/PSV tablet.jpg")}
+          alt="PSV mockup"
+        />
       </div>
     </div>
   );
