@@ -1,6 +1,24 @@
 import React from "react";
 
 const CaseStudy = () => {
+  const mockups = [
+    {
+      fileName: "PSV mockups.jpg",
+      alt: "PSV family mockup",
+    },
+    {
+      fileName: "PSV laptop.jpg",
+      alt: "PSV laptop mockup",
+    },
+    {
+      fileName: "PSV mobile.jpg",
+      alt: "PSV mobile mockup",
+    },
+    {
+      fileName: "PSV tablet.jpg",
+      alt: "PSV tablet mockup",
+    },
+  ];
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
       <div>
@@ -22,23 +40,13 @@ const CaseStudy = () => {
         <h4>2017</h4>
       </div>
       <div className="images">
-        <img
-          src={require("../assets/images/PSV mockups.jpg")}
-          alt="PSV mockup"
-          className="mb-5 border border-neutral-300 rounded"
-        />
-        <img
-          src={require("../assets/images/PSV laptop.jpg")}
-          alt="PSV mockup"
-        />
-        <img
-          src={require("../assets/images/PSV mobile.jpg")}
-          alt="PSV mockup"
-        />
-        <img
-          src={require("../assets/images/PSV tablet.jpg")}
-          alt="PSV mockup"
-        />
+        {mockups.map((item) => (
+          <img
+            src={require(`../assets/images/${item.fileName}`)}
+            alt={item.alt}
+            className="mb-7 border border-neutral-300 rounded"
+          />
+        ))}
       </div>
     </section>
   );
