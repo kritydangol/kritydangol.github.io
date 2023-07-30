@@ -2,7 +2,7 @@ import React from "react";
 
 const CaseStudy = () => {
   return (
-    <div>
+    <section className="lg:mx-56 sm:mx-10 mx-5">
       <div>
         <h5>Case study</h5>
         <h1>PSV — responsive website development</h1>
@@ -25,6 +25,7 @@ const CaseStudy = () => {
         <img
           src={require("../assets/images/PSV mockups.jpg")}
           alt="PSV mockup"
+          className="mb-5 border border-neutral-300 rounded"
         />
         <img
           src={require("../assets/images/PSV laptop.jpg")}
@@ -39,7 +40,7 @@ const CaseStudy = () => {
           alt="PSV mockup"
         />
       </div>
-    </div>
+    </section>
   );
 };
 
