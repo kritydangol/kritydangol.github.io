@@ -6,22 +6,17 @@ const Nav = () => {
   const { toggleMenu } = useContext(MenuContext);
 
   return (
-    <div className="nav fixed">
-      <nav id="nav">
-        <a href="/home" className="logo">
-          <img
-            src={require("../assets/images/logo-circle-06.png")}
-            alt="Logo"
-          />
-          <h2>Krity Dangol</h2>
-          <p>Front-end Developer</p>
-        </a>
-        {/* open full page menu */}
-        <span className="toggleMenu" onClick={toggleMenu}>
-          <AiOutlineMenu />
-        </span>
-      </nav>
-    </div>
+    <nav id="nav">
+      <a href="/home" className="logo">
+        <img src={require("../assets/images/logo-circle-06.png")} alt="Logo" />
+        <h2>Krity Dangol</h2>
+        <p>Front-end Developer</p>
+      </a>
+      {/* open full page menu */}
+      <span className="toggleMenu" onClick={toggleMenu}>
+        <AiOutlineMenu />
+      </span>
+    </nav>
   );
 };
 
