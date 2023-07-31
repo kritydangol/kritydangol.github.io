@@ -23,7 +23,7 @@ const CaseStudy = () => {
   return (
     <>
       <Nav />
-      <section className="lg:mx-56 sm:mx-10 mx-5">
+      <section className="lg:mx-56 sm:mx-10 mx-5 pb-2">
         <div className="pt-[100px] mb-20">
           <h5 className="subH pt-5">Case study</h5>
           <h1 className="text-3xl">PSV — responsive website development</h1>
