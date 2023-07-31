@@ -38,7 +38,11 @@ const CaseStudy = () => {
             Deployment
           </h4>
           <h5 className="subH pt-5">Client</h5>
-          <h4>Parth Student Venture</h4>
+          <h4>
+            <a href="https://parthstudent.vc/" target="_blank" rel="noreferrer">
+              Parth Student Venture
+            </a>
+          </h4>
           <h5 className="subH pt-5">Year</h5>
           <h4>2017</h4>
         </div>
