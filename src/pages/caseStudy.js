@@ -26,7 +26,7 @@ const CaseStudy = () => {
       <section className="lg:mx-56 sm:mx-10 mx-5">
         <div className="pt-[100px]">
           <h5 className="subH">Case study</h5>
-          <h1>PSV — responsive website development</h1>
+          <h1 className="text-3xl">PSV — responsive website development</h1>
           <h5 className="subH">My role</h5>
           <h4>
             Creative Direction
