@@ -49,11 +49,12 @@
 
 # To Do
 - [x] ~~Add new sliding menu~~
+- [ ] Make 404 page
 - [ ] PSV Mockups
 - [ ] Mockups
 - [ ] Dynamic works page
 - [ ] CV page
-- [ ] separate designs, development page (?)
+- [ ] separate designs, development page, design page (?)
 
 <!-- CheatCodes: -->
 <!-- To do done: alt + c || alt + s -->
