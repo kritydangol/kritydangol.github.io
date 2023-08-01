@@ -44,7 +44,7 @@ const CaseStudy = () => {
             </a>
           </h4>
           <h5 className="subH pt-5">Year</h5>
-          <h4>2017</h4>
+          <h4>2022</h4>
         </div>
         <div className="images">
           {mockups.map((item) => (
