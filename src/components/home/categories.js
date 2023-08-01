@@ -3,7 +3,7 @@ import React from "react";
 const Categories = () => {
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
-      <p className="subH">Selected Categories</p>
+      <p className="subH">Top Categories</p>
       <h3 className="midH">Categories</h3>
       <div className="grid grid-cols-3 gap-4">
         <a
