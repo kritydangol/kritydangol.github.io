@@ -1,9 +1,9 @@
 import React from "react";
 
-const Projects = () => {
+const Categories = () => {
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
-      <p className="subH">Selected Projects</p>
+      <p className="subH">Selected Categories</p>
       <h3 className="midH">Case Studies</h3>
       <div className="grid grid-cols-2 gap-4">
         <a
@@ -27,4 +27,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+export default Categories;
