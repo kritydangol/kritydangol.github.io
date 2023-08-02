@@ -11,10 +11,10 @@ const Projects = () => {
           href="/caseStudy"
         >
           <div className="h-[80vh] rounded-md p-7">
-            <div className="">
-              <h5>Case study</h5>
-              <h1>PSV — responsive website development</h1>
-            </div>
+            <p className="subH mb-0">Case study</p>
+            <h1 className="smallH max-w-[380px] font-[700] capitalize">
+              PSV — responsive website development
+            </h1>
             <img
               className="absolute top-0 left-0 z-[-1] h-[80vh] w-[100%] object-cover object-bottom rounded-lg"
               src={require("../assets/images/PSV Tile.jpg")}
