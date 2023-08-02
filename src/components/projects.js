@@ -5,7 +5,7 @@ const Projects = () => {
     <section className="lg:mx-56 sm:mx-10 mx-5">
       <p className="subH">Selected Projects</p>
       <h3 className="midH">Case Studies</h3>
-      <div className="grid grid-cols-2 gap-4">
+      <div className="grid sm:grid-cols-2 gap-4">
         <a
           className="mb-10 hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
           href="/caseStudy"
