@@ -12,12 +12,12 @@ const Projects = () => {
         >
           <div className="h-[80vh] rounded-md p-7">
             <p className="subH mb-0">Case study</p>
-            <h1 className="smallH max-w-[380px] font-[700] capitalize">
+            <h1 className="smallH max-w-[380px] font-[700] capitalize text-neutral-50">
               PSV — responsive website development
             </h1>
             <img
               className="absolute top-0 left-0 z-[-1] h-[80vh] w-[100%] object-cover object-bottom rounded-lg"
-              src={require("../assets/images/PSV Tile.jpg")}
+              src={require("../assets/images/PSV Tile1.jpg")}
               alt="tile mockup"
             />
           </div>
