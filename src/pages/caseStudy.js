@@ -52,7 +52,10 @@ const CaseStudy = () => {
             <h4>2022</h4>
           </div>
           <p>
-            
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
+            praesentium iusto perferendis recusandae asperiores, blanditiis
+            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
+            dignissimos corrupti dolorem mollitia culpa magni.
           </p>
         </div>
         <div className="images">
