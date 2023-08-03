@@ -55,6 +55,30 @@ const CaseStudy = () => {
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
             praesentium iusto perferendis recusandae asperiores, blanditiis
             dicta vitae iste. Maiores nemo quibusdam soluta recusandae
+            dignissimos corrupti dolorem mollitia culpa magni. Lorem ipsum dolor
+            sit, amet consectetur adipisicing elit.
+            <br />
+            <br />
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
+            praesentium iusto perferendis recusandae asperiores, blanditiis
+            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
+            dignissimos corrupti dolorem mollitia culpa magni. Lorem ipsum dolor
+            sit, amet consectetur adipisicing elit.
+            <br />
+            <br />
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
+            praesentium iusto perferendis recusandae asperiores, blanditiis
+            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
+            dignissimos corrupti dolorem mollitia culpa magni. Lorem ipsum dolor
+            sit, amet consectetur adipisicing elit.
+            <br />
+            <br />
+            Illo quasi praesentium iusto perferendis recusandae asperiores,
+            blanditiis dicta vitae iste. Maiores nemo quibusdam soluta
+            recusandae dignissimos corrupti dolorem mollitia culpa magni. Lorem
+            ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
+            praesentium iusto perferendis recusandae asperiores, blanditiis
+            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
             dignissimos corrupti dolorem mollitia culpa magni.
           </p>
         </div>
