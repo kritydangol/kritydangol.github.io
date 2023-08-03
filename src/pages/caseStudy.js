@@ -51,7 +51,7 @@ const CaseStudy = () => {
             <h5 className="subH pt-5">Year</h5>
             <h4>2022</h4>
           </div>
-          <p>
+          <p className="pt-14">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
             praesentium iusto perferendis recusandae asperiores, blanditiis
             dicta vitae iste. Maiores nemo quibusdam soluta recusandae
