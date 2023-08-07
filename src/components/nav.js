@@ -7,7 +7,7 @@ const Nav = () => {
 
   return (
     <nav id="nav">
-      <a href="/home" className="logo">
+      <a href="/#/home" className="logo">
         <img src={require("../assets/images/logo-circle-06.png")} alt="Logo" />
         <h2>Krity Dangol</h2>
         <p>Front-end Developer</p>

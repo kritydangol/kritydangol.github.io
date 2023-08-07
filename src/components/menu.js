@@ -7,15 +7,15 @@ function Menu() {
   const menuItems = [
     {
       name: "Home",
-      link: "/",
+      link: "/#/",
     },
     {
       name: "Home real",
-      link: "/home",
+      link: "/#/home",
     },
     {
       name: "Case Study",
-      link: "/caseStudy",
+      link: "/#/caseStudy",
     },
   ];
   return (

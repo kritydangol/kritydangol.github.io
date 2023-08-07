@@ -8,7 +8,7 @@ const Projects = () => {
       <div className="grid sm:grid-cols-2 gap-4">
         <a
           className="mb-10 hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
-          href="/caseStudy"
+          href="/#/caseStudy"
         >
           <div className="h-[80vh] rounded-md p-7">
             <p className="subH mb-0">Case study</p>

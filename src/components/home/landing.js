@@ -13,11 +13,11 @@ const Landing = () => {
             laudantium accusantium alias vitae aliquam dolor laboriosam quo
             iusto!
           </p>
-          <a href="/home" className="link">
+          <a href="/#/home" className="link">
             View Projects
           </a>
           &nbsp;&nbsp;or&nbsp;&nbsp;
-          <a href="/home" className="link">
+          <a href="/#/home" className="link">
             Download CV
           </a>
         </div>

@@ -6,7 +6,7 @@ const Construction = () => {
     <section className="construction">
       <img src={logo} alt="logo" className="logo-img" />
       <h1>Under Construction.</h1>
-      <a href="/home" className="absolute top-5 right-10 text-neutral-400">
+      <a href="/#/home" className="absolute top-5 right-10 text-neutral-400">
         go home
       </a>
     </section>
