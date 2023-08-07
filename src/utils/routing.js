@@ -7,10 +7,12 @@ import Home from "../pages/home";
 import CaseStudy from "../pages/caseStudy";
 import Playground from "../pages/playground/playground";
 // import Nav from "../components/nav";
+import ToTop from "./scrollToTop";
 
 const Routing = () => {
   return (
     <Router>
+      <ToTop />
       <Routes>
         <Route exact path="/" element={<Const />} />
         <Route exact path="/home" element={<Home />} />
