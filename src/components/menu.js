@@ -23,7 +23,7 @@ function Menu() {
       <div className="nav-links table-cell align-middle p-10 text-2xl leading-[6vh]">
         <ul>
           {menuItems.map((item) => (
-            <li className="w-fit mx-auto font-bold mb-5">
+            <li className="w-fit mx-auto font-bold mb-5" onClick={closeMenu}>
               <a href={item.link}>{item.name}</a>
             </li>
           ))}
