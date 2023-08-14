@@ -8,6 +8,10 @@ const CaseStudy = () => {
       alt: "PSV family mockup",
     },
     {
+      fileName: "PSV family.png",
+      alt: "PSV family mockup",
+    },
+    {
       fileName: "PSV laptop.jpg",
       alt: "PSV laptop mockup",
     },
