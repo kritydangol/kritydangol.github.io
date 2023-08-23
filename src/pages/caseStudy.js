@@ -16,7 +16,7 @@ const CaseStudy = () => {
       alt: "PSV all pages",
     },
     {
-      fileName: "PSV all pages blue.jpg",
+      fileName: "PSV - all pages.jpg",
       alt: "PSV all pages",
     },
     {
