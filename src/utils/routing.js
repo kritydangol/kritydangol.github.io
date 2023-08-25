@@ -5,6 +5,7 @@ import React from "react";
 import Const from "../pages/construction";
 import Home from "../pages/home";
 import CaseStudy from "../pages/caseStudy";
+import Categories from "../pages/categories";
 import Playground from "../pages/playground/playground";
 // import Nav from "../components/nav";
 import ToTop from "./scrollToTop";
@@ -16,6 +17,7 @@ const Routing = () => {
       <Routes>
         <Route exact path="/" element={<Const />} />
         <Route exact path="/home" element={<Home />} />
+        <Route exact path="/categories" element={<Categories />} />
         <Route exact path="/caseStudy" element={<CaseStudy />} />
         <Route exact path="/playground" element={<Playground />} />
 
