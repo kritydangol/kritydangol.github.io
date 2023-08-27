@@ -14,7 +14,7 @@ const Categories = () => {
         {category.map((item) => (
           <a
             className="mb-10 hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
-            href="/#/caseStudy"
+            href="/#/categories"
           >
             <div className="rounded-md p-7 text-center">
               <img
