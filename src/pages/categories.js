@@ -4,10 +4,12 @@ import Nav from "../components/nav";
 
 const Categories = () => {
   return (
-    <div>
+    <>
       <Nav />
-      <Projects />
-    </div>
+      <div className="pt-[100px]">
+        <Projects />
+      </div>
+    </>
   );
 };
 
