@@ -2,6 +2,21 @@ import React from "react";
 import Nav from "../components/nav";
 
 const CaseStudy = () => {
+  const details = [
+    {
+      tag: "Case study",
+      title: "PSV — responsive website development",
+      role: [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "Deployment",
+      ],
+      client: "Parth Student Venture",
+      year: "2023",
+      desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+    },
+  ];
   const mockups = [
     {
       fileName: "PSV mockups.jpg",
@@ -36,64 +51,33 @@ const CaseStudy = () => {
     <>
       <Nav />
       <section className="lg:mx-56 sm:mx-10 mx-5 pb-2">
-        <div className="pt-[100px] mb-20 grid grid-cols-2 gap-4">
-          <div>
-            <h5 className="subH pt-5">Case study</h5>
-            <h1 className="text-3xl">PSV — responsive website development</h1>
-            <h5 className="subH pt-5">My role</h5>
-            <h4>
-              Creative Direction
-              <br />
-              UI / UX
-              <br />
-              Website Development
-              <br />
-              Deployment
-            </h4>
-            <h5 className="subH pt-5">Client</h5>
-            <h4>
-              <a
-                href="https://parthstudent.vc/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Parth Student Venture
-              </a>
-            </h4>
-            <h5 className="subH pt-5">Year</h5>
-            <h4>2022</h4>
+        {details.map((detail) => (
+          <div className="pt-[100px] mb-20 grid grid-cols-2 gap-4">
+            <div>
+              <h5 className="subH pt-5">{detail.tag}</h5>
+              <h1 className="text-3xl">{detail.title}</h1>
+              <h5 className="subH pt-5">My role</h5>
+              <h4>
+                {detail.role.map((role) => (
+                  <p>{role}</p>
+                ))}
+              </h4>
+              <h5 className="subH pt-5">Client</h5>
+              <h4>
+                <a
+                  href="https://parthstudent.vc/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {detail.client}
+                </a>
+              </h4>
+              <h5 className="subH pt-5">Year</h5>
+              <h4>{detail.year}</h4>
+            </div>
+            <p className="pt-14">{detail.desc} </p>
           </div>
-          <p className="pt-14">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
-            praesentium iusto perferendis recusandae asperiores, blanditiis
-            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
-            dignissimos corrupti dolorem mollitia culpa magni. Lorem ipsum dolor
-            sit, amet consectetur adipisicing elit.
-            <br />
-            <br />
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
-            praesentium iusto perferendis recusandae asperiores, blanditiis
-            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
-            dignissimos corrupti dolorem mollitia culpa magni. Lorem ipsum dolor
-            sit, amet consectetur adipisicing elit.
-            <br />
-            <br />
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
-            praesentium iusto perferendis recusandae asperiores, blanditiis
-            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
-            dignissimos corrupti dolorem mollitia culpa magni. Lorem ipsum dolor
-            sit, amet consectetur adipisicing elit.
-            <br />
-            <br />
-            Illo quasi praesentium iusto perferendis recusandae asperiores,
-            blanditiis dicta vitae iste. Maiores nemo quibusdam soluta
-            recusandae dignissimos corrupti dolorem mollitia culpa magni. Lorem
-            ipsum dolor sit, amet consectetur adipisicing elit. Illo quasi
-            praesentium iusto perferendis recusandae asperiores, blanditiis
-            dicta vitae iste. Maiores nemo quibusdam soluta recusandae
-            dignissimos corrupti dolorem mollitia culpa magni.
-          </p>
-        </div>
+        ))}
         <div className="images">
           {mockups.map((item) => (
             <img
