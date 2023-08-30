@@ -9,13 +9,7 @@ const Projects = () => {
       img: "PSV Tile1.jpg",
     },
     {
-      title: "PSV — responsive website development",
-      tag: "Case study",
-      link: "/#/caseStudy",
-      img: "PSV Tile1.jpg",
-    },
-    {
-      title: "PSV — responsive website development",
+      title: "Serene - A Mental Health App",
       tag: "Case study",
       link: "/#/caseStudy",
       img: "PSV Tile1.jpg",
