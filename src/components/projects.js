@@ -14,6 +14,12 @@ const Projects = () => {
       link: "/#/caseStudy",
       img: "PSV Tile1.jpg",
     },
+    {
+      title: "Trisara - responsive website development",
+      tag: "Case study",
+      link: "/#/caseStudy",
+      img: "PSV Tile1.jpg",
+    },
   ];
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
