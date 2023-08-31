@@ -9,6 +9,7 @@
     - [`Tailwind`](#tailwind)
     - [`Sliding menu`](#sliding-menu)
     - [`Icons`](#icons)
+    - [`JSON server`](#json-server)
 - [To Do](#to-do)
 
 # Versions
@@ -46,6 +47,10 @@
 - `installed`: npm i react-icons
 - `usage`: import { FiInstagram } from "react-icons/fi";
 - `link`: https://www.npmjs.com/package/react-icons
+- 
+### `JSON server`
+- `installed`: no installation, just use
+- `usage`: npx json-server --watch db.json --port 8000
 
 # To Do
 - [x] ~~Add new sliding menu~~
