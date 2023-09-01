@@ -10,6 +10,7 @@
         "Creative Direction",
         "UI / UX",
         "Website Development",
+        "Wordpress",
         "Deployment"
       ],
       "client": "Parth Student Venture",
@@ -27,9 +28,28 @@
         "Creative Direction",
         "UI / UX",
         "Website Development",
+        "ReactJS",
         "Deployment"
       ],
       "client": "Motivate Nepalese",
+      "year": "2023",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
+    },
+    {
+      "id": 3,
+      "tag": "Case study",
+      "title": "Trisara - dynamic website development",
+      "link": "/#/caseStudy",
+      "tileImg": "PSV Tile1.jpg",
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS",
+        "Deployment"
+      ],
+      "client": "Trisara",
       "year": "2023",
       "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
       "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
