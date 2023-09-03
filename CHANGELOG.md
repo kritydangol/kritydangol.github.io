@@ -54,9 +54,10 @@
 
 # To Do
 - [x] ~~Add new sliding menu~~
+- [x] ~~PSV Mockups~~
 - [ ] Make 404 page
-- [ ] PSV Mockups
 - [ ] Mockups
+- [ ] Add animated icons from lordicon
 - [ ] Dynamic works page
 - [ ] CV page
 - [ ] separate designs, development page, design page (?)
