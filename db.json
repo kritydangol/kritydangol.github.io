@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "tag": "Case study",
+      "tag": "Development",
       "title": "PSV — responsive website development",
       "link": "/#/caseStudy",
       "tileImg": "PSV Tile1.jpg",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "tag": "Case study",
+      "tag": "Development",
       "title": "Serene - A Mental Health App",
       "link": "/#/caseStudy",
       "tileImg": "PSV Tile1.jpg",
@@ -38,7 +38,7 @@
     },
     {
       "id": 3,
-      "tag": "Case study",
+      "tag": "Development",
       "title": "Trisara - dynamic website development",
       "link": "/#/caseStudy",
       "tileImg": "PSV Tile1.jpg",
@@ -50,6 +50,40 @@
         "Deployment"
       ],
       "client": "Trisara",
+      "year": "2023",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
+    },
+    {
+      "id": 4,
+      "tag": "Design",
+      "title": "Alchi - graphic designer",
+      "link": "/#/caseStudy",
+      "tileImg": "PSV Tile1.jpg",
+      "role": [
+        "Creative Direction",
+        "Graphic Design",
+        "Social Media Posts",
+        "Adobe Illustrator"
+      ],
+      "client": "Alchi",
+      "year": "2023",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
+    },
+    {
+      "id": 5,
+      "tag": "Design",
+      "title": "CNIYEF - graphic designer",
+      "link": "/#/caseStudy",
+      "tileImg": "PSV Tile1.jpg",
+      "role": [
+        "Creative Direction",
+        "Graphic Design",
+        "Social Media Posts",
+        "Canva"
+      ],
+      "client": "CNIYEF",
       "year": "2023",
       "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
       "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
