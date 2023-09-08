@@ -32,17 +32,17 @@ const CaseStudy = () => {
   ];
   const mockups = [
     {
-      fileName: "PSV mockups.jpg",
-      alt: "PSV family mockup",
-    },
-    {
       fileName: "PSV family.png",
       alt: "PSV family mockup",
     },
     {
-      fileName: "PSV all pages.jpg",
-      alt: "PSV all pages",
+      fileName: "PSV mockups.jpg",
+      alt: "PSV family mockup",
     },
+    // {
+    //   fileName: "PSV all pages.jpg",
+    //   alt: "PSV all pages",
+    // },
     {
       fileName: "PSV - all pages.jpg",
       alt: "PSV all pages",
@@ -56,8 +56,20 @@ const CaseStudy = () => {
       alt: "PSV mobile mockup",
     },
     {
-      fileName: "PSV tablet.jpg",
-      alt: "PSV tablet mockup",
+      fileName: "PSV phones.jpg",
+      alt: "PSV phones mockup",
+    },
+    {
+      fileName: "PSV phone.jpg",
+      alt: "PSV phone mockup",
+    },
+    {
+      fileName: "PSV tablets.jpg",
+      alt: "PSV tablets mockup",
+    },
+    {
+      fileName: "PSV - typography, colours.jpg",
+      alt: "PSV - typography, colours",
     },
   ];
   return (
@@ -94,7 +106,7 @@ const CaseStudy = () => {
         <div className="images">
           {mockups.map((item) => (
             <img
-              src={require(`../assets/images/${item.fileName}`)}
+              src={require(`../assets/images/mockups/PSV/${item.fileName}`)}
               alt={item.alt}
               className="mb-7 border border-neutral-300 rounded"
             />
