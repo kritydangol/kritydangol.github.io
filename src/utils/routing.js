@@ -18,7 +18,7 @@ const Routing = () => {
         <Route exact path="/" element={<Const />} />
         <Route exact path="/home" element={<Home />} />
         <Route exact path="/categories" element={<Categories />} />
-        <Route exact path="/caseStudy" element={<CaseStudy />} />
+        <Route exact path="/:id" element={<CaseStudy />} />
         <Route exact path="/playground" element={<Playground />} />
 
         {/* default routes for invalid links */}

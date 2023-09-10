@@ -1,51 +1,68 @@
 import React from "react";
+import useFetch from "../utils/useFetch";
 
 const Projects = () => {
-  const projects = [
-    {
-      title: "PSV — responsive website development",
-      tag: "Case study",
-      link: "/#/caseStudy",
-      img: "PSV Tile1.jpg",
-    },
-    {
-      title: "Serene - A Mental Health App",
-      tag: "Case study",
-      link: "/#/caseStudy",
-      img: "PSV Tile1.jpg",
-    },
-    {
-      title: "Trisara - responsive website development",
-      tag: "Case study",
-      link: "/#/caseStudy",
-      img: "PSV Tile1.jpg",
-    },
-  ];
+  const { data: projects, error } = useFetch("http://localhost:8000/projects");
+
+  // const projects = [
+  //   {
+  //     title: "PSV — responsive website development",
+  //     tag: "Case study",
+  //     link: "/#/caseStudy",
+  //     img: "PSV Tile1.jpg",
+  //   },
+  //   {
+  //     title: "Serene - A Mental Health App",
+  //     tag: "Case study",
+  //     link: "/#/caseStudy",
+  //     img: "PSV Tile1.jpg",
+  //   },
+  //   {
+  //     title: "Trisara - responsive website development",
+  //     tag: "Case study",
+  //     link: "/#/caseStudy",
+  //     img: "PSV Tile1.jpg",
+  //   },
+  // ];
+
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
       <p className="subH">Selected Projects</p>
       <h3 className="midH">Case Studies</h3>
-      <div className="grid sm:grid-cols-2 gap-4 pb-10">
-        {/* mapping projects */}
-        {projects.map((project) => (
-          <a
-            className="hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
-            href={project.link}
-          >
-            <div className="h-[80vh] rounded-md p-7">
-              <p className="subH mb-0">{project.tag}</p>
-              <h1 className="smallH max-w-[380px] font-[700] capitalize text-neutral-50">
-                {project.title}
-              </h1>
-              <img
-                className="absolute top-0 left-0 z-[-1] h-[80vh] w-[100%] object-cover object-bottom rounded-lg"
-                src={require(`../assets/images/${project.img}`)}
-                alt={project.title}
-              />
-            </div>
-          </a>
-        ))}
-      </div>
+      {projects ? (
+        <div className="grid sm:grid-cols-2 gap-4 pb-10">
+          {/* mapping projects */}
+          {projects.map((project) => (
+            <a
+              key={project.id}
+              className="hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
+              href={project.link}
+            >
+              <div className="h-[80vh] rounded-md p-7">
+                <p className="subH mb-0">{project.tag}</p>
+                <h1
+                  className={`smallH max-w-[380px] font-[700] capitalize ${
+                    project.tileColor === "black"
+                      ? "text-neutral-800"
+                      : "text-neutral-50"
+                  }`}
+                >
+                  {project.title}
+                </h1>
+                <img
+                  className="absolute top-0 left-0 z-[-1] h-[80vh] w-[100%] object-cover object-bottom rounded-lg"
+                  src={require(`../assets/images/mockups/${project.id}/${project.tileImg}`)}
+                  alt={project.title}
+                />
+              </div>
+            </a>
+          ))}
+        </div>
+      ) : error ? (
+        <p>{error}</p>
+      ) : (
+        <p>Loading...</p>
+      )}
     </section>
   );
 };
