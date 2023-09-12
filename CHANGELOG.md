@@ -56,6 +56,7 @@
 - [x] ~~Add new sliding menu~~
 - [x] ~~PSV Mockups~~
 - [ ] Make 404 page
+- [ ] Mockups - trisara
 - [ ] Mockups
 - [ ] Add animated icons from lordicon
 - [ ] Dynamic works page
