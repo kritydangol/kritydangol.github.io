@@ -4,7 +4,6 @@
       "id": "PSV",
       "tag": "Development",
       "title": "PSV — responsive website development",
-      "link": "/#/caseStudy",
       "tileImg": "PSV Tile1.jpg",
       "tileColor": "white",
       "role": [
@@ -33,7 +32,6 @@
       "id": "serene",
       "tag": "Development",
       "title": "Serene - A Mental Health App",
-      "link": "/#/caseStudy",
       "tileImg": "serene.jpg",
       "tileColor": "black",
       "role": [
@@ -67,7 +65,6 @@
       "id": 3,
       "tag": "Development",
       "title": "Trisara - dynamic website development",
-      "link": "/#/caseStudy",
       "tileImg": "",
       "tileColor": "white",
       "role": [
