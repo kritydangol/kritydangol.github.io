@@ -36,7 +36,7 @@ const Projects = () => {
             <a
               key={project.id}
               className="hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
-              href={project.link}
+              href={`/#/` + project.id}
             >
               <div className="h-[80vh] rounded-md p-7">
                 <p className="subH mb-0">{project.tag}</p>
@@ -49,11 +49,13 @@ const Projects = () => {
                 >
                   {project.title}
                 </h1>
-                <img
-                  className="absolute top-0 left-0 z-[-1] h-[80vh] w-[100%] object-cover object-bottom rounded-lg"
-                  src={require(`../assets/images/mockups/${project.id}/${project.tileImg}`)}
-                  alt={project.title}
-                />
+                {project.tileImg && (
+                  <img
+                    className="absolute top-0 left-0 z-[-1] h-[80vh] w-[100%] object-cover object-bottom rounded-lg"
+                    src={require(`../assets/images/mockups/${project.id}/${project.tileImg}`)}
+                    alt={project.title}
+                  />
+                )}
               </div>
             </a>
           ))}
