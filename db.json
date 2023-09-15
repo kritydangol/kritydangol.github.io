@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "PSV",
-      "tag": "Development",
+      "tag": ["Development"],
       "title": "PSV — responsive website development",
       "tileImg": "PSV Tile1.jpg",
       "tileColor": "white",
@@ -30,7 +30,7 @@
     },
     {
       "id": "serene",
-      "tag": "Development",
+      "tag": ["Development"],
       "title": "Serene - A Mental Health App",
       "tileImg": "serene.jpg",
       "tileColor": "black",
@@ -63,7 +63,7 @@
     },
     {
       "id": "trisara",
-      "tag": "Development",
+      "tag": ["Development", "Design"],
       "title": "Trisara - dynamic website development",
       "tileImg": "",
       "tileColor": "black",
