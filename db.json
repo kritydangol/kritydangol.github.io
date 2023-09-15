@@ -62,7 +62,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "trisara",
       "tag": "Development",
       "title": "Trisara - dynamic website development",
       "tileImg": "",
@@ -71,8 +71,7 @@
         "Creative Direction",
         "UI / UX",
         "Website Development",
-        "ReactJS",
-        "Deployment"
+        "ReactJS"
       ],
       "client": "Trisara",
       "year": "2023",
