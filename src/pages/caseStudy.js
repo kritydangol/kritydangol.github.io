@@ -169,7 +169,6 @@ const CaseStudy = () => {
               {project.gallery.map((item) => (
                 <img
                   src={require(`../assets/images/mockups/${project.id}/${item}`)}
-                  // src={require(`../assets/images/mockups/${project.id}/${item.fileName}`)}
                   alt={item}
                   className="mb-7 border border-neutral-300 rounded"
                 />

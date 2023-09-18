@@ -36,10 +36,12 @@ const Projects = () => {
             <a
               key={project.id}
               className="hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
-              href={`/#/` + project.id}
+              href={`/#/projects/` + project.id}
             >
               <div className="h-[80vh] rounded-md p-7">
-                <p className="subH mb-0">{project.tag}</p>
+                <p className="subH mb-0">
+                  {project.tag[0]} {project.tag[1] && "| " + project.tag[1]}
+                </p>
                 <h1
                   className={`smallH max-w-[380px] font-[700] capitalize ${
                     project.tileColor === "black"
