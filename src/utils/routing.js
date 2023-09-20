@@ -28,6 +28,7 @@ const Routing = () => {
 
         {/* default routes for invalid links */}
         <Route path="/*" element={<NotFound />} />
+        {/* <Route element={<NotFound />} /> */}
       </Routes>
     </Router>
   );
