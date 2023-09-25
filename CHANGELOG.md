@@ -55,7 +55,7 @@
 # To Do
 - [x] ~~Add new sliding menu~~
 - [x] ~~PSV Mockups~~
-- [ ] Make 404 page work
+- [x] ~~Make 404 page work~~
 - [ ] Mockups - trisara
 - [ ] Mockups
 - [ ] Add animated icons from lordicon
