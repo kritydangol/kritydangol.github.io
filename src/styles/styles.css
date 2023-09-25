@@ -68,6 +68,8 @@ nav .logo {
   text-decoration: none;
   margin: 35px 0px 0px 35px;
   position: fixed;
+  top: 0;
+  left: 0;
 }
 
 nav .logo h2,
