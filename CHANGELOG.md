@@ -56,10 +56,10 @@
 - [x] ~~Add new sliding menu~~
 - [x] ~~PSV Mockups~~
 - [x] ~~Make 404 page work~~
+- [x] ~~Dynamic works page~~
 - [ ] Mockups - trisara
 - [ ] Mockups
 - [ ] Add animated icons from lordicon
-- [ ] Dynamic works page
 - [ ] CV page
 - [ ] separate designs, development page, design page (?)
 
