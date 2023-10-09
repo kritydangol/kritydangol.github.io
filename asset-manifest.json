@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8660abe5.css",
-    "main.js": "/static/js/main.e046a076.js",
+    "main.css": "/static/css/main.c3540239.css",
+    "main.js": "/static/js/main.b4cb30dc.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/webfactory-ltd-NoOrDKxUfzo-unsplash.jpg": "/static/media/webfactory-ltd-NoOrDKxUfzo-unsplash.92168d30a267ef2a9aef.jpg",
     "static/media/PSV all pages blue.jpg": "/static/media/PSV all pages blue.a5869b5a4a83a5fdab1e.jpg",
@@ -14,6 +14,7 @@
     "static/media/PSV phones.jpg": "/static/media/PSV phones.4887efdcb1d2ed77d3e9.jpg",
     "static/media/10.jpg": "/static/media/10.1b8350173846f923f733.jpg",
     "static/media/4.jpg": "/static/media/4.296aa8799f4bbdfc323f.jpg",
+    "static/media/trisara - mockup.jpg": "/static/media/trisara - mockup.e3438398ee9b11ca9728.jpg",
     "static/media/6.jpg": "/static/media/6.e30f16c4b404d7d758d0.jpg",
     "static/media/PSV tablets.jpg": "/static/media/PSV tablets.54211fff9feeb1f50b25.jpg",
     "static/media/8.jpg": "/static/media/8.47083bf26d479b315b89.jpg",
@@ -27,6 +28,7 @@
     "static/media/PSV laptop.jpg": "/static/media/PSV laptop.c88297d719a0cc1a68cc.jpg",
     "static/media/14.jpg": "/static/media/14.dd5e204146f497943322.jpg",
     "static/media/404 (1).png": "/static/media/404 (1).35dc1b61e7b5fa13efa7.png",
+    "static/media/serene - mockup.jpg": "/static/media/serene - mockup.2d3ba388824845c9052b.jpg",
     "static/media/PSV mobile.jpg": "/static/media/PSV mobile.4b59495d7b5b03f7bb31.jpg",
     "static/media/13.jpg": "/static/media/13.a396adf0ccc0f92e7c6b.jpg",
     "static/media/15.jpg": "/static/media/15.c47e3b159f4fddd53a4e.jpg",
@@ -36,7 +38,7 @@
     "static/media/11.jpg": "/static/media/11.922e12b5c720ccef734e.jpg",
     "static/media/PSV Tile1.jpg": "/static/media/PSV Tile1.4e5c13c3ef43c2ae5c50.jpg",
     "static/media/PSV Tile.jpg": "/static/media/PSV Tile.7f4edabbc61f6d77a2c9.jpg",
-    "static/media/serene.jpg": "/static/media/serene.c3fc93dd60af1eee4ab4.jpg",
+    "static/media/serene.jpg": "/static/media/serene.1169491faf7be6d27ff6.jpg",
     "static/media/others.png": "/static/media/others.1194feb27ddf9b1130bb.png",
     "static/media/404.png": "/static/media/404.b4f9ebf66362188d0453.png",
     "static/media/design.png": "/static/media/design.8d96275c4c1fd8eecf7e.png",
@@ -45,12 +47,12 @@
     "static/media/logo-circle-06.png": "/static/media/logo-circle-06.8b1bcf7ccf814a19be01.png",
     "static/media/logo-long.png": "/static/media/logo-long.bfa45580b4065a57df7e.png",
     "index.html": "/index.html",
-    "main.8660abe5.css.map": "/static/css/main.8660abe5.css.map",
-    "main.e046a076.js.map": "/static/js/main.e046a076.js.map",
+    "main.c3540239.css.map": "/static/css/main.c3540239.css.map",
+    "main.b4cb30dc.js.map": "/static/js/main.b4cb30dc.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8660abe5.css",
-    "static/js/main.e046a076.js"
+    "static/css/main.c3540239.css",
+    "static/js/main.b4cb30dc.js"
   ]
 }
