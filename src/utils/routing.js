@@ -21,7 +21,7 @@ const Routing = () => {
       <Routes>
         <Route exact path="/" element={<Const />} />
         <Route exact path="/home" element={<Home />} />
-        <Route exact path="/categories" element={<Categories />} />
+        <Route exact path="/categories/:id" element={<Categories />} />
         <Route exact path="/projects/:id" element={<CaseStudy />} />
         <Route exact path="/playground" element={<Playground />} />
         {/* <Route exact path="/404" element={<NotFound />} /> */}
