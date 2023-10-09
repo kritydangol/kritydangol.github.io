@@ -15,7 +15,7 @@ const Categories = () => {
           <a
             key={item.catName}
             className="mb-10 hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
-            href="/#/categories"
+            href={`/#/${item.catName}`}
           >
             <div className="rounded-md p-7 text-center">
               <img

@@ -4,27 +4,6 @@ import useFetch from "../utils/useFetch";
 const Projects = () => {
   const { data: projects, error } = useFetch("http://localhost:8000/projects");
 
-  // const projects = [
-  //   {
-  //     title: "PSV — responsive website development",
-  //     tag: "Case study",
-  //     link: "/#/caseStudy",
-  //     img: "PSV Tile1.jpg",
-  //   },
-  //   {
-  //     title: "Serene - A Mental Health App",
-  //     tag: "Case study",
-  //     link: "/#/caseStudy",
-  //     img: "PSV Tile1.jpg",
-  //   },
-  //   {
-  //     title: "Trisara - responsive website development",
-  //     tag: "Case study",
-  //     link: "/#/caseStudy",
-  //     img: "PSV Tile1.jpg",
-  //   },
-  // ];
-
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
       <p className="subH">Selected Projects</p>

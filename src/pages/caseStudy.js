@@ -78,62 +78,6 @@ const CaseStudy = () => {
   const { data: project, error } = useFetch(
     `http://localhost:8000/projects/${id}`
   );
-  // console.log(project.gallery[0]);
-  // {
-  //     "id": 3,
-  //     "tag": "Development",
-  //     "title": "Trisara - dynamic website development",
-  //     "link": "/#/caseStudy",
-  //     "tileImg": "PSV/PSV Tile1.jpg",
-  //     "tileColor": "white",
-  //     "role": [
-  //       "Creative Direction",
-  //       "UI / UX",
-  //       "Website Development",
-  //       "ReactJS",
-  //       "Deployment"
-  //     ],
-  //     "client": "Trisara",
-  //     "year": "2023",
-  //     "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
-  //     "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
-  //   },
-  //   {
-  //     "id": 4,
-  //     "tag": "Design",
-  //     "title": "Alchi - graphic designer",
-  //     "link": "/#/caseStudy",
-  //     "tileImg": "PSV/PSV Tile1.jpg",
-  //     "tileColor": "white",
-  //     "role": [
-  //       "Creative Direction",
-  //       "Graphic Design",
-  //       "Social Media Posts",
-  //       "Adobe Illustrator"
-  //     ],
-  //     "client": "Alchi",
-  //     "year": "2023",
-  //     "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
-  //     "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
-  //   },
-  //   {
-  //     "id": 5,
-  //     "tag": "Design",
-  //     "title": "CNIYEF - graphic designer",
-  //     "link": "/#/caseStudy",
-  //     "tileImg": "PSV/PSV Tile1.jpg",
-  //     "tileColor": "white",
-  //     "role": [
-  //       "Creative Direction",
-  //       "Graphic Design",
-  //       "Social Media Posts",
-  //       "Canva"
-  //     ],
-  //     "client": "CNIYEF",
-  //     "year": "2023",
-  //     "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
-  //     "gallery": ["PSV Tile1.jpg", "PSV Tile1.jpg", "PSV Tile1.jpg"]
-  //   }
   return (
     <>
       <Nav />
