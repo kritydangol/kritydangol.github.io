@@ -6,11 +6,13 @@
 - [Installed](#installed)
     - [`GitHub Pages`](#github-pages)
     - [`Routes`](#routes)
-    - [`Added: Bootstrap`](#added-bootstrap)
+    - [`Tailwind`](#tailwind)
+    - [`Sliding menu`](#sliding-menu)
+    - [`Icons`](#icons)
+    - [`JSON server`](#json-server)
 - [To Do](#to-do)
 
 # Versions
-
 ### `v1.0.0`
 - Initiated changelog file for frontend.
 - Set up completed
@@ -30,20 +32,40 @@
 - `usage`: import { BrowserRouter as Router, Routes, Route } from "react-router-dom"; 
 - `link`: https://www.npmjs.com/package/react-router-dom
 
-###  `Added: Bootstrap`
-- `for`: for containers and stuff
-- `usage`: added in index.html on public folder, so free to use as normal 
-- `link`: https://getbootstrap.com/docs/4.3/getting-started/introduction/
+###  `Tailwind`
+- `for`: for easy css
+- `installed`: npm i tailwindcss | npx tailwindcss init
+- `link`: https://tailwindcss.com/docs/guides/create-react-app
 
+###  `Sliding menu`
+- `installed`: npm i react-flexible-sliding-menu
+- `usage`: toggle button | ham menu | index.js
+- `link`: https://www.npmjs.com/package/react-flexible-sliding-menu
+- `link`: https://react-flexible-sliding-menu.netlify.app/example/react-router
+
+### `Icons`
+- `installed`: npm i react-icons
+- `usage`: import { FiInstagram } from "react-icons/fi";
+- `link`: https://www.npmjs.com/package/react-icons
+- 
+### `JSON server`
+- `installed`: no installation, just use
+- `usage`: npx json-server --watch db.json --port 8000
 
 # To Do
+- [x] ~~Add new sliding menu~~
+- [x] ~~PSV Mockups~~
+- [x] ~~Make 404 page work~~
+- [x] ~~Dynamic works page~~
+- [x] ~~Categorize designs, development page~~
+- [ ] Mockups - trisara
 - [ ] Mockups
-- [ ] Dynamic works page
+- [ ] paragraphs update
+- [ ] Add animated icons from lordicon
 - [ ] CV page
-- [ ] separate designs, development page (?)
-
+- [ ] separate designs, development page, design page (?)
 
 <!-- CheatCodes: -->
 <!-- To do done: alt + c || alt + s -->
-<!-- Table of contents: ctrl + shift + p, Create Tareable of Contents -->
+<!-- Table of contents: ctrl + shift + p, Create Table of Contents -->
 <!-- Preview: ctrl + shift + v -->
