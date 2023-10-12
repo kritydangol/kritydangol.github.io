@@ -83,7 +83,7 @@ const CaseStudy = () => {
       <Nav />
       {project ? (
         <section className="lg:mx-56 sm:mx-10 mx-5 pb-2">
-          <div className="pt-[100px] mb-20 grid grid-cols-2 gap-4">
+          <div className="pt-[100px] mb-20 md:grid md:grid-cols-2 gap-4">
             <div>
               <h5 className="subH pt-5">{project.tag}</h5>
               <h1 className="text-3xl">{project.title}</h1>

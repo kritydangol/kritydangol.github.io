@@ -1,0 +1,117 @@
+{
+  "projects": [
+    {
+      "id": "PSV",
+      "tag": ["development"],
+      "title": "PSV — responsive website development",
+      "tileImg": "PSV Tile1.jpg",
+      "tileColor": "white",
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "Wordpress",
+        "Deployment"
+      ],
+      "client": "Parth Student Venture",
+      "year": "2023",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": [
+        "PSV family.png",
+        "PSV mockups.jpg",
+        "PSV - all pages.jpg",
+        "PSV laptop.jpg",
+        "PSV mobile.jpg",
+        "PSV phones.jpg",
+        "PSV phone.jpg",
+        "PSV tablets.jpg",
+        "PSV - typography, colours.jpg"
+      ]
+    },
+    {
+      "id": "serene",
+      "tag": ["development"],
+      "title": "Serene - A Mental Health App",
+      "tileImg": "serene.jpg",
+      "tileColor": "black",
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS",
+        "Deployment"
+      ],
+      "client": "Motivate Nepalese",
+      "year": "2023",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": [
+        "serene - mockup.jpg",
+        "1.jpg",
+        "2.jpg",
+        "3.jpg",
+        "4.jpg",
+        "5.jpg",
+        "6.jpg",
+        "7.jpg",
+        "8.jpg",
+        "9.jpg",
+        "10.jpg",
+        "11.jpg",
+        "12.jpg",
+        "13.jpg",
+        "14.jpg"
+      ]
+    },
+    {
+      "id": "trisara",
+      "tag": ["development", "design"],
+      "title": "Trisara - dynamic website development",
+      "tileImg": "trisara.jpg",
+      "tileColor": "black",
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "Trisara",
+      "year": "2023",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": ["trisara - mockup.jpg"]
+    },
+    {
+      "id": "alchi",
+      "tag": ["design"],
+      "title": "Alchi - Graphic design",
+      "tileImg": "alchi.jpg",
+      "tileColor": "black",
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "Alchi",
+      "year": "2022",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": ["alchi - mockup.jpg", "alchi - prices posts mockups.jpg"]
+    },
+    {
+      "id": "cniyef",
+      "tag": ["design"],
+      "title": "CNIYEF - Graphic design",
+      "tileImg": "cniyef.jpg",
+      "tileColor": "black",
+      "role": [
+        "Creative Direction",
+        "UI / UX",
+        "Website Development",
+        "ReactJS"
+      ],
+      "client": "CNIYEF",
+      "year": "2022",
+      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "gallery": ["cniyef - mockup.jpg"]
+    }
+  ]
+}
