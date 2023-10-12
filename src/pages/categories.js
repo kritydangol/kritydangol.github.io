@@ -2,11 +2,14 @@ import React, { useEffect, useState } from "react";
 import Nav from "../components/nav";
 import useFetch from "../utils/useFetch";
 import { useParams } from "react-router-dom";
+import { API_URL } from "../utils/constants";
 
 const Categories = () => {
   const { id } = useParams();
-  const { data: projects, error } = useFetch("http://localhost:8000/projects");
+  const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
+
   const [categoryProjects, setCategoryProjects] = useState(projects);
+  // console.log(projects);
 
   useEffect(() => {
     setCategoryProjects(
@@ -14,7 +17,7 @@ const Categories = () => {
     );
   }, [projects, id]);
 
-  console.log(categoryProjects);
+  // console.log(categoryProjects);
   return (
     <>
       <Nav />

@@ -1,8 +1,9 @@
 import React from "react";
 import useFetch from "../utils/useFetch";
+import { API_URL } from "../utils/constants";
 
 const Projects = () => {
-  const { data: projects, error } = useFetch("http://localhost:8000/projects");
+  const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
 
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
