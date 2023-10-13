@@ -59,12 +59,13 @@
 - [x] ~~Dynamic works page~~
 - [x] ~~Categorize designs, development page~~
 - [x] ~~connect backend api~~
+- [x] ~~view projects link update~~
 - [ ] 
-- [ ] view projects link update
 - [ ] add instaline
 - [ ] calculate year dynamically
 - [ ] update category to development, UI/UX, Graphic designing
 - [ ] Add animated icons from lordicon
+- [ ] make all projects page, turn projects section to featured projects, max 6 projects
 - [ ] CV page
 - [ ] 
 - [ ] paragraphs update

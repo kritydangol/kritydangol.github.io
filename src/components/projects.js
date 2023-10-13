@@ -6,7 +6,7 @@ const Projects = () => {
   const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
 
   return (
-    <section className="lg:mx-56 sm:mx-10 mx-5">
+    <section id="projects" className="lg:mx-56 sm:mx-10 mx-5">
       <p className="subH">Selected Projects</p>
       <h3 className="midH">Case Studies</h3>
       {projects ? (
