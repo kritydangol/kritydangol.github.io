@@ -9,7 +9,6 @@ const Categories = () => {
   const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
 
   const [categoryProjects, setCategoryProjects] = useState(projects);
-  // console.log(projects);
 
   useEffect(() => {
     setCategoryProjects(
@@ -17,7 +16,6 @@ const Categories = () => {
     );
   }, [projects, id]);
 
-  // console.log(categoryProjects);
   return (
     <>
       <Nav />

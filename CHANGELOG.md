@@ -58,12 +58,22 @@
 - [x] ~~Make 404 page work~~
 - [x] ~~Dynamic works page~~
 - [x] ~~Categorize designs, development page~~
-- [ ] Mockups - trisara
-- [ ] Mockups
-- [ ] paragraphs update
+- [x] ~~connect backend api~~
+- [ ] 
+- [ ] view projects link update
+- [ ] add instaline
+- [ ] calculate year dynamically
+- [ ] update category to development, UI/UX, Graphic designing
 - [ ] Add animated icons from lordicon
 - [ ] CV page
+- [ ] 
+- [ ] paragraphs update
 - [ ] separate designs, development page, design page (?)
+- [ ] 
+- [ ] Mockups - trisara
+- [ ] Mockups - alchi
+- [ ] Mockups - cniyef
+- [ ] Mockups - instaline
 
 <!-- CheatCodes: -->
 <!-- To do done: alt + c || alt + s -->
