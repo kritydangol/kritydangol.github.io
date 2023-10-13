@@ -2,6 +2,8 @@ import React from "react";
 import ScrollToAnchor from "../../utils/scrollToAnchor";
 
 const Landing = () => {
+  const currentYear = new Date().getFullYear();
+  const totalYears = currentYear - 2021;
   return (
     <section className="grid md:grid-cols-2 gap-4 lg:mx-56 sm:mx-10 mx-5 min-h-screen">
       <ScrollToAnchor />
@@ -10,10 +12,10 @@ const Landing = () => {
           <p className="subH">Krity Dangol</p>
           <h2 className="head">Frontend Developer</h2>
           <p className="mb-6">
-            Over the past 4 years, i have been doing projects as a frontend
-            developer/designer, Lorem ipsum dolor minus laborum accusamus non
-            laudantium accusantium alias vitae aliquam dolor laboriosam quo
-            iusto!
+            Over the past {totalYears} years, i have been doing projects as a
+            frontend developer/designer, Lorem ipsum dolor minus laborum
+            accusamus non laudantium accusantium alias vitae aliquam dolor
+            laboriosam quo iusto!
           </p>
           <a href="/#/home#projects" className="link">
             View Projects
