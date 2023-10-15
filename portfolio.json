@@ -29,7 +29,7 @@
   },
   {
     "id": "serene",
-    "tag": ["development"],
+    "tag": ["development", "ui ux design"],
     "title": "Serene - A Mental Health App",
     "tileImg": "serene.jpg",
     "tileColor": "black",
@@ -63,7 +63,7 @@
   },
   {
     "id": "trisara",
-    "tag": ["development", "ui/ux design"],
+    "tag": ["development", "ui ux design"],
     "title": "Trisara - dynamic website development",
     "tileImg": "trisara.jpg",
     "tileColor": "black",
@@ -99,7 +99,7 @@
   },
   {
     "id": "instaline",
-    "tag": ["ui/ux design"],
+    "tag": ["ui ux design"],
     "title": "Instaline - Graphic design",
     "tileImg": "instaline.jpg",
     "tileColor": "black",

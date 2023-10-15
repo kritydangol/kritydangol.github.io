@@ -3,7 +3,7 @@ import React from "react";
 const Categories = () => {
   const category = [
     { fileName: "development.png", catName: "development" },
-    { fileName: "design.png", catName: "UI/UX design" },
+    { fileName: "design.png", catName: "ui ux design" },
     { fileName: "others.png", catName: "graphic design" },
   ];
   return (
