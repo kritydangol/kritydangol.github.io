@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.03de7b64.css",
-    "main.js": "/static/js/main.062a7ede.js",
+    "main.css": "/static/css/main.d16fbbea.css",
+    "main.js": "/static/js/main.ede7e709.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
     "static/media/alchi - mockup.jpg": "/static/media/alchi - mockup.5d14f8a8b82eadab1328.jpg",
@@ -9,6 +9,8 @@
     "static/media/webfactory-ltd-NoOrDKxUfzo-unsplash.jpg": "/static/media/webfactory-ltd-NoOrDKxUfzo-unsplash.92168d30a267ef2a9aef.jpg",
     "static/media/cniyef - mockup.jpg": "/static/media/cniyef - mockup.3d80ec5e1d29020d80ad.jpg",
     "static/media/cniyef.jpg": "/static/media/cniyef.3d80ec5e1d29020d80ad.jpg",
+    "static/media/instaline- mockup.jpg": "/static/media/instaline- mockup.3d80ec5e1d29020d80ad.jpg",
+    "static/media/instaline.jpg": "/static/media/instaline.3d80ec5e1d29020d80ad.jpg",
     "static/media/PSV all pages blue.jpg": "/static/media/PSV all pages blue.a5869b5a4a83a5fdab1e.jpg",
     "static/media/PSV all pages.jpg": "/static/media/PSV all pages.fc5d8c4e7b98d448f4db.jpg",
     "static/media/PSV family.png": "/static/media/PSV family.14d8b1c6aa7b101c2246.png",
@@ -52,12 +54,12 @@
     "static/media/logo-circle-06.png": "/static/media/logo-circle-06.8b1bcf7ccf814a19be01.png",
     "static/media/logo-long.png": "/static/media/logo-long.bfa45580b4065a57df7e.png",
     "index.html": "/index.html",
-    "main.03de7b64.css.map": "/static/css/main.03de7b64.css.map",
-    "main.062a7ede.js.map": "/static/js/main.062a7ede.js.map",
+    "main.d16fbbea.css.map": "/static/css/main.d16fbbea.css.map",
+    "main.ede7e709.js.map": "/static/js/main.ede7e709.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03de7b64.css",
-    "static/js/main.062a7ede.js"
+    "static/css/main.d16fbbea.css",
+    "static/js/main.ede7e709.js"
   ]
 }
