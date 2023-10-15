@@ -64,7 +64,7 @@
     },
     {
       "id": "trisara",
-      "tag": ["development", "design"],
+      "tag": ["development", "ui/ux design"],
       "title": "Trisara - dynamic website development",
       "tileImg": "trisara.jpg",
       "tileColor": "black",
@@ -81,7 +81,7 @@
     },
     {
       "id": "alchi",
-      "tag": ["design"],
+      "tag": ["graphic design"],
       "title": "Alchi - Graphic design",
       "tileImg": "alchi.jpg",
       "tileColor": "black",
@@ -98,7 +98,7 @@
     },
     {
       "id": "cniyef",
-      "tag": ["design"],
+      "tag": ["graphic design"],
       "title": "CNIYEF - Graphic design",
       "tileImg": "cniyef.jpg",
       "tileColor": "black",

@@ -3,8 +3,8 @@ import React from "react";
 const Categories = () => {
   const category = [
     { fileName: "development.png", catName: "development" },
-    { fileName: "design.png", catName: "design" },
-    { fileName: "others.png", catName: "others" },
+    { fileName: "design.png", catName: "UI/UX design" },
+    { fileName: "others.png", catName: "graphic design" },
   ];
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
