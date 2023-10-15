@@ -63,38 +63,50 @@
   },
   {
     "id": "trisara",
-    "tag": ["development", "design"],
+    "tag": ["development", "ui/ux design"],
     "title": "Trisara - dynamic website development",
     "tileImg": "trisara.jpg",
     "tileColor": "black",
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "Trisara Restaurant",
+    "client": "Trisara",
     "year": "2023",
     "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
     "gallery": ["trisara - mockup.jpg"]
   },
   {
     "id": "alchi",
-    "tag": ["design"],
+    "tag": ["graphic design"],
     "title": "Alchi - Graphic design",
     "tileImg": "alchi.jpg",
     "tileColor": "black",
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "Alchi Store Pvt. Ltd.",
+    "client": "Alchi",
     "year": "2022",
     "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
     "gallery": ["alchi - mockup.jpg", "alchi - prices posts mockups.jpg"]
   },
   {
     "id": "cniyef",
-    "tag": ["design"],
+    "tag": ["graphic design"],
     "title": "CNIYEF - Graphic design",
     "tileImg": "cniyef.jpg",
     "tileColor": "black",
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "Confederation of Nepalese Industries Young Entreprenurs Forum (CNIYEF)",
+    "client": "CNIYEF",
     "year": "2022",
     "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
     "gallery": ["cniyef - mockup.jpg"]
+  },
+  {
+    "id": "instaline",
+    "tag": ["ui/ux design"],
+    "title": "Instaline - Graphic design",
+    "tileImg": "instaline.jpg",
+    "tileColor": "black",
+    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
+    "client": "Instaline",
+    "year": "2022",
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+    "gallery": ["instaline - mockup.jpg"]
   }
 ]
