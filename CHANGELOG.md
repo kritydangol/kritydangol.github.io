@@ -65,6 +65,7 @@
 - [x] ~~update category to development, UI/UX, Graphic designing~~
 - [x] ~~Add animated icons from lordicon~~
 - [ ] 
+- [ ] add NMS Agro
 - [ ] make all projects page, turn projects section to featured projects, max 6 projects
 - [ ] CV page
 - [ ] 
