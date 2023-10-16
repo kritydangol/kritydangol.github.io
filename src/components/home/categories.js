@@ -2,9 +2,9 @@ import React from "react";
 
 const Categories = () => {
   const category = [
-    { fileName: "development.png", catName: "development" },
-    { fileName: "design.png", catName: "ui ux design" },
-    { fileName: "others.png", catName: "graphic design" },
+    { fileName: "development.gif", catName: "development" },
+    { fileName: "design.gif", catName: "ui ux design" },
+    { fileName: "graphic.gif", catName: "graphic design" },
   ];
   return (
     <section className="lg:mx-56 sm:mx-10 mx-5">
@@ -19,11 +19,15 @@ const Categories = () => {
           >
             <div className="rounded-md p-7 text-center">
               <img
-                className="w-[70%] mx-auto"
-                src={require(`../../assets/images/${item.fileName}`)}
+                className="w-[25%] mx-auto"
+                src={require(`../../assets/images/categories/${item.fileName}`)}
                 alt={item.catName}
               />
-              <h3 className="smallH capitalize pt-7">{item.catName}</h3>
+              <h3 className="smallH capitalize pt-7">
+                {item.catName === "ui ux design"
+                  ? "UI/UX Design"
+                  : item.catName}
+              </h3>
             </div>
           </a>
         ))}

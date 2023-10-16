@@ -61,9 +61,9 @@
 - [x] ~~connect backend api~~
 - [x] ~~view projects link update~~
 - [x] ~~calculate year dynamically~~
+- [x] ~~add instaline~~
+- [x] ~~update category to development, UI/UX, Graphic designing~~
 - [ ] 
-- [ ] add instaline
-- [ ] update category to development, UI/UX, Graphic designing
 - [ ] Add animated icons from lordicon
 - [ ] make all projects page, turn projects section to featured projects, max 6 projects
 - [ ] CV page
