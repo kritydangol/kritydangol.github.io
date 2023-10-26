@@ -261,7 +261,7 @@ label a:hover {
 
 .loader-component .loader-container {
   position: relative;
-  height: 400px;
+  height: 200px;
 }
 
 .loader-component h1 {
@@ -272,7 +272,7 @@ label a:hover {
 
 .loader-component .loader-container .loader {
   position: absolute;
-  top: 75%;
+  top: 50%;
   left: 50%;
   z-index: 10;
   width: 160px;
