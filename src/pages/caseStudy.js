@@ -3,6 +3,7 @@ import Nav from "../components/nav";
 import useFetch from "../utils/useFetch";
 import { useParams } from "react-router-dom";
 import { API_URL } from "../utils/constants";
+import Loader from "../components/loader";
 
 const CaseStudy = () => {
   const { id } = useParams();
@@ -57,7 +58,7 @@ const CaseStudy = () => {
       ) : error ? (
         <p>{error}</p>
       ) : (
-        <p>Loading...</p>
+        <Loader />
       )}
     </>
   );
