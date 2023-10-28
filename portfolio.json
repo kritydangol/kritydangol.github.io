@@ -74,9 +74,21 @@
     "gallery": ["trisara - mockup.jpg"]
   },
   {
+    "id": "instaline",
+    "tag": ["ui ux design"],
+    "title": "Instaline - UI/UX Design",
+    "tileImg": "instaline.jpg",
+    "tileColor": "black",
+    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
+    "client": "Instaline",
+    "year": "2023",
+    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+    "gallery": ["instaline - mockup.jpg"]
+  },
+  {
     "id": "alchi",
     "tag": ["graphic design"],
-    "title": "Alchi - Graphic design",
+    "title": "Alchi - Social Media",
     "tileImg": "alchi.jpg",
     "tileColor": "black",
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
@@ -88,7 +100,7 @@
   {
     "id": "cniyef",
     "tag": ["graphic design"],
-    "title": "CNIYEF - Graphic design",
+    "title": "CNIYEF - Social Media",
     "tileImg": "cniyef.jpg",
     "tileColor": "black",
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
@@ -98,21 +110,9 @@
     "gallery": ["cniyef - mockup.jpg"]
   },
   {
-    "id": "instaline",
-    "tag": ["ui ux design"],
-    "title": "Instaline - Graphic design",
-    "tileImg": "instaline.jpg",
-    "tileColor": "black",
-    "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
-    "client": "Instaline",
-    "year": "2022",
-    "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
-    "gallery": ["instaline - mockup.jpg"]
-  },
-  {
     "id": "nmsagro",
     "tag": ["graphic design"],
-    "title": "NMS Agro - Graphic design",
+    "title": "NMS Agro - Social Media",
     "tileImg": "nmsagro.jpg",
     "tileColor": "black",
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
