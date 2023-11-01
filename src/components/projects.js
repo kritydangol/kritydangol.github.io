@@ -1,6 +1,7 @@
 import React from "react";
 import useFetch from "../utils/useFetch";
 import { API_URL } from "../utils/constants";
+import Loader from "./loader";
 
 const Projects = () => {
   const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
@@ -45,7 +46,7 @@ const Projects = () => {
       ) : error ? (
         <p>{error}</p>
       ) : (
-        <p>Loading...</p>
+        <Loader />
       )}
     </section>
   );

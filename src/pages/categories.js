@@ -3,6 +3,7 @@ import Nav from "../components/nav";
 import useFetch from "../utils/useFetch";
 import { useParams } from "react-router-dom";
 import { API_URL } from "../utils/constants";
+import Loader from "../components/loader";
 
 const Categories = () => {
   const { id } = useParams();
@@ -20,10 +21,12 @@ const Categories = () => {
     <>
       <Nav />
       <div className="pt-[100px]">
-        <section className="lg:mx-56 sm:mx-10 mx-5">
-          <p className="subH">Selected Projects</p>
-          <h3 className="midH">Case Studies</h3>
-          {projects ? (
+        {projects ? (
+          <section className="lg:mx-56 sm:mx-10 mx-5">
+            <p className="subH">Selected Projects</p>
+            <h3 className="midH capitalize mb-4">
+              {id === "ui ux design" ? "UI/UX Design" : `${id}`}
+            </h3>
             <div className="grid sm:grid-cols-2 gap-4 pb-10">
               {/* mapping projects */}
               {categoryProjects?.map((project) => (
@@ -56,12 +59,12 @@ const Categories = () => {
                 </a>
               ))}
             </div>
-          ) : error ? (
-            <p>{error}</p>
-          ) : (
-            <p>Loading...</p>
-          )}
-        </section>
+          </section>
+        ) : error ? (
+          <p>{error}</p>
+        ) : (
+          <Loader />
+        )}
       </div>
     </>
   );
