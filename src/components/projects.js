@@ -9,7 +9,7 @@ const Projects = () => {
   return (
     <section id="projects" className="lg:mx-56 sm:mx-10 mx-5">
       <p className="subH">Selected Projects</p>
-      <h3 className="midH">Case Studies</h3>
+      <h3 className="midH">Recent Work</h3>
       {projects ? (
         <div className="grid sm:grid-cols-2 gap-4 pb-10">
           {/* mapping projects */}
