@@ -3,9 +3,10 @@ import useFetch from "../utils/useFetch";
 import { API_URL } from "../utils/constants";
 import Loader from "./loader";
 
-const Projects = () => {
+const SelectedProjects = () => {
   const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
-
+  console.log(projects);
+  
   return (
     <section id="projects" className="lg:mx-56 sm:mx-10 mx-5">
       <p className="subH">Selected Projects</p>
@@ -52,4 +53,4 @@ const Projects = () => {
   );
 };
 
-export default Projects;
+export default SelectedProjects;
