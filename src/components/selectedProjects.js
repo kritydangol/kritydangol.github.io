@@ -8,7 +8,7 @@ const SelectedProjects = () => {
   console.log(projects);
   
   return (
-    <section id="projects" className="lg:mx-56 sm:mx-10 mx-5">
+    <section id="projects" className="lg:mx-56 sm:mx-10 mx-5 mt-10">
       <p className="subH">Selected Projects</p>
       <h3 className="midH">Recent Work</h3>
       {projects ? (

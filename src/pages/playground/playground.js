@@ -13,7 +13,83 @@ const Playground = () => {
         <button onClick={() => setSidebarCollapsed(!collapsed)}>close</button>
       </div>
       {/* content */}
-      <div className="">kjfnksejdn</div>
+      <div className="">
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+        <p>kjfnksejdn</p>
+      </div>
     </div>
   );
 };
