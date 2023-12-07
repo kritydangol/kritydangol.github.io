@@ -10,6 +10,8 @@ const Playground = () => {
     >
       {/* sidebar */}
       <div className="bg-indigo-700 text-white">
+        {!collapsed && <span className="whitespace-nowrap">My Logo</span>}
+
         <button onClick={() => setSidebarCollapsed(!collapsed)}>close</button>
       </div>
       {/* content */}
