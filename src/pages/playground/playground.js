@@ -33,7 +33,7 @@ const Playground = () => {
     >
       {/* sidebar */}
       {/* https://reacthustle.com/blog/nextjs-react-responsive-collapsible-sidebar-tailwind#step-4-creating-the-sidebar-component */}
-      <div className="bg-indigo-700 text-white">
+      <div className="bg-green-700 text-white">
         <button onClick={() => setSidebarCollapsed(!collapsed)}>close</button>
         {!collapsed && <span className="whitespace-nowrap">My Logo</span>}
 
@@ -44,7 +44,7 @@ const Playground = () => {
               return (
                 <li
                   key={index}
-                  className={`text-indigo-100 hover:bg-indigo-900 flex transition-colors duration-300"
+                  className={`text-green-100 hover:bg-green-900 flex transition-colors duration-300"
                     ${
                       collapsed
                         ? "rounded-full p-2 mx-3 w-10 h-10"
