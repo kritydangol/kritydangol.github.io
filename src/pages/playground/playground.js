@@ -31,7 +31,7 @@ const Playground = () => {
         collapsed ? "grid-cols-sidebar-collapsed" : "grid-cols-sidebar"
       } transition-[grid-template-columns] duration-300 ease-in-out`}
     >
-      {/* sidebarr */}
+      {/* sidebar */}
       {/* https://reacthustle.com/blog/nextjs-react-responsive-collapsible-sidebar-tailwind#step-4-creating-the-sidebar-component */}
       <div className="bg-green-700 text-white">
         <button onClick={() => setSidebarCollapsed(!collapsed)}>close</button>
