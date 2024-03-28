@@ -7,7 +7,7 @@ const Categories = () => {
     { fileName: "graphic.gif", catName: "graphic design" },
   ];
   return (
-    <section className="lg:mx-56 sm:mx-10 mx-5">
+    <section className="">
       <p className="subH">Selected</p>
       <h3 className="midH">Categories</h3>
       <div className="grid sm:grid-cols-3 gap-4">

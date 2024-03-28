@@ -9,9 +9,11 @@ const Home = () => {
     <>
       <Nav />
       <Landing />
-      <Projects />
-      <SelectedProjects />
-      <Categories />
+      <div className="max-w-screen-2xl md:px-10 px-5 mx-auto">
+        <SelectedProjects />
+        <Projects />
+        <Categories />
+      </div>
     </>
   );
 };

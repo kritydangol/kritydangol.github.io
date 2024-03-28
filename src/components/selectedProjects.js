@@ -5,14 +5,13 @@ import Loader from "./loader";
 
 const SelectedProjects = () => {
   const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
-  console.log(projects);
-  
+
   return (
-    <section id="projects" className="lg:mx-56 sm:mx-10 mx-5 mt-10">
-      <p className="subH">Selected Projects</p>
-      <h3 className="midH">Recent Work</h3>
+    <section id="projects" className="mt-10">
+      <p className="subH">Top Projects</p>
+      <h3 className="midH">Selected Work</h3>
       {projects ? (
-        <div className="grid sm:grid-cols-2 gap-4 pb-10">
+        <div className="grid xl:grid-cols-3 md:grid-cols-2 gap-4 pb-10">
           {/* mapping projects */}
           {projects.map((project) => (
             <a
@@ -20,7 +19,7 @@ const SelectedProjects = () => {
               className="hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
               href={`/#/projects/` + project.id}
             >
-              <div className="md:h-[80vh] h-[60vh] rounded-md p-7">
+              <div className="md:h-[55vh] h-[60vh] rounded-md p-7">
                 <p className="subH mb-0">
                   {project.tag[0]} {project.tag[1] && "| " + project.tag[1]}
                 </p>

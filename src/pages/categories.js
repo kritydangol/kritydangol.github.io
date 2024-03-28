@@ -22,7 +22,7 @@ const Categories = () => {
       <Nav />
       <div className="pt-[100px]">
         {projects ? (
-          <section className="lg:mx-56 sm:mx-10 mx-5">
+          <section className="">
             <p className="subH">Selected Projects</p>
             <h3 className="midH capitalize mb-4">
               {id === "ui ux design" ? "UI/UX Design" : `${id}`}

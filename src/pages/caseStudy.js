@@ -16,7 +16,7 @@ const CaseStudy = () => {
   return (
     <>
       <Nav />
-      <section className="pt-[100px] lg:mx-56 sm:mx-10 mx-5 pb-2">
+      <section className="max-w-screen-2xl md:px-10 px-5 mx-auto pt-[100px] pb-2">
         {caseStudy ? (
           <>
             <div className="mb-20 md:grid md:grid-cols-2 gap-4">
