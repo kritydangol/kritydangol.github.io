@@ -13,6 +13,8 @@ const CaseStudy = () => {
   useEffect(() => {
     setCaseStudy(projects?.filter((project) => project.id.includes(id)));
   }, [projects, id]);
+
+  // console.log(caseStudy[0].tag.length);
   return (
     <>
       <Nav />
@@ -21,12 +23,19 @@ const CaseStudy = () => {
           <>
             <div className="mb-20 md:grid md:grid-cols-2 gap-4">
               <div>
-                <h5 className="subH pt-5">{caseStudy[0].tag}</h5>
+                <h5 className="pt-5">
+                  {caseStudy[0].tag.map((tag, index) => (
+                    <span className="subH" key={index}>
+                      {tag}
+                      {index < caseStudy[0].tag.length - 1 ? " | " : ""}
+                    </span>
+                  ))}
+                </h5>
                 <h1 className="text-3xl">{caseStudy[0].title}</h1>
                 <h5 className="subH pt-5">My role</h5>
                 <h4>
-                  {caseStudy[0].role.map((role) => (
-                    <p key={role}>{role}</p>
+                  {caseStudy[0].role.map((role, index) => (
+                    <p key={index}>{role}</p>
                   ))}
                 </h4>
                 <h5 className="subH pt-5">Client</h5>
@@ -46,10 +55,11 @@ const CaseStudy = () => {
             </div>
             {caseStudy[0].gallery[0] && (
               <div className="images">
-                {caseStudy[0].gallery.map((item) => (
+                {caseStudy[0].gallery.map((item, index) => (
                   <img
                     src={require(`../assets/images/mockups/${caseStudy[0].id}/${item}`)}
                     alt={item}
+                    key={index}
                     className="mb-7 border border-neutral-300 rounded"
                   />
                 ))}

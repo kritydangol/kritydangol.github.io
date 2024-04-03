@@ -23,7 +23,12 @@ const SelectedProjects = () => {
               >
                 <div className="md:h-[55vh] h-[60vh] rounded-md p-7">
                   <p className="subH mb-0">
-                    {project.tag[0]} {project.tag[1] && "| " + project.tag[1]}
+                    {project.tag.map((tag, index) => (
+                      <span className="subH" key={index}>
+                        {tag}
+                        {index < project.tag.length - 1 ? " | " : ""}
+                      </span>
+                    ))}
                   </p>
                   <h1
                     className={`smallH max-w-[380px] font-[700] capitalize ${
