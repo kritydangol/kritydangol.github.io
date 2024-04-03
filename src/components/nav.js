@@ -10,7 +10,7 @@ const Nav = () => {
       <a href="/#/home" className="logo">
         <img src={require("../assets/images/logo-circle-06.png")} alt="Logo" />
         <h2>Krity Dangol</h2>
-        <p>Front-end Developer</p>
+        <p>Frontend Developer</p>
       </a>
       {/* open full page menu */}
       <span className="toggleMenu" onClick={toggleMenu}>
