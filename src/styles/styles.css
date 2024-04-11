@@ -27,6 +27,7 @@ h6 {
 
 .midH {
   font-size: 2.5rem;
+  @apply pb-3;
 }
 
 .smallH {
