@@ -51,7 +51,7 @@ const CaseStudy = () => {
                 <h5 className="subH pt-5">Year</h5>
                 <h4>{caseStudy[0].year}</h4>
               </div>
-              <p className="pt-14">{caseStudy[0].desc} </p>
+              <p className="pt-14 whitespace-pre-wrap	">{caseStudy[0].desc} </p>
             </div>
             {caseStudy[0].gallery[0] && (
               <div className="images">
