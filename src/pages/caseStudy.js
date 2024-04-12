@@ -39,12 +39,8 @@ const CaseStudy = () => {
                   ))}
                 </h4>
                 <h5 className="subH pt-5">Client</h5>
-                <h4>
-                  <a
-                    href="https://parthstudent.vc/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
+                <h4 className="cursor-pointer">
+                  <a href={caseStudy[0].link} target="_blank" rel="noreferrer">
                     {caseStudy[0].client}
                   </a>
                 </h4>
