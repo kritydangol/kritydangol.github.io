@@ -45,7 +45,7 @@
       ],
       "client": "Motivate Nepalese",
       "year": "2023",
-      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "desc": "Serene, a project developed for Motivate Nepalese as a final year project at Islington College, is a mental health support platform. Utilizing Figma for design and the MERN stack for development, Serene offers a responsive and intuitive user experience. \n\nThe platform includes features such as mental health tests for depression and anxiety, journal creation and editing, and a chat function to connect users with supportive volunteers. Serene also provides information about helplines available in Nepal, contact details of mental health professionals, and access to self-help books. Along with this, the platform also includes an avatar picker with self-updating avatars, adding a personalized touch to the user experience. Through these features, Serene aims to provide a holistic approach to mental health support, empowering individuals to take control of their mental well-being.",
       "gallery": [
         "serene - mockup.jpg",
         "1.jpg",
@@ -80,7 +80,7 @@
       ],
       "client": "Trisara",
       "year": "2023",
-      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "desc": "The Trisara Restaurant website, crafted with Figma for design and React for development, prioritizes a seamless user experience. Its responsive design ensures optimal performance across devices, while the dynamic menu page offers an interactive exploration of the restaurant's offerings. \n\nEach outlet of the various franchises is uniquely represented through dynamic URLs, enhancing local presence. The website's UI/UX design focuses on user engagement and easy navigation, reflecting Trisara's commitment to excellence. Through its use of technology and design, the website aims to create a digital experience that mirrors the restaurant's reputation for exceptional service and culinary mastery.",
       "gallery": ["trisara - mockup.jpg"]
     },
     {
