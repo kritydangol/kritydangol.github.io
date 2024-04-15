@@ -32,7 +32,7 @@
       "id": "serene",
       "tag": ["development", "ui ux design"],
       "title": "Serene - A Mental Health App",
-      "link": "",
+      "link": "https://www.instagram.com/motivate.nepalese/",
       "tileImg": "serene.jpg",
       "tileColor": "black",
       "selected": false,
@@ -99,7 +99,7 @@
       ],
       "client": "Instaline",
       "year": "2023",
-      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "desc": "Instaline's design project, executed using Figma, focuses on creating a visually appealing and user-friendly experience. It includes wireframing, and UI/UX design for a mobile app. The project also involves maintaining the brand guidelines for consistency and coherence across platforms. \n\nEvery page was designed according to client needs, incorporating their vision and requirements into the design process. The project aimed to deliver a cohesive and aesthetically pleasing design that meets the client's needs and reflects their brand identity. Through meticulous planning and execution, the project ensures that the final design not only looks appealing but also provides a seamless user experience.",
       "gallery": ["instaline - mockup.jpg"]
     },
     {
@@ -118,7 +118,7 @@
       ],
       "client": "Alchi",
       "year": "2022",
-      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "desc": "Alchi's social media posts and stories were made visually captivating using Illustrator. Alchi's values emphasize culture as a bridge connecting people, fostering understanding, respect, and unity. Their mission is to promote cultural appreciation and awareness through engaging board games. The designs aimed to engage the audience and align with Alchi's mission of promoting cultural appreciation and awareness through board games. \n\nThe visually appealing content helped enhance Alchi's online presence, reflecting their values and mission. Through engaging visuals, the company's message of cultural appreciation and unity was effectively communicated to the audience.",
       "gallery": ["alchi - mockup.jpg", "alchi - prices posts mockups.jpg"]
     },
     {
@@ -137,7 +137,7 @@
       ],
       "client": "CNIYEF",
       "year": "2022",
-      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
+      "desc": "For CNIYEF, Canva was used to create visually engaging social media posts. The project involved designing two scheduled posts per week, as well as festival posts for Dashain and Tihar. The goal was to enhance CNIYEF's online presence and engage its audience effectively. \n\nThe designs were tailored to reflect the forum's values of grooming young business leaders and fostering innovation. By focusing on creating visually appealing content that resonated with the audience, the project aimed to communicate CNIYEF's mission of empowering young entrepreneurs and shaping the future of Nepal's business landscape.",
       "gallery": ["cniyef - mockup.jpg"]
     },
     {
@@ -156,8 +156,8 @@
       ],
       "client": "NMS Agro",
       "year": "2022",
-      "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?Lorem ipsum dolor, sit amet consectetur adipisicing elit. \n Vitae iste quisquam sunt assumenda expedita molestias molestiae incidunt et. Consectetur minima at cumque esse blanditiis qui corporis tenetur voluptatibus necessitatibus! Sequi?",
-      "gallery": ["nmsagro - mockup.jpg"]
+      "desc": "I created festival-themed posts for NMS Agro using Illustrator, featuring their buffalo mascot, Tikhe. The posts were designed for Dhaan Ropai Diwas, Dashain, Deepawali, and Chhat, aligning with the company's agricultural focus and festive spirit. \n\nNMS Agro, an agricultural trading company, imports fertilizers, pesticides, and agriculture-related products from India for marketing in Nepal. The designs enhanced NMS Agro's online presence, showcasing their festive spirit and agricultural offerings. By incorporating Tikhe, the company's mascot, the posts effectively engaged their audience during these festive occasions, communicating NMS Agro's activities and reinforcing its brand identity.",
+      "gallery": ["nmsagro - mockup.jpg", "nmsagro-posts.jpg"]
     }
   ]
 }
