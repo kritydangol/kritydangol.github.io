@@ -19,7 +19,7 @@ function Menu() {
     },
   ];
   return (
-    <div className="menu table w-screen h-screen">
+    <div className="menu table w-screen h-screen bg-[#f8f7ff]">
       <div className="nav-links table-cell align-middle p-10 text-2xl leading-[6vh]">
         <ul>
           {menuItems.map((item) => (
