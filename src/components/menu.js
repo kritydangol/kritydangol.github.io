@@ -13,10 +13,10 @@ function Menu() {
       name: "Home real",
       link: "/#/home",
     },
-    {
-      name: "Case Study",
-      link: "/#/caseStudy",
-    },
+    // {
+    //   name: "Case Study",
+    //   link: "/#/caseStudy",
+    // },
   ];
   return (
     <div className="menu table w-screen h-screen bg-[#f8f7ff]">
