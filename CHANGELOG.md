@@ -81,3 +81,6 @@
 <!-- To do done: alt + c || alt + s -->
 <!-- Table of contents: ctrl + shift + p, Create Table of Contents -->
 <!-- Preview: ctrl + shift + v -->
+
+<!-- https://www.freecodecamp.org/news/how-to-build-a-dark-mode-switcher-with-tailwind-css-and-flowbite/
+https://flowbite.com/docs/customize/dark-mode/ -->

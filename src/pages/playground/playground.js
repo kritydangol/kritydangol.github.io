@@ -1,5 +1,6 @@
 // components/Playground.tsx
 import React, { useState } from "react";
+import "./playground.css"
 import { RxCross1 } from "react-icons/rx";
 const Playground = () => {
   const [collapsed, setSidebarCollapsed] = useState(false);
