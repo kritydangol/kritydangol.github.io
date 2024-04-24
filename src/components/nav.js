@@ -1,18 +1,56 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { MenuContext } from "react-flexible-sliding-menu";
 import { AiOutlineMenu } from "react-icons/ai";
 
 const Nav = () => {
   const { toggleMenu } = useContext(MenuContext);
 
-  return (
-    <nav id="nav">
-      <a href="/#/home" className="logo z-10">
-        <img src={require("../assets/images/logo-circle-06.png")} alt="Logo" />
-        <h2>Krity Dangol</h2>
-        <p>Frontend Developer</p>
-      </a>
+  // visibile when scrolling top
+  const [prevScrollPos, setPrevScrollPos] = useState(0);
+  const [visible, setVisible] = useState(true);
 
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentScrollPos = window.scrollY;
+      setVisible(prevScrollPos > currentScrollPos || currentScrollPos < 20);
+      setPrevScrollPos(currentScrollPos);
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, [prevScrollPos]);
+
+  // color change while scrolling
+  const [color, setColor] = useState(false);
+
+  const changeColor = () => {
+    if (window.scrollY <= 50) {
+      setColor(false);
+    } else {
+      setColor(true);
+    }
+  };
+
+  window.addEventListener("scroll", changeColor);
+  return (
+    <nav
+      className={`fixed w-screen p-6 xl:px-[35px] lg:px-6 px-4 z-[998] transition-all duration-500 ease-in-out ${
+        visible ? "visible opacity-100" : "invisible opacity-0"
+      } ${color ? "bg-white border-b border-slate-300" : ""}`}
+    >
+      {/* <div className="mx-auto flex items-center justify-between mr-3"> */}
+      <a href="/#/home" className="logo z-10 flex w-fit">
+        <img
+          className="w-12 h-12 mr-2 object-cover"
+          src={require("../assets/images/logo-circle-06.png")}
+          alt="Logo"
+        />
+        <div className="w-fit">
+          <h2 className="w-fit">Krity Dangol</h2>
+          <p className="w-fit">Frontend Developer</p>
+        </div>
+      </a>
       <label className="toggle z-10" for="switch">
         <input id="switch" className="input" type="checkbox" />
         <div className="icon icon--moon">
@@ -30,7 +68,6 @@ const Nav = () => {
             ></path>
           </svg>
         </div>
-
         <div className="icon icon--sun">
           <svg
             height="32"
@@ -43,11 +80,11 @@ const Nav = () => {
           </svg>
         </div>
       </label>
-
       {/* open full page menu */}
       <span className="toggleMenu z-10" onClick={toggleMenu}>
         <AiOutlineMenu />
       </span>
+      {/* </div> */}
     </nav>
   );
 };

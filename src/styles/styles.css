@@ -64,7 +64,7 @@ h6 {
   height: 100px;
 }
 
-nav .logo {
+.nav .logo {
   font-weight: 900;
   text-decoration: none;
   margin: 35px 0px 0px 35px;
@@ -73,20 +73,20 @@ nav .logo {
   left: 0;
 }
 
-nav .logo h2,
-nav .logo p {
+.nav .logo h2,
+.nav .logo p {
   width: 200px;
   display: inline-block;
   position: fixed;
   left: 85px;
 }
 
-nav .logo h2 {
+.nav .logo h2 {
   font-size: 20px;
   top: 35px;
 }
 
-nav .logo p {
+.nav .logo p {
   letter-spacing: 0.4px;
   margin-left: 1px;
   font-size: 12px;
@@ -95,7 +95,7 @@ nav .logo p {
   top: 61px;
 }
 
-nav img {
+.nav img {
   width: 42px;
 }
 
