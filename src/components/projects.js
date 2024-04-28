@@ -18,7 +18,7 @@ const Projects = () => {
             .map((project) => (
               <a
                 key={project.id}
-                className="hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
+                className="link hover:scale-[1.02] transition ease-in-out border-solid border-2 border-neutral-200 rounded-lg"
                 href={`/#/projects/` + project.id}
               >
                 <div className="md:h-[55vh] h-[60vh] rounded-md p-7">
