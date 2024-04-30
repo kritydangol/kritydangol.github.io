@@ -12,7 +12,7 @@ const Projects = () => {
       <h3 className="midH">Recent Works</h3>
       {projects ? (
         <div className="grid xl:grid-cols-3 md:grid-cols-2 gap-4 pb-10">
-          {/* mapping projects */}
+          mapping projects
           {projects
             .filter((project) => !project.selected)
             .map((project) => (
