@@ -20,14 +20,14 @@ const Categories = () => {
   return (
     <>
       <Nav />
-      <div className="pt-[100px]">
+      <div className="pt-[100px] max-w-screen-2xl mx-auto md:px-10 px-5">
         {projects ? (
           <section className="">
             <p className="subH">Selected Projects</p>
             <h3 className="midH capitalize mb-4">
               {id === "ui ux design" ? "UI/UX Design" : `${id}`}
             </h3>
-            <div className="grid sm:grid-cols-2 gap-4 pb-10">
+            <div className="grid sm:grid-cols-3 gap-4 pb-10">
               {/* mapping projects */}
               {categoryProjects?.map((project) => (
                 <a
