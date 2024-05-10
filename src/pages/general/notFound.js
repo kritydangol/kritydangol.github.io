@@ -5,9 +5,9 @@ const NotFound = () => {
   return (
     <>
       <Nav />
-      <div className="text-center mt-[20vh]">
+      <div className="text-center h-[100vh] grid place-content-center">
         <img
-          className="mx-auto w-96"
+          className="w-96"
           src={require("../../assets/images/404.png")}
           alt="404"
         />

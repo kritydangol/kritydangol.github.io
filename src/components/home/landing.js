@@ -31,7 +31,7 @@ const Landing = () => {
             accusamus non laudantium accusantium alias vitae aliquam dolor
             laboriosam quo iusto!
           </p>
-          <a href="/#/home#projects" className="link">
+          <a href="/#/#projects" className="link">
             View Projects
           </a>
           &nbsp;&nbsp;or&nbsp;&nbsp;

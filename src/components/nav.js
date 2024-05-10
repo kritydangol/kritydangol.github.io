@@ -40,7 +40,7 @@ const Nav = () => {
       } ${color ? "bg-white border-b border-slate-300" : ""}`}
     >
       {/* <div className="mx-auto flex items-center justify-between mr-3"> */}
-      <a href="/#/home" className="logo z-10 flex w-fit">
+      <a href="/" className="logo z-10 flex w-fit">
         <img
           className="w-12 h-12 mr-2 object-cover"
           src={require("../assets/images/logo-circle-06.png")}

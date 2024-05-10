@@ -19,8 +19,8 @@ const Routing = () => {
     <Router>
       <ToTop />
       <Routes>
-        <Route exact path="/" element={<Const />} />
-        <Route exact path="/home" element={<Home />} />
+        {/* <Route exact path="/" element={<Const />} /> */}
+        <Route exact path="/" element={<Home />} />
         <Route exact path="/categories/:id" element={<Categories />} />
         <Route exact path="/projects/:id" element={<CaseStudy />} />
         <Route exact path="/playground" element={<Playground />} />
