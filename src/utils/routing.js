@@ -5,7 +5,8 @@ import React from "react";
 // import Const from "../pages/construction";
 import Home from "../pages/home";
 import CaseStudy from "../pages/caseStudy";
-import Categories from "../pages/categories";
+import Categories from "../pages/categories/categories";
+import SubCategories from "../pages/categories/subCategories";
 import Playground from "../pages/playground/playground";
 
 // general
@@ -21,7 +22,11 @@ const Routing = () => {
       <Routes>
         {/* <Route exact path="/" element={<Const />} /> */}
         <Route exact path="/" element={<Home />} />
-        <Route exact path="/categories/:id" element={<Categories />} />
+
+        {/* categories */}
+        <Route exact path="/categories" element={<Categories />} />
+        <Route exact path="/categories/:id" element={<SubCategories />} />
+
         <Route exact path="/projects/:id" element={<CaseStudy />} />
         <Route exact path="/playground" element={<Playground />} />
         {/* <Route exact path="/404" element={<NotFound />} /> */}
