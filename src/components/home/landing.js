@@ -35,7 +35,7 @@ const Landing = () => {
             View Projects
           </a>
           &nbsp;&nbsp;or&nbsp;&nbsp;
-          <a href="/#/home" className="link">
+          <a href="/" className="link">
             Download CV
           </a>
         </div>

@@ -9,12 +9,18 @@ const Projects = () => {
   return (
     <section id="projects" className="mt-10">
       <p className="subH">Other Projects</p>
-      <h3 className="midH">Recent Works</h3>
+      <div className="flex justify-between items-center">
+        <h3 className="midH">Recent Works</h3>
+        <a className="link" href="/#/categories">
+          View More
+        </a>
+      </div>
       {projects ? (
         <div className="grid xl:grid-cols-3 md:grid-cols-2 gap-4 pb-10">
           {/* mapping projects */}
           {projects
             .filter((project) => !project.selected)
+            .slice(0, 3)
             .map((project) => (
               <a
                 key={project.id}

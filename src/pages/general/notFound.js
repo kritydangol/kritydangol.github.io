@@ -13,7 +13,7 @@ const NotFound = () => {
         />
         <h1 className="text-4xl">Page Not Found</h1>
         <p className="pt-3 pb-8">Are you lost, baby gorl?</p>
-        <a href="/#/home" className="link">
+        <a href="/" className="link w-fit mx-auto">
           Go Home
         </a>
       </div>

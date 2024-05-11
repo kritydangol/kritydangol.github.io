@@ -252,8 +252,8 @@ label a:hover {
 
 .toggleMenu {
   position: fixed;
-  top: 5vh;
-  right: 5vh;
+  top: 3.5vh;
+  right: 4vh;
   cursor: pointer;
   font-size: 25px;
 }
