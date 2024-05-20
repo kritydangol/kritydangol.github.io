@@ -9,6 +9,10 @@ function Menu() {
       name: "Home",
       link: "/",
     },
+    {
+      name: "Works",
+      link: "/#/categories",
+    },
     // {
     //   name: "Home real",
     //   link: "/#/home",

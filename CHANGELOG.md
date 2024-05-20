@@ -65,12 +65,12 @@
 - [x] ~~update category to development, UI/UX, Graphic designing~~
 - [x] ~~Add animated icons from lordicon~~
 - [ ] 
-- [ ] add NMS Agro
-- [ ] make all projects page, turn projects section to featured projects, max 6 projects
+- [x] ~~add NMS Agro~~
+- [x] ~~make all projects page, turn projects section to featured projects, max 6 projects~~
 - [ ] CV page
 - [ ] 
-- [ ] paragraphs update
-- [ ] separate designs, development page, design page (?)
+- [x] ~~paragraphs update~~
+- [x] ~~separate designs, development page, design page (?)~~
 - [ ] 
 - [ ] Mockups - trisara
 - [ ] Mockups - alchi
