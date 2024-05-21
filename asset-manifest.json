@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.242430dc.css",
-    "main.js": "/static/js/main.14bc8e59.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/static/css/main.84ff86ca.css",
+    "main.js": "/static/js/main.50ed5885.js",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
     "static/media/alchi - mockup.jpg": "/static/media/alchi - mockup.5d14f8a8b82eadab1328.jpg",
     "static/media/alchi.jpg": "/static/media/alchi.5d14f8a8b82eadab1328.jpg",
@@ -16,11 +15,8 @@
     "static/media/PSV all pages.jpg": "/static/media/PSV all pages.fc5d8c4e7b98d448f4db.jpg",
     "static/media/nms agro2.jpg": "/static/media/nms agro2.4e9073eb2f9171595869.jpg",
     "static/media/PSV family.png": "/static/media/PSV family.14d8b1c6aa7b101c2246.png",
-    "static/media/design.gif": "/static/media/design.06893526876251618e28.gif",
     "static/media/nmsagro - mockup.jpg": "/static/media/nmsagro - mockup.56809a9fd7711596f7ce.jpg",
     "static/media/nmsagro.jpg": "/static/media/nmsagro.245c9e6b54dd05d2e5c6.jpg",
-    "static/media/graphic.gif": "/static/media/graphic.ed443ffe5ced86bd693b.gif",
-    "static/media/development.gif": "/static/media/development.f281e2c41ea0c3a105fb.gif",
     "static/media/nms agro1.jpg": "/static/media/nms agro1.149d21e6af5938df893a.jpg",
     "static/media/PSV - all pages.jpg": "/static/media/PSV - all pages.0f5bbdaeece7cabf19d5.jpg",
     "static/media/nms agro.jpg": "/static/media/nms agro.8645d1e4235137749ed1.jpg",
@@ -58,12 +54,11 @@
     "static/media/logo-circle-06.png": "/static/media/logo-circle-06.8b1bcf7ccf814a19be01.png",
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
-    "main.242430dc.css.map": "/static/css/main.242430dc.css.map",
-    "main.14bc8e59.js.map": "/static/js/main.14bc8e59.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.84ff86ca.css.map": "/static/css/main.84ff86ca.css.map",
+    "main.50ed5885.js.map": "/static/js/main.50ed5885.js.map"
   },
   "entrypoints": [
-    "static/css/main.242430dc.css",
-    "static/js/main.14bc8e59.js"
+    "static/css/main.84ff86ca.css",
+    "static/js/main.50ed5885.js"
   ]
 }
