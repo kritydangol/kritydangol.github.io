@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.84ff86ca.css",
-    "main.js": "/static/js/main.4f4cc64c.js",
+    "main.js": "/static/js/main.e62aa838.js",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
     "static/media/alchi - mockup.jpg": "/static/media/alchi - mockup.5d14f8a8b82eadab1328.jpg",
     "static/media/alchi.jpg": "/static/media/alchi.5d14f8a8b82eadab1328.jpg",
@@ -55,10 +55,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.84ff86ca.css.map": "/static/css/main.84ff86ca.css.map",
-    "main.4f4cc64c.js.map": "/static/js/main.4f4cc64c.js.map"
+    "main.e62aa838.js.map": "/static/js/main.e62aa838.js.map"
   },
   "entrypoints": [
     "static/css/main.84ff86ca.css",
-    "static/js/main.4f4cc64c.js"
+    "static/js/main.e62aa838.js"
   ]
 }
