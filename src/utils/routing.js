@@ -2,7 +2,7 @@ import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import React from "react";
 
 // importing
-// import Const from "../pages/construction";
+import Const from "../pages/construction";
 import Home from "../pages/home";
 import CaseStudy from "../pages/caseStudy";
 import Categories from "../pages/categories/categories";
@@ -20,8 +20,8 @@ const Routing = () => {
     <Router>
       <ToTop />
       <Routes>
-        {/* <Route exact path="/" element={<Const />} /> */}
-        <Route exact path="/" element={<Home />} />
+        <Route exact path="/" element={<Const />} />
+        <Route exact path="/home" element={<Home />} />
 
         {/* categories */}
         <Route exact path="/categories" element={<Categories />} />
