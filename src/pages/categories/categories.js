@@ -8,7 +8,7 @@ import CatComponent from "../../components/categories/catComponent";
 
 const Categories = () => {
   // const { id } = useParams();
-  const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
+  const { data: projects, error } = useFetch(`${API_URL}`);
 
   // const [categoryProjects, setCategoryProjects] = useState(projects);
 

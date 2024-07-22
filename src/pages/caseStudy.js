@@ -7,7 +7,7 @@ import Loader from "../components/loader";
 
 const CaseStudy = () => {
   const { id } = useParams();
-  const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
+  const { data: projects, error } = useFetch(`${API_URL}`);
   const [caseStudy, setCaseStudy] = useState(projects);
 
   useEffect(() => {
@@ -56,7 +56,7 @@ const CaseStudy = () => {
                     src={require(`../assets/images/mockups/${caseStudy[0].id}/${item}`)}
                     alt={item}
                     key={index}
-                    className="mb-7 border border-neutral-300 rounded"
+                    className="mb-7 border border-neutral-300 rounded w-full "
                   />
                 ))}
               </div>

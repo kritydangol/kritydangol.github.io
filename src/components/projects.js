@@ -4,7 +4,7 @@ import { API_URL } from "../utils/constants";
 import Loader from "./loader";
 
 const Projects = () => {
-  const { data: projects, error } = useFetch(`${API_URL}portfolio.json`);
+  const { data: projects, error } = useFetch(`${API_URL}`);
 
   return (
     <section id="projects" className="mt-10">
