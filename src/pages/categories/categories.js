@@ -10,6 +10,8 @@ const Categories = () => {
   // const { id } = useParams();
   const { data: projects, error } = useFetch(`${API_URL}`);
 
+  console.log(projects)
+
   // const [categoryProjects, setCategoryProjects] = useState(projects);
 
   // useEffect(() => {

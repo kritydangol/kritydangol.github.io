@@ -5,7 +5,7 @@ import React from "react";
 // import Const from "../pages/construction";
 import Home from "../pages/home";
 import CaseStudy from "../pages/caseStudy";
-import Categories from "../pages/categories/categories";
+// import Categories from "../pages/categories/categories";
 import SubCategories from "../pages/categories/subCategories";
 import Playground from "../pages/playground/playground";
 
@@ -25,7 +25,7 @@ const Routing = () => {
         <Route exact path="/" element={<Home />} />
 
         {/* categories */}
-        <Route exact path="/categories" element={<Categories />} />
+        {/* <Route exact path="/categories" element={<Categories />} /> */}
         <Route exact path="/categories/:id" element={<SubCategories />} />
 
         <Route exact path="/projects/:id" element={<CaseStudy />} />

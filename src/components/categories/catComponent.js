@@ -3,7 +3,7 @@ import React from "react";
 const CatComponent = () => {
   return (
     <div className="mb-5">
-      <a href="#/categories" className="link mr-5">
+      <a href="#/categories/all" className="link mr-5">
         All
       </a>
       <a href="#/categories/development" className="link mr-5">

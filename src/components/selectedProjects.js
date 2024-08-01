@@ -12,7 +12,7 @@ const SelectedProjects = () => {
       <div className="flex justify-between items-center">
         <h3 className="midH">Selected Works</h3>
 
-        <a className="link" href="/#/categories">
+        <a className="link" href="/#/categories/all">
           View More
         </a>
       </div>

@@ -11,7 +11,7 @@ const Projects = () => {
       <p className="subH">Other Projects</p>
       <div className="flex justify-between items-center">
         <h3 className="midH">Recent Works</h3>
-        <a className="link" href="/#/categories">
+        <a className="link" href="/#/categories/all">
           View More
         </a>
       </div>

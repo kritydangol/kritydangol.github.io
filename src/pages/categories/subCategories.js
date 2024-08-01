@@ -13,9 +13,13 @@ const Categories = () => {
   const [categoryProjects, setCategoryProjects] = useState(projects);
 
   useEffect(() => {
-    setCategoryProjects(
-      projects?.filter((project) => project.tag.includes(id))
-    );
+    if (id === "all") {
+      setCategoryProjects(projects);
+    } else {
+      setCategoryProjects(
+        projects?.filter((project) => project.tag.includes(id))
+      );
+    }
   }, [projects, id]);
 
   return (
@@ -26,7 +30,11 @@ const Categories = () => {
           <section>
             <p className="subH">Selected Projects</p>
             <h3 className="midH capitalize mb-4">
-              {id === "ui ux design" ? "U I/UX Design" : `${id}`}
+              {id === "ui ux design"
+                ? "U I/UX Design"
+                : id === "all"
+                ? "Works"
+                : `${id}`}
             </h3>
             <CatComponent />
             <div className="grid sm:grid-cols-3 gap-4 pb-10">
