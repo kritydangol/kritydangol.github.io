@@ -26,10 +26,11 @@ const Landing = () => {
           <p className="subH">Krity Dangol</p>
           <h2 className="head">Frontend Developer</h2>
           <p className="mb-6">
-            Over the past {totalYears} years, i have been doing projects as a
-            frontend developer/designer, Lorem ipsum dolor minus laborum
-            accusamus non laudantium accusantium alias vitae aliquam dolor
-            laboriosam quo iusto!
+            Over the past {totalYears} years, I have been a dedicated frontend
+            developer with expertise in React and UI/UX design. My portfolio
+            showcases projects where I have transformed ideas into impactful
+            digital solutions. Feel free to browse my work and see the exciting
+            digital solutions I’ve created!
           </p>
           <a href="/#/#projects" className="link">
             View Projects
