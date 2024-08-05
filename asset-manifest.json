@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.412a2386.css",
-    "main.js": "/static/js/main.a8999dfb.js",
+    "main.js": "/static/js/main.472dfc4a.js",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
     "static/media/alchi - mockup.jpg": "/static/media/alchi - mockup.5d14f8a8b82eadab1328.jpg",
     "static/media/alchi.jpg": "/static/media/alchi.5d14f8a8b82eadab1328.jpg",
@@ -49,7 +49,6 @@
     "static/media/trisara.jpg": "/static/media/trisara.24a7d6599cbf9cc0de1d.jpg",
     "static/media/11.jpg": "/static/media/11.922e12b5c720ccef734e.jpg",
     "static/media/PSV Tile1.jpg": "/static/media/PSV Tile1.4e5c13c3ef43c2ae5c50.jpg",
-    "static/media/Desktop screen with website presentation mockup.jpeg": "/static/media/Desktop screen with website presentation mockup.cb01b54e569af8fb257c.jpeg",
     "static/media/PSV Tile.jpg": "/static/media/PSV Tile.7f4edabbc61f6d77a2c9.jpg",
     "static/media/serene1.jpg": "/static/media/serene1.1169491faf7be6d27ff6.jpg",
     "static/media/serene.jpg": "/static/media/serene.30b5a8afa5f355af2ea5.jpg",
@@ -58,10 +57,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.412a2386.css.map": "/static/css/main.412a2386.css.map",
-    "main.a8999dfb.js.map": "/static/js/main.a8999dfb.js.map"
+    "main.472dfc4a.js.map": "/static/js/main.472dfc4a.js.map"
   },
   "entrypoints": [
     "static/css/main.412a2386.css",
-    "static/js/main.a8999dfb.js"
+    "static/js/main.472dfc4a.js"
   ]
 }
