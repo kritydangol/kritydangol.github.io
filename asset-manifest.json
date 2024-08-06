@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.412a2386.css",
-    "main.js": "/static/js/main.9588f82d.js",
+    "main.js": "/static/js/main.f170a53f.js",
+    "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.76117f4511c16301eb31.pdf",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
     "static/media/alchi - mockup.jpg": "/static/media/alchi - mockup.5d14f8a8b82eadab1328.jpg",
     "static/media/alchi.jpg": "/static/media/alchi.5d14f8a8b82eadab1328.jpg",
@@ -57,10 +58,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.412a2386.css.map": "/static/css/main.412a2386.css.map",
-    "main.9588f82d.js.map": "/static/js/main.9588f82d.js.map"
+    "main.f170a53f.js.map": "/static/js/main.f170a53f.js.map"
   },
   "entrypoints": [
     "static/css/main.412a2386.css",
-    "static/js/main.9588f82d.js"
+    "static/js/main.f170a53f.js"
   ]
 }
