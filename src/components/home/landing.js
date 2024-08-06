@@ -36,7 +36,12 @@ const Landing = () => {
             View Projects
           </a>
           &nbsp;&nbsp;or&nbsp;&nbsp;
-          <a href="/" className="link">
+          <a
+            href={require("../../assets/CV/Krity Dangol CV.pdf")}
+            target="_blank"
+            rel="noreferrer"
+            className="link"
+          >
             Download CV
           </a>
         </div>
