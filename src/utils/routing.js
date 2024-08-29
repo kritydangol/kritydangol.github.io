@@ -14,10 +14,13 @@ import NotFound from "../pages/general/notFound";
 
 // import Nav from "../components/nav";
 import ToTop from "./scrollToTop";
+import { ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 
 const Routing = () => {
   return (
     <Router>
+      <ToastContainer />
       <ToTop />
       <Routes>
         {/* <Route exact path="/" element={<Const />} />

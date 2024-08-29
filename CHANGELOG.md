@@ -9,6 +9,7 @@
     - [`Tailwind`](#tailwind)
     - [`Sliding menu`](#sliding-menu)
     - [`Icons`](#icons)
+    - [`react-toastify`](#react-toastify)
     - [`JSON server`](#json-server)
 - [To Do](#to-do)
 
@@ -47,7 +48,14 @@
 - `installed`: npm i react-icons
 - `usage`: import { FiInstagram } from "react-icons/fi";
 - `link`: https://www.npmjs.com/package/react-icons
-- 
+
+### `react-toastify`
+- `installed`: npm i react-toastify
+- `usage`: 
+  import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
+- `link`: https://www.npmjs.com/package/react-toastify
+
 ### `JSON server`
 - `installed`: no installation, just use
 - `usage`: npx json-server --watch db.json --port 8000
