@@ -36,7 +36,7 @@ const Playground = () => {
               alt="logo"
             />
             <h1 className="text-xl text-center font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
-              User Login
+              Login
             </h1>
             <form
               className="space-y-4 md:space-y-6"
