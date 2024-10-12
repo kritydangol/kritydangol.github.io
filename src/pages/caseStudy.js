@@ -39,11 +39,18 @@ const CaseStudy = () => {
                   ))}
                 </h4>
                 <h5 className="subH pt-5">Client</h5>
-                <h4 className="cursor-pointer">
-                  <a href={caseStudy[0].link} target="_blank" rel="noreferrer">
+                {caseStudy[0].link !== "" ? (
+                  <a
+                    href={caseStudy[0].link}
+                    target="_blank"
+                    rel="noreferrer"
+                    className={`font-semibold link cursor-pointer`}
+                  >
                     {caseStudy[0].client}
                   </a>
-                </h4>
+                ) : (
+                  <div className={`font-semibold`}>{caseStudy[0].client}</div>
+                )}
                 <h5 className="subH pt-5">Year</h5>
                 <h4>{caseStudy[0].year}</h4>
               </div>
