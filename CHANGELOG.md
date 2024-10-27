@@ -76,6 +76,8 @@
 - [x] ~~add NMS Agro~~
 - [x] ~~make all projects page, turn projects section to featured projects, max 6 projects~~
 - [ ] CV page
+- [ ] separate practice projects
+- [ ] recheck the data
 - [ ] 
 - [x] ~~paragraphs update~~
 - [x] ~~separate designs, development page, design page (?)~~
