@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       colors: {
         primary: "#efebff",
+        white1: "#d6d6d6",
       },
       gridTemplateColumns: {
         sidebar: "300px auto", //for sidebar layout

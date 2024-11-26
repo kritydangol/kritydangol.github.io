@@ -42,7 +42,7 @@ const Categories = () => {
                       {project.tag[0]} {project.tag[1] && "| " + project.tag[1]}
                     </p>
                     <h1
-                      className={`smallH max-w-[380px] font-[700] capitalize ${
+                      className={`smallH max-w-[380px] font-[600] capitalize ${
                         project.tileColor === "black"
                           ? "text-neutral-800"
                           : "text-neutral-50"

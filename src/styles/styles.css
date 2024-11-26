@@ -38,7 +38,7 @@ h6 {
 .subH {
   font-size: 0.75rem;
   text-transform: uppercase;
-  color: #aaaaaa;
+  /* color: #aaaaaa; */
   letter-spacing: 3px;
   margin-bottom: 10px;
 }

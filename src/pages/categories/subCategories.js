@@ -46,11 +46,11 @@ const Categories = () => {
                   href={`/#/projects/` + project.id}
                 >
                   <div className="md:h-[55vh] h-[60vh] rounded-md p-7">
-                    <p className="subH mb-0">
+                    <p className="subH mb-0 mix-blend-difference text-[#ffffff60]">
                       {project.tag[0]} {project.tag[1] && "| " + project.tag[1]}
                     </p>
                     <h1
-                      className={`smallH max-w-[380px] font-[700] capitalize `}
+                      className={`smallH max-w-[380px] font-[600] capitalize mix-blend-difference text-white1`}
                     >
                       {project.title}
                     </h1>
