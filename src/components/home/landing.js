@@ -5,7 +5,7 @@ const Landing = () => {
   const currentYear = new Date().getFullYear();
   const totalYears = currentYear - 2021;
   return (
-    <section className="grid md:grid-cols-2 gap-4 lg:px-56 sm:px-10 px-5 min-h-screen bg-[#efebff]">
+    <section className="grid md:grid-cols-2 gap-4 lg:px-56 sm:px-10 px-5 min-h-screen bg-primary">
       <ScrollToAnchor />
       <div className="md:table hidden">
         <div className="table-cell align-middle">

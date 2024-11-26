@@ -31,7 +31,7 @@ const Categories = () => {
             <p className="subH">Selected Projects</p>
             <h3 className="midH capitalize mb-4">
               {id === "ui ux design"
-                ? "U I/UX Design"
+                ? "UI/UX Design"
                 : id === "all"
                 ? "Works"
                 : `${id}`}
@@ -50,18 +50,20 @@ const Categories = () => {
                       {project.tag[0]} {project.tag[1] && "| " + project.tag[1]}
                     </p>
                     <h1
-                      className={`smallH max-w-[380px] font-[700] capitalize ${
-                        project.tileColor === "black"
-                          ? "text-neutral-800"
-                          : "text-neutral-50"
-                      }`}
+                      className={`smallH max-w-[380px] font-[700] capitalize `}
                     >
                       {project.title}
                     </h1>
-                    {project.tileImg && (
+                    {project.tileImg ? (
                       <img
                         className="absolute top-0 left-0 z-[-1] md:h-[55vh] h-[60vh] w-[100%] object-cover object-bottom rounded-lg"
                         src={require(`../../assets/images/mockups/${project.id}/${project.tileImg}`)}
+                        alt={project.title}
+                      />
+                    ) : (
+                      <img
+                        className="absolute top-0 left-0 z-[-1] bg-primary md:h-[55vh] h-[60vh] w-[100%] object-contain p-16 object-bottom rounded-lg"
+                        src={require(`../../assets/images/avatar.png`)}
                         alt={project.title}
                       />
                     )}

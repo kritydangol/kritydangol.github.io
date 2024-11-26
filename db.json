@@ -161,7 +161,7 @@
     },
     {
       "id": "CPT",
-      "tag": "development,graphic design,ui ux design",
+      "tag": ["development,graphic design,ui ux design"],
       "title": "Crocus Pearl Technologies",
       "link": "",
       "tileImg": "",
@@ -175,7 +175,7 @@
     },
     {
       "id": "UNWeb",
-      "tag": "ui ux design",
+      "tag": ["ui ux design"],
       "title": "UN Website - Newsletter",
       "link": "https://www.figma.com/design/YHOsC7fHWgJrRqRGVLtRTr/UN-Bulletin%3A-Backend-Wireframe?node-id=0-1&node-type=canvas&t=SDSbkawU3qCL1WRn-0",
       "tileImg": "",
@@ -189,7 +189,7 @@
     },
     {
       "id": "UNEmail",
-      "tag": "ui ux design",
+      "tag": ["ui ux design"],
       "title": "UN Email - Newsletter",
       "link": "https://www.figma.com/design/xJbEjgEPpMWg2xedLcYB8c/UN-Bulletin%3A-Concept-1?node-id=0-1&node-type=canvas",
       "tileImg": "",
@@ -203,7 +203,7 @@
     },
     {
       "id": "ElderCare",
-      "tag": "ui ux design",
+      "tag": ["ui ux design"],
       "title": "ElderCare",
       "link": "https://www.figma.com/proto/5tMR7YU2c9iOYX9zvvNALj/ULURU?page-id=0%3A1&node-id=6-1731&starting-point-node-id=6%3A1731&t=neyU9yJCQ4C4CU9f-1",
       "tileImg": "",
@@ -217,7 +217,7 @@
     },
     {
       "id": "Techtagon",
-      "tag": "ui ux design",
+      "tag": ["ui ux design"],
       "title": "Techtagon",
       "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?node-id=1234-615&t=uFNvQbT1gHFThSOZ-1",
       "tileImg": "",
@@ -231,7 +231,7 @@
     },
     {
       "id": "CCharters",
-      "tag": "development, ui ux design",
+      "tag": ["development, ui ux design"],
       "title": "Chariot Charters - UI/UX + Development",
       "link": "https://www.chariotcharters.sg/",
       "tileImg": "",
@@ -245,7 +245,7 @@
     },
     {
       "id": "TimeWatch",
-      "tag": "ui ux design",
+      "tag": ["ui ux design"],
       "title": "TimeWatch",
       "link": "https://www.figma.com/design/KSevvRTWlOjMqqu3mfcApx/Achieve-|-CASIO?node-id=3-20&t=BlGeyPa0T4lkzP9H-1",
       "tileImg": "",
@@ -407,7 +407,7 @@
     },
     {
       "id": "amt",
-      "tag": "development",
+      "tag": ["development"],
       "title": "All Malaysia Travels",
       "link": "https://www.allmalaysiatravel.com/",
       "tileImg": "",
@@ -421,7 +421,7 @@
     },
     {
       "id": "Octacore",
-      "tag": "development",
+      "tag": ["development"],
       "title": "Octacore",
       "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?m=auto&t=4fyra0NN8tWYsJdo-6",
       "tileImg": "",
