@@ -11,7 +11,7 @@ function Menu() {
     },
     {
       name: "Works",
-      link: "/#/categories",
+      link: "/#/categories/all",
     },
     // {
     //   name: "Home real",
