@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dcc049ff.css",
-    "main.js": "/static/js/main.48e868f7.js",
+    "main.js": "/static/js/main.3472cd87.js",
     "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.76117f4511c16301eb31.pdf",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
     "static/media/alchi - mockup.jpg": "/static/media/alchi - mockup.5d14f8a8b82eadab1328.jpg",
@@ -14,14 +14,13 @@
     "static/media/nmsagro-posts.jpg": "/static/media/nmsagro-posts.d563703a37f1a5db2881.jpg",
     "static/media/PSV all pages blue.jpg": "/static/media/PSV all pages blue.a5869b5a4a83a5fdab1e.jpg",
     "static/media/PSV all pages.jpg": "/static/media/PSV all pages.fc5d8c4e7b98d448f4db.jpg",
-    "static/media/nms agro2.jpg": "/static/media/nms agro2.4e9073eb2f9171595869.jpg",
     "static/media/PSV family.png": "/static/media/PSV family.14d8b1c6aa7b101c2246.png",
+    "static/media/CPT 2.jpg": "/static/media/CPT 2.2d61df182c7b6c1db4d9.jpg",
     "static/media/nmsagro - mockup.jpg": "/static/media/nmsagro - mockup.56809a9fd7711596f7ce.jpg",
     "static/media/nmsagro.jpg": "/static/media/nmsagro.245c9e6b54dd05d2e5c6.jpg",
-    "static/media/nms agro1.jpg": "/static/media/nms agro1.149d21e6af5938df893a.jpg",
+    "static/media/CPT - mockup.png": "/static/media/CPT - mockup.e7b17d2649c30a114fdb.png",
     "static/media/PSV - all pages.jpg": "/static/media/PSV - all pages.0f5bbdaeece7cabf19d5.jpg",
     "static/media/serene - mockup.jpg": "/static/media/serene - mockup.9acb027fb9d82a75f600.jpg",
-    "static/media/nms agro.jpg": "/static/media/nms agro.8645d1e4235137749ed1.jpg",
     "static/media/5.jpg": "/static/media/5.24114fc80af842590b4d.jpg",
     "static/media/PSV phone.jpg": "/static/media/PSV phone.7de63ea4bf5068240194.jpg",
     "static/media/9.jpg": "/static/media/9.d5e22598ead4b65e7039.jpg",
@@ -39,8 +38,10 @@
     "static/media/PSV - typography, colours.jpg": "/static/media/PSV - typography, colours.b0961bec77c9655f7988.jpg",
     "static/media/2.jpg": "/static/media/2.ca61279a3b1cb201b6cf.jpg",
     "static/media/PSV mockups.jpg": "/static/media/PSV mockups.f16a6b3dd49378b905e1.jpg",
+    "static/media/CPT.jpg": "/static/media/CPT.b794ebafc28b866df2a6.jpg",
     "static/media/PSV laptop.jpg": "/static/media/PSV laptop.c88297d719a0cc1a68cc.jpg",
     "static/media/14.jpg": "/static/media/14.dd5e204146f497943322.jpg",
+    "static/media/CCharters.jpg": "/static/media/CCharters.deb4787720d08cfb4b94.jpg",
     "static/media/serene - mockup1.jpg": "/static/media/serene - mockup1.2d3ba388824845c9052b.jpg",
     "static/media/PSV mobile.jpg": "/static/media/PSV mobile.4b59495d7b5b03f7bb31.jpg",
     "static/media/13.jpg": "/static/media/13.a396adf0ccc0f92e7c6b.jpg",
@@ -48,8 +49,10 @@
     "static/media/PSV tablet.jpg": "/static/media/PSV tablet.8425ebe643c83dc74c9b.jpg",
     "static/media/1.jpg": "/static/media/1.4040b47eee94ed93e645.jpg",
     "static/media/trisara.jpg": "/static/media/trisara.24a7d6599cbf9cc0de1d.jpg",
+    "static/media/CPT 1.jpg": "/static/media/CPT 1.483cc4f07730596f79b2.jpg",
     "static/media/11.jpg": "/static/media/11.922e12b5c720ccef734e.jpg",
     "static/media/PSV Tile1.jpg": "/static/media/PSV Tile1.4e5c13c3ef43c2ae5c50.jpg",
+    "static/media/CCharters - mockup.jpeg": "/static/media/CCharters - mockup.9e68972cb679a744a518.jpeg",
     "static/media/PSV Tile.jpg": "/static/media/PSV Tile.7f4edabbc61f6d77a2c9.jpg",
     "static/media/serene1.jpg": "/static/media/serene1.1169491faf7be6d27ff6.jpg",
     "static/media/serene.jpg": "/static/media/serene.30b5a8afa5f355af2ea5.jpg",
@@ -58,10 +61,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.dcc049ff.css.map": "/static/css/main.dcc049ff.css.map",
-    "main.48e868f7.js.map": "/static/js/main.48e868f7.js.map"
+    "main.3472cd87.js.map": "/static/js/main.3472cd87.js.map"
   },
   "entrypoints": [
     "static/css/main.dcc049ff.css",
-    "static/js/main.48e868f7.js"
+    "static/js/main.3472cd87.js"
   ]
 }
