@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dcc049ff.css",
-    "main.js": "/static/js/main.d8ddbc21.js",
+    "main.js": "/static/js/main.d987afdd.js",
     "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.76117f4511c16301eb31.pdf",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
     "static/media/alchi - mockup.jpg": "/static/media/alchi - mockup.5d14f8a8b82eadab1328.jpg",
@@ -16,6 +16,7 @@
     "static/media/PSV all pages.jpg": "/static/media/PSV all pages.fc5d8c4e7b98d448f4db.jpg",
     "static/media/PSV family.png": "/static/media/PSV family.14d8b1c6aa7b101c2246.png",
     "static/media/CPT 2.jpg": "/static/media/CPT 2.2d61df182c7b6c1db4d9.jpg",
+    "static/media/DAH 1.jpg": "/static/media/DAH 1.ac0b749fb5401c71d822.jpg",
     "static/media/nmsagro - mockup.jpg": "/static/media/nmsagro - mockup.56809a9fd7711596f7ce.jpg",
     "static/media/nmsagro.jpg": "/static/media/nmsagro.245c9e6b54dd05d2e5c6.jpg",
     "static/media/CPT - mockup.jpg": "/static/media/CPT - mockup.e7b17d2649c30a114fdb.jpg",
@@ -64,10 +65,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.dcc049ff.css.map": "/static/css/main.dcc049ff.css.map",
-    "main.d8ddbc21.js.map": "/static/js/main.d8ddbc21.js.map"
+    "main.d987afdd.js.map": "/static/js/main.d987afdd.js.map"
   },
   "entrypoints": [
     "static/css/main.dcc049ff.css",
-    "static/js/main.d8ddbc21.js"
+    "static/js/main.d987afdd.js"
   ]
 }
