@@ -283,7 +283,7 @@
     "client": "Druk Air Holidays",
     "year": 2024,
     "desc": "I designed and developed a hybrid website for Druk Air Holidays, the holiday wing of Drukair - Royal Bhutan Airlines. The site, built using ReactJS and Tailwind, includes both frontend and admin panel functionalities. The frontend showcases various holiday packages to Bhutan, with the admin panel enabling the company to update group tours, destinations, and other content. The design focuses on ease of use, with all form data being saved directly in the admin interface. The website also allows users to seamlessly browse vacation packages while presenting the luxury and unique travel experiences offered by Druk Air Holidays. This project captures the essence of adventure and cultural exploration.",
-    "gallery": ["DAH - mockup.jpeg"]
+    "gallery": ["DAH - mockup.jpeg", "DAH 1.jpg"]
   },
   {
     "id": "sewa",
