@@ -357,7 +357,7 @@
     "tag": ["development"],
     "title": "Chariot Group",
     "link": "https://www.chariot.com.sg/",
-    "tileImg": "",
+    "tileImg": "CGroup.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -369,7 +369,7 @@
     "client": "Chariot Group",
     "year": 2024,
     "desc": "I developed a dynamic two-page website for Chariot Group using ReactJS and Tailwind. The landing page includes a snap scroll feature for seamless navigation, while all data is fetched from APIs to keep the content updated. The website’s design also includes a contact services page, ensuring users can easily reach out to the company. Chariot Group is a renowned travel agency based in Singapore, and the website reflects their professionalism and dedication to outstanding service delivery. The project emphasized clean design, functional navigation, and a responsive layout that caters to users across all devices.",
-    "gallery": []
+    "gallery": ["CGroup - mockup.jpg", "CGroup 1.jpeg"]
   },
   {
     "id": "Foodcore",
