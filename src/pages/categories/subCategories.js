@@ -10,6 +10,8 @@ const Categories = () => {
   const { id } = useParams();
   const { data: projects, error } = useFetch(`${API_URL}`);
 
+  console.log(projects);
+
   const [categoryProjects, setCategoryProjects] = useState(projects);
 
   useEffect(() => {
@@ -22,6 +24,15 @@ const Categories = () => {
     }
   }, [projects, id]);
 
+  useEffect(() => {
+    if (categoryProjects) {
+      // Sort projects by yearCompleted in descending order (latest first)
+      const sortedProjects = [...categoryProjects].sort(
+        (a, b) => b.year - a.year
+      );
+      setCategoryProjects(sortedProjects);
+    }
+  }, [categoryProjects]);
   return (
     <>
       <Nav />
@@ -37,7 +48,7 @@ const Categories = () => {
                 : `${id}`}
             </h3>
             <CatComponent />
-            <div className="grid sm:grid-cols-3 gap-4 pb-10">
+            <div className="grid lg:grid-cols-3 md:grid-cols-2 gap-4 pb-10">
               {/* mapping projects */}
               {categoryProjects?.map((project) => (
                 <a
