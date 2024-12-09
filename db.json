@@ -308,17 +308,17 @@
     "gallery": ["sewa - mockup.jpeg", "sewa 1.jpeg"]
   },
   {
-    "id": "Eternity",
+    "id": "eternity",
     "tag": ["development", "ui ux design"],
     "title": "Eternity",
     "link": "https://kritydangol.com.np/eternity/",
-    "tileImg": "",
+    "tileImg": "eternity.jpg",
     "selected": false,
     "role": ["Creative Direction", "UI / UX", "Website Development"],
     "client": "practice",
     "year": 2021,
     "desc": "For this practice project, I developed a one-page website for a fictional fine dining restaurant called Eternity. The website, built using HTML, CSS, Bootstrap, and JavaScript, includes a landing page, gallery, contact section, and location details. The design is sleek and minimalistic, reflecting the upscale dining experience that Eternity offers. The gallery showcases high-quality images of the restaurant’s ambiance and dishes, while the contact and location sections are designed for ease of use. The project emphasizes elegance and simplicity, making it easy for users to find essential information while being captivated by the restaurant’s luxurious presentation.",
-    "gallery": []
+    "gallery": ["eternity - mockup.jpg", "eternity 1.jpg"]
   },
   {
     "id": "bth",
