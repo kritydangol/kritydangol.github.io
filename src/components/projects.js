@@ -1,10 +1,20 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import useFetch from "../utils/useFetch";
 import { API_URL } from "../utils/constants";
 import Loader from "./loader";
 
 const Projects = () => {
   const { data: projects, error } = useFetch(`${API_URL}`);
+
+  const [sortedProjects, setSortedProjects] = useState(projects);
+
+  useEffect(() => {
+    if (projects) {
+      // Sort projects by yearCompleted in descending order (latest first)
+      const sortedProjects1 = [...projects].sort((a, b) => b.year - a.year);
+      setSortedProjects(sortedProjects1);
+    }
+  }, [projects]);
 
   return (
     <section id="projects" className="mt-10">
@@ -15,10 +25,10 @@ const Projects = () => {
           View More
         </a>
       </div>
-      {projects ? (
+      {sortedProjects ? (
         <div className="grid xl:grid-cols-3 md:grid-cols-2 gap-4 pb-10">
           {/* mapping projects */}
-          {projects
+          {sortedProjects
             .filter((project) => !project.selected)
             .slice(0, 3)
             .map((project) => (
@@ -44,10 +54,23 @@ const Projects = () => {
                   >
                     {project.title}
                   </h1>
-                  {project.tileImg && (
+                  {/* {project.tileImg && (
                     <img
                       className="absolute top-0 left-0 z-[-1] h-full w-[100%] object-cover object-bottom rounded-lg"
                       src={require(`../assets/images/mockups/${project.id}/${project.tileImg}`)}
+                      alt={project.title}
+                    />
+                  )} */}
+                  {project.tileImg ? (
+                    <img
+                      className="absolute top-0 left-0 z-[-1] md:h-[55vh] h-[60vh] w-[100%] object-cover object-bottom rounded-lg"
+                      src={require(`../assets/images/mockups/${project.id}/${project.tileImg}`)}
+                      alt={project.title}
+                    />
+                  ) : (
+                    <img
+                      className="absolute top-0 left-0 z-[-1] bg-primary md:h-[55vh] h-[60vh] w-[100%] object-contain p-16 object-bottom rounded-lg"
+                      src={require(`../assets/images/avatar.png`)}
                       alt={project.title}
                     />
                   )}

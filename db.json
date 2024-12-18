@@ -72,7 +72,12 @@
     "client": "Trisara",
     "year": "2023",
     "desc": "The Trisara Restaurant website, crafted with Figma for design and React for development, prioritizes a seamless user experience. Its responsive design ensures optimal performance across devices, while the dynamic menu page offers an interactive exploration of the restaurant's offerings. \n\nEach outlet of the various franchises is uniquely represented through dynamic URLs, enhancing local presence. The website's UI/UX design focuses on user engagement and easy navigation, reflecting Trisara's commitment to excellence. Through its use of technology and design, the website aims to create a digital experience that mirrors the restaurant's reputation for exceptional service and culinary mastery.",
-    "gallery": ["trisara - mockup.jpg"]
+    "gallery": [
+      "trisara - mockup.jpg",
+      "trisara - menu.jpeg",
+      "trisara franchise.jpg",
+      "trisara devices.jpg"
+    ]
   },
   {
     "id": "instaline",
@@ -185,42 +190,26 @@
     "gallery": []
   },
   {
-    "id": "ElderCare",
-    "tag": ["ui ux design"],
-    "title": "ElderCare",
-    "link": "https://www.figma.com/proto/5tMR7YU2c9iOYX9zvvNALj/ULURU?page-id=0%3A1&node-id=6-1731&starting-point-node-id=6%3A1731&t=neyU9yJCQ4C4CU9f-1",
-    "tileImg": "",
+    "id": "DAH",
+    "tag": ["development", "ui ux design"],
+    "title": "Druk Air Holidays",
+    "link": "https://drukairholidays.com.sg/",
+    "tileImg": "DAH.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
       "Figma",
       "Prototyping",
+      "ReactJS",
+      "Tailwind",
       "UI / UX",
+      "Website Development",
       "Wireframing"
     ],
-    "client": "practice",
-    "year": 2023,
-    "desc": "For this practice project, I designed an admin panel for a health care management web app, along with a general landing page. The web app is designed to support an organization that provides services for the elderly, including caregiving and medical facilities. Using Figma, I focused on creating an intuitive UI/UX design that caters to both administrators and users, ensuring easy management of elderly care services. The landing page introduces the organization’s services, offering a clear and compassionate interface that aligns with the organization's fictional values of providing personalized, compassionate care for the elderly. The project emphasizes simplicity and ease of use for all users, reflecting the caring nature of the service.",
-    "gallery": []
-  },
-  {
-    "id": "Techtagon",
-    "tag": ["ui ux design"],
-    "title": "Techtagon",
-    "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?node-id=1234-615&t=uFNvQbT1gHFThSOZ-1",
-    "tileImg": "",
-    "selected": false,
-    "role": [
-      "Creative Direction",
-      "Figma",
-      "Prototyping",
-      "UI / UX",
-      "Wireframing"
-    ],
-    "client": "practice",
+    "client": "Druk Air Holidays",
     "year": 2024,
-    "desc": "For this fictional tech company, I created a home page designed in Figma with a focus on modern UI/UX principles. The design incorporated creative direction and prototyping, highlighting the company's fictional values of innovation, technology leadership, and customer-centric solutions. The website layout is clean and intuitive, with a dynamic interface that presents the company's services and solutions effectively. This practice project allowed me to explore advanced wireframing and user interface techniques while delivering a design that mirrors the core attributes of a forward-thinking tech company. The landing page presents a clear call to action and showcases the potential of the fictional brand.",
-    "gallery": []
+    "desc": "I designed and developed a hybrid website for Druk Air Holidays, the holiday wing of Drukair - Royal Bhutan Airlines. The site, built using ReactJS and Tailwind, includes both frontend and admin panel functionalities. The frontend showcases various holiday packages to Bhutan, with the admin panel enabling the company to update group tours, destinations, and other content. The design focuses on ease of use, with all form data being saved directly in the admin interface. The website also allows users to seamlessly browse vacation packages while presenting the luxury and unique travel experiences offered by Druk Air Holidays. This project captures the essence of adventure and cultural exploration.",
+    "gallery": ["DAH - mockup.jpeg", "DAH 1.jpg"]
   },
   {
     "id": "CCharters",
@@ -245,51 +234,10 @@
     "gallery": ["CCharters - mockup.jpeg", "CCharters 1.jpeg"]
   },
   {
-    "id": "TimeWatch",
-    "tag": ["ui ux design"],
-    "title": "TimeWatch",
-    "link": "https://www.figma.com/design/KSevvRTWlOjMqqu3mfcApx/Achieve-|-CASIO?node-id=3-20&t=BlGeyPa0T4lkzP9H-1",
-    "tileImg": "",
-    "selected": false,
-    "role": [
-      "Creative Direction",
-      "Figma",
-      "Prototyping",
-      "UI / UX",
-      "Wireframing"
-    ],
-    "client": "practice",
-    "year": 2024,
-    "desc": "For this practice project, I designed a basic eCommerce website for a fictional watch company. The website, created in Figma, includes a landing page, a product overview page, and a detailed page for individual product listings. The design focuses on clean aesthetics and intuitive navigation, ensuring users can easily browse through the watch collection. The interface also reflects the luxury and precision associated with the brand, using minimalist design elements to highlight product features. This fictional company prides itself on offering high-quality branded watches, and the design supports that ethos by creating an upscale yet user-friendly shopping experience.",
-    "gallery": []
-  },
-  {
-    "id": "DAH",
-    "tag": ["development", "ui ux design"],
-    "title": "Druk Air Holidays",
-    "link": "https://drukairholidays.com.sg/",
-    "tileImg": "DAH.jpg",
-    "selected": false,
-    "role": [
-      "Creative Direction",
-      "Figma",
-      "Prototyping",
-      "ReactJS",
-      "Tailwind",
-      "UI / UX",
-      "Website Development",
-      "Wireframing"
-    ],
-    "client": "Druk Air Holidays",
-    "year": 2024,
-    "desc": "I designed and developed a hybrid website for Druk Air Holidays, the holiday wing of Drukair - Royal Bhutan Airlines. The site, built using ReactJS and Tailwind, includes both frontend and admin panel functionalities. The frontend showcases various holiday packages to Bhutan, with the admin panel enabling the company to update group tours, destinations, and other content. The design focuses on ease of use, with all form data being saved directly in the admin interface. The website also allows users to seamlessly browse vacation packages while presenting the luxury and unique travel experiences offered by Druk Air Holidays. This project captures the essence of adventure and cultural exploration.",
-    "gallery": ["DAH - mockup.jpeg", "DAH 1.jpg"]
-  },
-  {
     "id": "sewa",
     "tag": ["development", "ui ux design"],
     "title": "Sewa Printing Press",
-    "link": "https://beta.sewapress.com.np/",
+    "link": "https://www.sewapress.com.np/",
     "tileImg": "sewa.jpg",
     "selected": false,
     "role": [
@@ -304,12 +252,12 @@
     ],
     "client": "Sewa Printing Press",
     "year": 2024,
-    "desc": "For Sewa Printing Press, I designed and developed a hybrid website that reflects the company’s professional printing services. The design, created in Figma and developed in ReactJS with Tailwind, includes pages for services, samples, clients, and more. The website is fully responsive, ensuring a seamless experience on both desktop and mobile devices. The sleek UI/UX design highlights the company's dedication to cutting-edge technology in the printing industry, with a focus on delivering top-tier printing solutions to businesses. Sewa Printing Press’s mission is to provide high-quality printing services, and the website effectively communicates this through a professional, streamlined layout.",
+    "desc": "For Sewa Printing Press, I designed and developed a hybrid website that reflects the company’s professional printing services. The design, created in Figma and developed in ReactJS with Tailwind, includes pages for services, samples, clients, and more. The website is fully responsive, ensuring a seamless experience on both desktop and mobile devices. The sleek UI/UX design highlights the company's dedication to cutting-edge technology in the printing industry, with a focus on delivering top-tier printing solutions ,to businesses. Sewa Printing Press’s mission is to provide high-quality printing services, and the website effectively communicates this through a professional, streamlined layout.",
     "gallery": ["sewa - mockup.jpeg", "sewa 1.jpeg"]
   },
   {
     "id": "eternity",
-    "tag": ["development", "ui ux design"],
+    "tag": ["development", "ui ux design", "practice"],
     "title": "Eternity",
     "link": "https://kritydangol.com.np/eternity/",
     "tileImg": "eternity.jpg",
@@ -331,25 +279,6 @@
     "client": "Better Than Hotel",
     "year": 2023,
     "desc": "For Better Than Hotel, I developed a modern, responsive website using Bootstrap. The design includes a scroll snap feature on the landing page, allowing for smooth transitions between sections. I also developed several other pages, such as login, registration, and property details, which follow the same modern and user-friendly design approach. This project introduced me to the scroll snap functionality, enhancing the website’s overall user experience. Better Than Hotel provides serviced accommodations in the UK, and the website reflects their commitment to hassle-free, high-quality stays, with a range of properties that cater to both short-term and long-term visitors.",
-    "gallery": []
-  },
-  {
-    "id": "VerdantCode",
-    "tag": ["development"],
-    "title": "VerdantCode",
-    "link": "https://www.figma.com/design/XygP3atvwol5ZOzrUibTjX/Ocdy?node-id=106-2&t=o643nkMpIKnMuHja-1",
-    "tileImg": "",
-    "selected": false,
-    "role": [
-      "Bootstrap",
-      "Creative Direction",
-      "ReactJS",
-      "UI / UX",
-      "Website Development"
-    ],
-    "client": "practice",
-    "year": 2023,
-    "desc": "VerdantCode is a dynamic and responsive website developed as a practice project using ReactJS and Tailwind. The landing page features two types of carousel implementations, creating an engaging visual experience. Essential pages like contact and services were designed with modern UI/UX principles, ensuring smooth navigation and user interaction. While the project lacks eco-friendly values despite its green aesthetic, it focuses on delivering a sleek, responsive interface with a flexible layout, reflecting the latest in web development trends.",
     "gallery": []
   },
   {
@@ -433,6 +362,82 @@
     "client": "Octacore",
     "year": 2024,
     "desc": "For Octacore, I developed a hybrid website using ReactJS and Tailwind that captures the brand’s innovative spirit through interactive design elements. The landing page features animated bubbles that rise and fall, creating a fluid, engaging experience that mirrors Octacore's flexible and adaptable approach to technology solutions. Other pages include clients, works, a detailed work page, and a career section, each with dynamic content fetched from APIs. The site’s highlight is its unique visual aesthetic, reminiscent of a lava lamp, which sets it apart from traditional corporate websites. Octacore Solutions focuses on providing global IT services, and this project reflects their forward-thinking, innovative ethos.",
+    "gallery": []
+  },
+  {
+    "id": "ElderCare",
+    "tag": ["ui ux design", "practice"],
+    "title": "ElderCare",
+    "link": "https://www.figma.com/proto/5tMR7YU2c9iOYX9zvvNALj/ULURU?page-id=0%3A1&node-id=6-1731&starting-point-node-id=6%3A1731&t=neyU9yJCQ4C4CU9f-1",
+    "tileImg": "",
+    "selected": false,
+    "role": [
+      "Creative Direction",
+      "Figma",
+      "Prototyping",
+      "UI / UX",
+      "Wireframing"
+    ],
+    "client": "practice",
+    "year": 2023,
+    "desc": "For this practice project, I designed an admin panel for a health care management web app, along with a general landing page. The web app is designed to support an organization that provides services for the elderly, including caregiving and medical facilities. Using Figma, I focused on creating an intuitive UI/UX design that caters to both administrators and users, ensuring easy management of elderly care services. The landing page introduces the organization’s services, offering a clear and compassionate interface that aligns with the organization's fictional values of providing personalized, compassionate care for the elderly. The project emphasizes simplicity and ease of use for all users, reflecting the caring nature of the service.",
+    "gallery": []
+  },
+  {
+    "id": "Techtagon",
+    "tag": ["ui ux design", "practice"],
+    "title": "Techtagon",
+    "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?node-id=1234-615&t=uFNvQbT1gHFThSOZ-1",
+    "tileImg": "",
+    "selected": false,
+    "role": [
+      "Creative Direction",
+      "Figma",
+      "Prototyping",
+      "UI / UX",
+      "Wireframing"
+    ],
+    "client": "practice",
+    "year": 2024,
+    "desc": "For this fictional tech company, I created a home page designed in Figma with a focus on modern UI/UX principles. The design incorporated creative direction and prototyping, highlighting the company's fictional values of innovation, technology leadership, and customer-centric solutions. The website layout is clean and intuitive, with a dynamic interface that presents the company's services and solutions effectively. This practice project allowed me to explore advanced wireframing and user interface techniques while delivering a design that mirrors the core attributes of a forward-thinking tech company. The landing page presents a clear call to action and showcases the potential of the fictional brand.",
+    "gallery": []
+  },
+  {
+    "id": "TimeWatch",
+    "tag": ["ui ux design", "practice"],
+    "title": "TimeWatch",
+    "link": "https://www.figma.com/design/KSevvRTWlOjMqqu3mfcApx/Achieve-|-CASIO?node-id=3-20&t=BlGeyPa0T4lkzP9H-1",
+    "tileImg": "",
+    "selected": false,
+    "role": [
+      "Creative Direction",
+      "Figma",
+      "Prototyping",
+      "UI / UX",
+      "Wireframing"
+    ],
+    "client": "practice",
+    "year": 2024,
+    "desc": "For this practice project, I designed a basic eCommerce website for a fictional watch company. The website, created in Figma, includes a landing page, a product overview page, and a detailed page for individual product listings. The design focuses on clean aesthetics and intuitive navigation, ensuring users can easily browse through the watch collection. The interface also reflects the luxury and precision associated with the brand, using minimalist design elements to highlight product features. This fictional company prides itself on offering high-quality branded watches, and the design supports that ethos by creating an upscale yet user-friendly shopping experience.",
+    "gallery": []
+  },
+  {
+    "id": "VerdantCode",
+    "tag": ["development", "practice"],
+    "title": "VerdantCode",
+    "link": "https://www.figma.com/design/XygP3atvwol5ZOzrUibTjX/Ocdy?node-id=106-2&t=o643nkMpIKnMuHja-1",
+    "tileImg": "",
+    "selected": false,
+    "role": [
+      "Bootstrap",
+      "Creative Direction",
+      "ReactJS",
+      "UI / UX",
+      "Website Development"
+    ],
+    "client": "practice",
+    "year": 2023,
+    "desc": "VerdantCode is a dynamic and responsive website developed as a practice project using ReactJS and Tailwind. The landing page features two types of carousel implementations, creating an engaging visual experience. Essential pages like contact and services were designed with modern UI/UX principles, ensuring smooth navigation and user interaction. While the project lacks eco-friendly values despite its green aesthetic, it focuses on delivering a sleek, responsive interface with a flexible layout, reflecting the latest in web development trends.",
     "gallery": []
   }
 ]
