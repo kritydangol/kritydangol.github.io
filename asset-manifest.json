@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.27b23094.css",
-    "main.js": "/static/js/main.1130e956.js",
+    "main.css": "/static/css/main.6809da11.css",
+    "main.js": "/static/js/main.a62d0a2d.js",
     "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.76117f4511c16301eb31.pdf",
     "static/media/eternity 1.jpg": "/static/media/eternity 1.1fc274a7aa5c11e03893.jpg",
     "static/media/eternity - mockup.jpg": "/static/media/eternity - mockup.f33663d8ad3fecaa61ab.jpg",
@@ -14,6 +14,7 @@
     "static/media/cniyef - mockup.jpg": "/static/media/cniyef - mockup.3d80ec5e1d29020d80ad.jpg",
     "static/media/cniyef.jpg": "/static/media/cniyef.3d80ec5e1d29020d80ad.jpg",
     "static/media/nmsagro-posts.jpg": "/static/media/nmsagro-posts.d563703a37f1a5db2881.jpg",
+    "static/media/trisara devices.jpg": "/static/media/trisara devices.df931cce35a0d3d54a78.jpg",
     "static/media/PSV all pages blue.jpg": "/static/media/PSV all pages blue.a5869b5a4a83a5fdab1e.jpg",
     "static/media/PSV all pages.jpg": "/static/media/PSV all pages.fc5d8c4e7b98d448f4db.jpg",
     "static/media/PSV family.png": "/static/media/PSV family.14d8b1c6aa7b101c2246.png",
@@ -22,11 +23,14 @@
     "static/media/nmsagro - mockup.jpg": "/static/media/nmsagro - mockup.56809a9fd7711596f7ce.jpg",
     "static/media/nmsagro.jpg": "/static/media/nmsagro.245c9e6b54dd05d2e5c6.jpg",
     "static/media/CPT - mockup.jpg": "/static/media/CPT - mockup.e7b17d2649c30a114fdb.jpg",
+    "static/media/trisara franchise.jpg": "/static/media/trisara franchise.9f99b9d5e73ef3f68ff7.jpg",
+    "static/media/trisara - mockup.jpg": "/static/media/trisara - mockup.5ddeac08ff66cdac51f8.jpg",
     "static/media/PSV - all pages.jpg": "/static/media/PSV - all pages.0f5bbdaeece7cabf19d5.jpg",
     "static/media/serene - mockup.jpg": "/static/media/serene - mockup.9acb027fb9d82a75f600.jpg",
     "static/media/sewa.jpg": "/static/media/sewa.5f63c9b9a050c56e3059.jpg",
     "static/media/DAH.jpg": "/static/media/DAH.fb5caab2b078437808de.jpg",
     "static/media/eternity.jpg": "/static/media/eternity.0591670efa2517dd4f13.jpg",
+    "static/media/amt.jpg": "/static/media/amt.ff9e7e193f62de291d02.jpg",
     "static/media/5.jpg": "/static/media/5.24114fc80af842590b4d.jpg",
     "static/media/CGroup - mockup.jpg": "/static/media/CGroup - mockup.c566cb6d494f39b081d3.jpg",
     "static/media/PSV phone.jpg": "/static/media/PSV phone.7de63ea4bf5068240194.jpg",
@@ -36,7 +40,7 @@
     "static/media/sewa1.jpg": "/static/media/sewa1.adfafc40630642ee1ee6.jpg",
     "static/media/10.jpg": "/static/media/10.1b8350173846f923f733.jpg",
     "static/media/4.jpg": "/static/media/4.296aa8799f4bbdfc323f.jpg",
-    "static/media/trisara - mockup.jpg": "/static/media/trisara - mockup.e3438398ee9b11ca9728.jpg",
+    "static/media/trisara - mockup1.jpg": "/static/media/trisara - mockup1.e3438398ee9b11ca9728.jpg",
     "static/media/6.jpg": "/static/media/6.e30f16c4b404d7d758d0.jpg",
     "static/media/PSV tablets.jpg": "/static/media/PSV tablets.54211fff9feeb1f50b25.jpg",
     "static/media/8.jpg": "/static/media/8.47083bf26d479b315b89.jpg",
@@ -47,6 +51,7 @@
     "static/media/12.jpg": "/static/media/12.a8edac6e53545d0a1b5d.jpg",
     "static/media/PSV - typography, colours.jpg": "/static/media/PSV - typography, colours.b0961bec77c9655f7988.jpg",
     "static/media/2.jpg": "/static/media/2.ca61279a3b1cb201b6cf.jpg",
+    "static/media/trisara.jpg": "/static/media/trisara.e93a1a688d3c9e2bae0c.jpg",
     "static/media/PSV mockups.jpg": "/static/media/PSV mockups.f16a6b3dd49378b905e1.jpg",
     "static/media/sewa - mockup.jpeg": "/static/media/sewa - mockup.3f61a8dc6111213f334f.jpeg",
     "static/media/CPT.jpg": "/static/media/CPT.b794ebafc28b866df2a6.jpg",
@@ -58,13 +63,15 @@
     "static/media/PSV mobile.jpg": "/static/media/PSV mobile.4b59495d7b5b03f7bb31.jpg",
     "static/media/13.jpg": "/static/media/13.a396adf0ccc0f92e7c6b.jpg",
     "static/media/15.jpg": "/static/media/15.c47e3b159f4fddd53a4e.jpg",
+    "static/media/trisara - menu.jpeg": "/static/media/trisara - menu.486a18e196a9dd4200ff.jpeg",
     "static/media/PSV tablet.jpg": "/static/media/PSV tablet.8425ebe643c83dc74c9b.jpg",
     "static/media/CGroup 1.jpeg": "/static/media/CGroup 1.19a8701be77a850f8522.jpeg",
     "static/media/1.jpg": "/static/media/1.4040b47eee94ed93e645.jpg",
     "static/media/sewa 1.jpeg": "/static/media/sewa 1.9f386664d5dd8229c6d4.jpeg",
     "static/media/CPT 1.jpg": "/static/media/CPT 1.03609b9e579a85802408.jpg",
-    "static/media/trisara.jpg": "/static/media/trisara.24a7d6599cbf9cc0de1d.jpg",
+    "static/media/trisara1.jpg": "/static/media/trisara1.24a7d6599cbf9cc0de1d.jpg",
     "static/media/11.jpg": "/static/media/11.922e12b5c720ccef734e.jpg",
+    "static/media/amt - mockup.jpeg": "/static/media/amt - mockup.0e8fe1cc4f7a0594b878.jpeg",
     "static/media/PSV Tile1.jpg": "/static/media/PSV Tile1.4e5c13c3ef43c2ae5c50.jpg",
     "static/media/CCharters - mockup.jpeg": "/static/media/CCharters - mockup.41aa3699eb314f576518.jpeg",
     "static/media/PSV Tile.jpg": "/static/media/PSV Tile.7f4edabbc61f6d77a2c9.jpg",
@@ -74,11 +81,11 @@
     "static/media/logo-circle-06.png": "/static/media/logo-circle-06.8b1bcf7ccf814a19be01.png",
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
-    "main.27b23094.css.map": "/static/css/main.27b23094.css.map",
-    "main.1130e956.js.map": "/static/js/main.1130e956.js.map"
+    "main.6809da11.css.map": "/static/css/main.6809da11.css.map",
+    "main.a62d0a2d.js.map": "/static/js/main.a62d0a2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.27b23094.css",
-    "static/js/main.1130e956.js"
+    "static/css/main.6809da11.css",
+    "static/js/main.a62d0a2d.js"
   ]
 }
