@@ -24,7 +24,8 @@
       "PSV tablets.jpg",
       "PSV - all pages.jpg",
       "PSV - typography, colours.jpg"
-    ]
+    ],
+    "embed": false
   },
   {
     "id": "serene",
@@ -59,7 +60,8 @@
       "12.jpg",
       "13.jpg",
       "14.jpg"
-    ]
+    ],
+    "embed": false
   },
   {
     "id": "trisara",
@@ -77,20 +79,22 @@
       "trisara - menu.jpeg",
       "trisara franchise.jpg",
       "trisara devices.jpg"
-    ]
+    ],
+    "embed": false
   },
   {
     "id": "instaline",
     "tag": ["ui ux design"],
     "title": "Instaline - UI/UX Design",
-    "link": "",
+    "link": "https://embed.figma.com/proto/ydh7FK85NNcpduvCQzhcLW/Instaline?page-id=75%3A509&node-id=454-1651&viewport=1848%2C-706%2C0.38&scaling=scale-down&content-scaling=fixed&starting-point-node-id=527%3A2028&hide-ui=1&embed-host=share",
     "tileImg": "instaline.jpg",
     "selected": true,
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
     "client": "Instaline",
     "year": "2023",
     "desc": "Instaline's design project, executed using Figma, focuses on creating a visually appealing and user-friendly experience. It includes wireframing, and UI/UX design for a mobile app. The project also involves maintaining the brand guidelines for consistency and coherence across platforms. \n\nEvery page was designed according to client needs, incorporating their vision and requirements into the design process. The project aimed to deliver a cohesive and aesthetically pleasing design that meets the client's needs and reflects their brand identity. Through meticulous planning and execution, the project ensures that the final design not only looks appealing but also provides a seamless user experience.",
-    "gallery": ["instaline - mockup.jpg"]
+    "gallery": ["instaline - mockup.jpg"],
+    "embed": true
   },
   {
     "id": "alchi",
@@ -103,7 +107,8 @@
     "client": "Alchi",
     "year": "2022",
     "desc": "Alchi's social media posts and stories were made visually captivating using Illustrator. Alchi's values emphasize culture as a bridge connecting people, fostering understanding, respect, and unity. Their mission is to promote cultural appreciation and awareness through engaging board games. The designs aimed to engage the audience and align with Alchi's mission of promoting cultural appreciation and awareness through board games. \n\nThe visually appealing content helped enhance Alchi's online presence, reflecting their values and mission. Through engaging visuals, the company's message of cultural appreciation and unity was effectively communicated to the audience.",
-    "gallery": ["alchi - mockup.jpg", "alchi - prices posts mockups.jpg"]
+    "gallery": ["alchi - mockup.jpg", "alchi - prices posts mockups.jpg"],
+    "embed": false
   },
   {
     "id": "cniyef",
@@ -116,7 +121,8 @@
     "client": "CNIYEF",
     "year": "2022",
     "desc": "For CNIYEF, Canva was used to create visually engaging social media posts. The project involved designing two scheduled posts per week, as well as festival posts for Dashain and Tihar. The goal was to enhance CNIYEF's online presence and engage its audience effectively. \n\nThe designs were tailored to reflect the forum's values of grooming young business leaders and fostering innovation. By focusing on creating visually appealing content that resonated with the audience, the project aimed to communicate CNIYEF's mission of empowering young entrepreneurs and shaping the future of Nepal's business landscape.",
-    "gallery": ["cniyef - mockup.jpg"]
+    "gallery": ["cniyef - mockup.jpg"],
+    "embed": false
   },
   {
     "id": "nmsagro",
@@ -129,7 +135,8 @@
     "client": "NMS Agro",
     "year": "2022",
     "desc": "I created festival-themed posts for NMS Agro using Illustrator, featuring their buffalo mascot, Tikhe. The posts were designed for Dhaan Ropai Diwas, Dashain, Deepawali, and Chhat, aligning with the company's agricultural focus and festive spirit. \n\nNMS Agro, an agricultural trading company, imports fertilizers, pesticides, and agriculture-related products from India for marketing in Nepal. The designs enhanced NMS Agro's online presence, showcasing their festive spirit and agricultural offerings. By incorporating Tikhe, the company's mascot, the posts effectively engaged their audience during these festive occasions, communicating NMS Agro's activities and reinforcing its brand identity.",
-    "gallery": ["nmsagro - mockup.jpg", "nmsagro-posts.jpg"]
+    "gallery": ["nmsagro - mockup.jpg", "nmsagro-posts.jpg"],
+    "embed": false
   },
   {
     "id": "CPT",
@@ -149,7 +156,8 @@
     "client": "Crocus Pearl Technologies",
     "year": 2023,
     "desc": "For Crocus Pearl Technologies, I developed a fully responsive and functional website using ReactJS and Bootstrap, focusing on delivering a seamless user experience. The website includes dynamic pages for the 'Works' section, which showcases the company's projects and services. Bootstrap was used to enhance the website’s styling, making it sleek and easy to navigate across all devices. Additionally, I created various graphic designs using Adobe Illustrator to depict the brand’s core values. These designs were featured in social media posts and promotional materials, helping the company strengthen its visual identity. Crocus Pearl Technologies, a tech company with the slogan 'bloom with us,' aims to inspire growth through cutting-edge technological solutions, and the website reflects that vision by being modern, dynamic, and user-centric.",
-    "gallery": ["CPT - mockup.jpg", "CPT 2.jpg", "CPT 1.jpg"]
+    "gallery": ["CPT - mockup.jpg", "CPT 2.jpg", "CPT 1.jpg"],
+    "embed": false
   },
   {
     "id": "UNWeb",
@@ -168,7 +176,8 @@
     "client": "United Nations",
     "year": 2021,
     "desc": "Working with the United Nations, I was responsible for the creative direction, UI/UX design, and prototyping of a newsletter archive website. The design was created using Figma, emphasizing intuitive navigation and accessibility to a wide range of users. The website serves as a digital archive for all newsletters published by United Nations Nepal, ensuring easy access to important information and updates. The interface was designed to be both visually appealing and user-friendly, aligning with the organization's values of promoting sustainable and inclusive growth, social development, and disaster resilience. This project aimed to deliver a platform that simplifies the process of accessing UN newsletters while maintaining the professional and informative tone expected of such an esteemed organization.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
   },
   {
     "id": "UNEmail",
@@ -187,7 +196,8 @@
     "client": "United Nations",
     "year": 2021,
     "desc": "For the United Nations' email newsletter, I developed an admin panel that streamlines the process of formatting and sending newsletters to subscribers. Created in Figma, the admin panel offers a clean and efficient UI/UX design, enabling easy input of content, formatting, and previewing before emails are sent out. This design ensures consistency in the newsletters, which reflect the United Nations’ commitment to sustainable and inclusive economic growth, social development, and human rights. The project focused on making the process as user-friendly as possible, allowing the UN to efficiently manage and distribute newsletters while maintaining their high standards of professionalism and clarity.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
   },
   {
     "id": "DAH",
@@ -209,7 +219,8 @@
     "client": "Druk Air Holidays",
     "year": 2024,
     "desc": "I designed and developed a hybrid website for Druk Air Holidays, the holiday wing of Drukair - Royal Bhutan Airlines. The site, built using ReactJS and Tailwind, includes both frontend and admin panel functionalities. The frontend showcases various holiday packages to Bhutan, with the admin panel enabling the company to update group tours, destinations, and other content. The design focuses on ease of use, with all form data being saved directly in the admin interface. The website also allows users to seamlessly browse vacation packages while presenting the luxury and unique travel experiences offered by Druk Air Holidays. This project captures the essence of adventure and cultural exploration.",
-    "gallery": ["DAH - mockup.jpeg", "DAH 1.jpg"]
+    "gallery": ["DAH - mockup.jpeg", "DAH 1.jpg"],
+    "embed": false
   },
   {
     "id": "CCharters",
@@ -231,7 +242,8 @@
     "client": "Chariot Charters",
     "year": 2024,
     "desc": "I led the development and design of a fully responsive and dynamic website for Chariot Charters using ReactJS and Tailwind. The project included designing an interactive multipart form for charter quote requests, as well as an animated carousel for displaying partnerships in the aviation industry. The website was meticulously prototyped in Figma to ensure a smooth user experience across all devices. Chariot Charters provides online charter quote request systems for passenger and cargo international airlines, and the website's clean, user-friendly interface helps users navigate easily while representing the company's professional and globally recognized services. The animated elements enhance user engagement, making the website both functional and visually appealing.",
-    "gallery": ["CCharters - mockup.jpeg", "CCharters 1.jpeg"]
+    "gallery": ["CCharters - mockup.jpeg", "CCharters 1.jpeg"],
+    "embed": false
   },
   {
     "id": "sewa",
@@ -253,7 +265,8 @@
     "client": "Sewa Printing Press",
     "year": 2024,
     "desc": "For Sewa Printing Press, I designed and developed a hybrid website that reflects the company’s professional printing services. The design, created in Figma and developed in ReactJS with Tailwind, includes pages for services, samples, clients, and more. The website is fully responsive, ensuring a seamless experience on both desktop and mobile devices. The sleek UI/UX design highlights the company's dedication to cutting-edge technology in the printing industry, with a focus on delivering top-tier printing solutions ,to businesses. Sewa Printing Press’s mission is to provide high-quality printing services, and the website effectively communicates this through a professional, streamlined layout.",
-    "gallery": ["sewa - mockup.jpeg", "sewa 1.jpeg"]
+    "gallery": ["sewa - mockup.jpeg", "sewa 1.jpeg"],
+    "embed": false
   },
   {
     "id": "eternity",
@@ -266,7 +279,8 @@
     "client": "practice",
     "year": 2021,
     "desc": "For this practice project, I developed a one-page website for a fictional fine dining restaurant called Eternity. The website, built using HTML, CSS, Bootstrap, and JavaScript, includes a landing page, gallery, contact section, and location details. The design is sleek and minimalistic, reflecting the upscale dining experience that Eternity offers. The gallery showcases high-quality images of the restaurant’s ambiance and dishes, while the contact and location sections are designed for ease of use. The project emphasizes elegance and simplicity, making it easy for users to find essential information while being captivated by the restaurant’s luxurious presentation.",
-    "gallery": ["eternity - mockup.jpg", "eternity 1.jpg"]
+    "gallery": ["eternity - mockup.jpg", "eternity 1.jpg"],
+    "embed": false
   },
   {
     "id": "bth",
@@ -279,7 +293,8 @@
     "client": "Better Than Hotel",
     "year": 2023,
     "desc": "For Better Than Hotel, I developed a modern, responsive website using Bootstrap. The design includes a scroll snap feature on the landing page, allowing for smooth transitions between sections. I also developed several other pages, such as login, registration, and property details, which follow the same modern and user-friendly design approach. This project introduced me to the scroll snap functionality, enhancing the website’s overall user experience. Better Than Hotel provides serviced accommodations in the UK, and the website reflects their commitment to hassle-free, high-quality stays, with a range of properties that cater to both short-term and long-term visitors.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
   },
   {
     "id": "CGroup",
@@ -298,52 +313,22 @@
     "client": "Chariot Group",
     "year": 2024,
     "desc": "I developed a dynamic two-page website for Chariot Group using ReactJS and Tailwind. The landing page includes a snap scroll feature for seamless navigation, while all data is fetched from APIs to keep the content updated. The website’s design also includes a contact services page, ensuring users can easily reach out to the company. Chariot Group is a renowned travel agency based in Singapore, and the website reflects their professionalism and dedication to outstanding service delivery. The project emphasized clean design, functional navigation, and a responsive layout that caters to users across all devices.",
-    "gallery": ["CGroup - mockup.jpg", "CGroup 1.jpeg"]
-  },
-  {
-    "id": "Foodcore",
-    "tag": ["development"],
-    "title": "Foodcore",
-    "link": "https://www.figma.com/proto/gRvMGTp9F1BJkHeWpc2VNF?node-id=0-1&t=4fyra0NN8tWYsJdo-6",
-    "tileImg": "",
-    "selected": false,
-    "role": [
-      "Creative Direction",
-      "ReactJS",
-      "Tailwind",
-      "UI / UX",
-      "Website Development"
-    ],
-    "client": "Foodcore",
-    "year": 2024,
-    "desc": "For Foodcore, I designed and developed a dynamic, responsive website using ReactJS and Tailwind. The focus was on creating an intuitive UI/UX design that highlights the brand’s commitment to delivering high-quality food services. The website includes a clean landing page, with sections dedicated to menu offerings, services, and customer testimonials. Each page was designed to enhance user engagement, with smooth transitions and easy-to-navigate content. The use of Tailwind for styling ensured a modern, polished look, and the responsive design guarantees a seamless experience across all devices. Foodcore aims to revolutionize the food industry, and the website reflects that mission.",
-    "gallery": []
-  },
-  {
-    "id": "Tamicha",
-    "tag": ["development"],
-    "title": "Tamicha",
-    "link": "https://tamicha.com/",
-    "tileImg": "",
-    "selected": false,
-    "role": ["ReactJS", "Tailwind", "UI / UX", "Website Development"],
-    "client": "Tamicha",
-    "year": 2024,
-    "desc": "For Tamicha, I developed a single-page dynamic website using ReactJS and Tailwind. The website’s landing page features a snap scroll functionality, providing smooth and interactive transitions between sections. All data is fetched from an API, ensuring real-time updates of Tamicha’s luxury travel services. The design was tailored to convey the company’s values of offering personalized, high-end travel experiences. Tamicha strives to provide luxury travel options with first-class flights and five-star hospitality, and the website’s clean, professional layout reinforces that vision. This project allowed me to explore creative ways to implement dynamic data fetching and advanced UI/UX interactions.",
-    "gallery": []
+    "gallery": ["CGroup - mockup.jpg", "CGroup 1.jpeg"],
+    "embed": false
   },
   {
     "id": "amt",
     "tag": ["development"],
     "title": "All Malaysia Travels",
     "link": "https://www.allmalaysiatravel.com/",
-    "tileImg": "",
+    "tileImg": "amt.jpg",
     "selected": false,
     "role": ["ReactJS", "Tailwind", "UI / UX", "Website Development"],
     "client": "All Malaysia Travels",
     "year": 2024,
     "desc": "For All Malaysia Travels, I designed and developed a dynamic single-page website using ReactJS and Tailwind. The website features a snap scroll functionality in the landing page, providing users with an engaging and smooth browsing experience. All the data is fetched dynamically from an API, ensuring up-to-date content on the company’s chartered flight services and tourism offerings. The design is sleek, modern, and optimized for a seamless user experience, reflecting the company’s reputation as a leader in the travel and airline industry in Malaysia. The project focused on creating a responsive, user-centric platform that highlights All Malaysia Travels' core services and expertise.",
-    "gallery": []
+    "gallery": ["amt - mockup.jpeg"],
+    "embed": false
   },
   {
     "id": "Octacore",
@@ -362,7 +347,28 @@
     "client": "Octacore",
     "year": 2024,
     "desc": "For Octacore, I developed a hybrid website using ReactJS and Tailwind that captures the brand’s innovative spirit through interactive design elements. The landing page features animated bubbles that rise and fall, creating a fluid, engaging experience that mirrors Octacore's flexible and adaptable approach to technology solutions. Other pages include clients, works, a detailed work page, and a career section, each with dynamic content fetched from APIs. The site’s highlight is its unique visual aesthetic, reminiscent of a lava lamp, which sets it apart from traditional corporate websites. Octacore Solutions focuses on providing global IT services, and this project reflects their forward-thinking, innovative ethos.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
+  },
+  {
+    "id": "Foodcore",
+    "tag": ["development"],
+    "title": "Foodcore",
+    "link": "https://www.figma.com/proto/gRvMGTp9F1BJkHeWpc2VNF?node-id=0-1&t=4fyra0NN8tWYsJdo-6",
+    "tileImg": "",
+    "selected": false,
+    "role": [
+      "Creative Direction",
+      "ReactJS",
+      "Tailwind",
+      "UI / UX",
+      "Website Development"
+    ],
+    "client": "Foodcore",
+    "year": 2024,
+    "desc": "For Foodcore, I designed and developed a dynamic, responsive website using ReactJS and Tailwind. The focus was on creating an intuitive UI/UX design that highlights the brand’s commitment to delivering high-quality food services. The website includes a clean landing page, with sections dedicated to menu offerings, services, and customer testimonials. Each page was designed to enhance user engagement, with smooth transitions and easy-to-navigate content. The use of Tailwind for styling ensured a modern, polished look, and the responsive design guarantees a seamless experience across all devices. Foodcore aims to revolutionize the food industry, and the website reflects that mission.",
+    "gallery": [],
+    "embed": false
   },
   {
     "id": "ElderCare",
@@ -381,7 +387,8 @@
     "client": "practice",
     "year": 2023,
     "desc": "For this practice project, I designed an admin panel for a health care management web app, along with a general landing page. The web app is designed to support an organization that provides services for the elderly, including caregiving and medical facilities. Using Figma, I focused on creating an intuitive UI/UX design that caters to both administrators and users, ensuring easy management of elderly care services. The landing page introduces the organization’s services, offering a clear and compassionate interface that aligns with the organization's fictional values of providing personalized, compassionate care for the elderly. The project emphasizes simplicity and ease of use for all users, reflecting the caring nature of the service.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
   },
   {
     "id": "Techtagon",
@@ -400,7 +407,8 @@
     "client": "practice",
     "year": 2024,
     "desc": "For this fictional tech company, I created a home page designed in Figma with a focus on modern UI/UX principles. The design incorporated creative direction and prototyping, highlighting the company's fictional values of innovation, technology leadership, and customer-centric solutions. The website layout is clean and intuitive, with a dynamic interface that presents the company's services and solutions effectively. This practice project allowed me to explore advanced wireframing and user interface techniques while delivering a design that mirrors the core attributes of a forward-thinking tech company. The landing page presents a clear call to action and showcases the potential of the fictional brand.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
   },
   {
     "id": "TimeWatch",
@@ -419,7 +427,8 @@
     "client": "practice",
     "year": 2024,
     "desc": "For this practice project, I designed a basic eCommerce website for a fictional watch company. The website, created in Figma, includes a landing page, a product overview page, and a detailed page for individual product listings. The design focuses on clean aesthetics and intuitive navigation, ensuring users can easily browse through the watch collection. The interface also reflects the luxury and precision associated with the brand, using minimalist design elements to highlight product features. This fictional company prides itself on offering high-quality branded watches, and the design supports that ethos by creating an upscale yet user-friendly shopping experience.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
   },
   {
     "id": "VerdantCode",
@@ -438,6 +447,7 @@
     "client": "practice",
     "year": 2023,
     "desc": "VerdantCode is a dynamic and responsive website developed as a practice project using ReactJS and Tailwind. The landing page features two types of carousel implementations, creating an engaging visual experience. Essential pages like contact and services were designed with modern UI/UX principles, ensuring smooth navigation and user interaction. While the project lacks eco-friendly values despite its green aesthetic, it focuses on delivering a sleek, responsive interface with a flexible layout, reflecting the latest in web development trends.",
-    "gallery": []
+    "gallery": [],
+    "embed": false
   }
 ]

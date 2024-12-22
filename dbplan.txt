@@ -218,3 +218,19 @@
 "year":2024
 "desc":For Octacore, I developed a hybrid website using ReactJS and Tailwind that captures the brand’s innovative spirit through interactive design elements. The landing page features animated bubbles that rise and fall, creating a fluid, engaging experience that mirrors Octacore's flexible and adaptable approach to technology solutions. Other pages include clients, works, a detailed work page, and a career section, each with dynamic content fetched from APIs. The site’s highlight is its unique visual aesthetic, reminiscent of a lava lamp, which sets it apart from traditional corporate websites. Octacore Solutions focuses on providing global IT services, and this project reflects their forward-thinking, innovative ethos.
 "gallery": []
+
+
+removed from main file
+{
+  "id": "Tamicha",
+  "tag": ["development"],
+  "title": "Tamicha",
+  "link": "https://tamicha.com/",
+  "tileImg": "",
+  "selected": false,
+  "role": ["ReactJS", "Tailwind", "UI / UX", "Website Development"],
+  "client": "Tamicha",
+  "year": 2024,
+  "desc": "For Tamicha, I developed a single-page dynamic website using ReactJS and Tailwind. The website’s landing page features a snap scroll functionality, providing smooth and interactive transitions between sections. All data is fetched from an API, ensuring real-time updates of Tamicha’s luxury travel services. The design was tailored to convey the company’s values of offering personalized, high-end travel experiences. Tamicha strives to provide luxury travel options with first-class flights and five-star hospitality, and the website’s clean, professional layout reinforces that vision. This project allowed me to explore creative ways to implement dynamic data fetching and advanced UI/UX interactions.",
+  "gallery": []
+},

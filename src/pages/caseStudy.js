@@ -10,10 +10,20 @@ const CaseStudy = () => {
   const { data: projects, error } = useFetch(`${API_URL}`);
   const [caseStudy, setCaseStudy] = useState(projects);
 
+  // for overlay
+  const [isOverlayOpen, setIsOverlayOpen] = useState(false);
+
+  const handleLinkClick = () => {
+    setIsOverlayOpen(true);
+  };
+
+  const handleCloseOverlay = () => {
+    setIsOverlayOpen(false);
+  };
+  // for overlay
   useEffect(() => {
     setCaseStudy(projects?.filter((project) => project.id.includes(id)));
   }, [projects, id]);
-
   // console.log(caseStudy[0].tag.length);
   return (
     <>
@@ -39,7 +49,8 @@ const CaseStudy = () => {
                   ))}
                 </h4>
                 <h5 className="subH pt-5">Client</h5>
-                {caseStudy[0].link !== "" ? (
+                {/* link  */}
+                {caseStudy[0].link !== "" && caseStudy[0].embed === false ? (
                   <a
                     href={caseStudy[0].link}
                     target="_blank"
@@ -48,6 +59,14 @@ const CaseStudy = () => {
                   >
                     {caseStudy[0].client}
                   </a>
+                ) : caseStudy[0].link !== "" && caseStudy[0].embed === true ? (
+                  // for embed
+                  <div
+                    onClick={handleLinkClick}
+                    className={`font-semibold link cursor-pointer`}
+                  >
+                    {caseStudy[0].client}
+                  </div>
                 ) : (
                   <div className={`font-semibold`}>{caseStudy[0].client}</div>
                 )}
@@ -75,6 +94,29 @@ const CaseStudy = () => {
           <Loader />
         )}
       </section>
+      {isOverlayOpen && (
+        <div className="fixed inset-0 flex justify-center items-center z-[100000] w-screen">
+          <button
+            className="absolute top-5 right-12 text-white text-5xl flex items-center"
+            onClick={handleCloseOverlay}
+          >
+            &times; <span className="text-lg text-white">CLOSE</span>
+          </button>
+          <iframe
+            className="h-screen w-screen"
+            title="embed figma"
+            src={caseStudy[0].link}
+            allowfullscreen
+          ></iframe>
+        </div>
+      )}
+      <iframe
+        // style="border: 1px solid rgba(0, 0, 0, 0.1);"
+        width="800"
+        height="450"
+        src="https://embed.figma.com/proto/YHOsC7fHWgJrRqRGVLtRTr/UN-Bulletin%3A-Backend-Wireframe?node-id=1-9&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A9&embed-host=share"
+        allowfullscreen
+      ></iframe>
     </>
   );
 };
