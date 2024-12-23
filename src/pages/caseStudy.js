@@ -59,15 +59,16 @@ const CaseStudy = () => {
                   >
                     {caseStudy[0].client}
                   </a>
-                ) : caseStudy[0].link !== "" && caseStudy[0].embed === true ? (
-                  // for embed
-                  <div
-                    onClick={handleLinkClick}
-                    className={`font-semibold link cursor-pointer`}
-                  >
-                    {caseStudy[0].client}
-                  </div>
                 ) : (
+                  // : caseStudy[0].link !== "" && caseStudy[0].embed === true ? (
+                  //   // for embed
+                  //   <div
+                  //     onClick={handleLinkClick}
+                  //     className={`font-semibold link cursor-pointer`}
+                  //   >
+                  //     {caseStudy[0].client}
+                  //   </div>
+                  // )
                   <div className={`font-semibold`}>{caseStudy[0].client}</div>
                 )}
                 <h5 className="subH pt-5">Year</h5>
@@ -110,13 +111,6 @@ const CaseStudy = () => {
           ></iframe>
         </div>
       )}
-      <iframe
-        // style="border: 1px solid rgba(0, 0, 0, 0.1);"
-        width="800"
-        height="450"
-        src="https://embed.figma.com/proto/YHOsC7fHWgJrRqRGVLtRTr/UN-Bulletin%3A-Backend-Wireframe?node-id=1-9&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A9&embed-host=share"
-        allowfullscreen
-      ></iframe>
     </>
   );
 };

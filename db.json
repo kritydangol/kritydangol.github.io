@@ -177,7 +177,7 @@
     "year": 2021,
     "desc": "Working with the United Nations, I was responsible for the creative direction, UI/UX design, and prototyping of a newsletter archive website. The design was created using Figma, emphasizing intuitive navigation and accessibility to a wide range of users. The website serves as a digital archive for all newsletters published by United Nations Nepal, ensuring easy access to important information and updates. The interface was designed to be both visually appealing and user-friendly, aligning with the organization's values of promoting sustainable and inclusive growth, social development, and disaster resilience. This project aimed to deliver a platform that simplifies the process of accessing UN newsletters while maintaining the professional and informative tone expected of such an esteemed organization.",
     "gallery": [],
-    "embed": false
+    "embed": true
   },
   {
     "id": "UNEmail",
@@ -197,7 +197,7 @@
     "year": 2021,
     "desc": "For the United Nations' email newsletter, I developed an admin panel that streamlines the process of formatting and sending newsletters to subscribers. Created in Figma, the admin panel offers a clean and efficient UI/UX design, enabling easy input of content, formatting, and previewing before emails are sent out. This design ensures consistency in the newsletters, which reflect the United Nations’ commitment to sustainable and inclusive economic growth, social development, and human rights. The project focused on making the process as user-friendly as possible, allowing the UN to efficiently manage and distribute newsletters while maintaining their high standards of professionalism and clarity.",
     "gallery": [],
-    "embed": false
+    "embed": true
   },
   {
     "id": "DAH",
@@ -294,7 +294,7 @@
     "year": 2023,
     "desc": "For Better Than Hotel, I developed a modern, responsive website using Bootstrap. The design includes a scroll snap feature on the landing page, allowing for smooth transitions between sections. I also developed several other pages, such as login, registration, and property details, which follow the same modern and user-friendly design approach. This project introduced me to the scroll snap functionality, enhancing the website’s overall user experience. Better Than Hotel provides serviced accommodations in the UK, and the website reflects their commitment to hassle-free, high-quality stays, with a range of properties that cater to both short-term and long-term visitors.",
     "gallery": [],
-    "embed": false
+    "embed": true
   },
   {
     "id": "CGroup",
@@ -368,7 +368,7 @@
     "year": 2024,
     "desc": "For Foodcore, I designed and developed a dynamic, responsive website using ReactJS and Tailwind. The focus was on creating an intuitive UI/UX design that highlights the brand’s commitment to delivering high-quality food services. The website includes a clean landing page, with sections dedicated to menu offerings, services, and customer testimonials. Each page was designed to enhance user engagement, with smooth transitions and easy-to-navigate content. The use of Tailwind for styling ensured a modern, polished look, and the responsive design guarantees a seamless experience across all devices. Foodcore aims to revolutionize the food industry, and the website reflects that mission.",
     "gallery": [],
-    "embed": false
+    "embed": true
   },
   {
     "id": "ElderCare",
@@ -388,7 +388,7 @@
     "year": 2023,
     "desc": "For this practice project, I designed an admin panel for a health care management web app, along with a general landing page. The web app is designed to support an organization that provides services for the elderly, including caregiving and medical facilities. Using Figma, I focused on creating an intuitive UI/UX design that caters to both administrators and users, ensuring easy management of elderly care services. The landing page introduces the organization’s services, offering a clear and compassionate interface that aligns with the organization's fictional values of providing personalized, compassionate care for the elderly. The project emphasizes simplicity and ease of use for all users, reflecting the caring nature of the service.",
     "gallery": [],
-    "embed": false
+    "embed": true
   },
   {
     "id": "Techtagon",
@@ -408,7 +408,7 @@
     "year": 2024,
     "desc": "For this fictional tech company, I created a home page designed in Figma with a focus on modern UI/UX principles. The design incorporated creative direction and prototyping, highlighting the company's fictional values of innovation, technology leadership, and customer-centric solutions. The website layout is clean and intuitive, with a dynamic interface that presents the company's services and solutions effectively. This practice project allowed me to explore advanced wireframing and user interface techniques while delivering a design that mirrors the core attributes of a forward-thinking tech company. The landing page presents a clear call to action and showcases the potential of the fictional brand.",
     "gallery": [],
-    "embed": false
+    "embed": true
   },
   {
     "id": "TimeWatch",
@@ -428,7 +428,7 @@
     "year": 2024,
     "desc": "For this practice project, I designed a basic eCommerce website for a fictional watch company. The website, created in Figma, includes a landing page, a product overview page, and a detailed page for individual product listings. The design focuses on clean aesthetics and intuitive navigation, ensuring users can easily browse through the watch collection. The interface also reflects the luxury and precision associated with the brand, using minimalist design elements to highlight product features. This fictional company prides itself on offering high-quality branded watches, and the design supports that ethos by creating an upscale yet user-friendly shopping experience.",
     "gallery": [],
-    "embed": false
+    "embed": true
   },
   {
     "id": "VerdantCode",
@@ -448,6 +448,6 @@
     "year": 2023,
     "desc": "VerdantCode is a dynamic and responsive website developed as a practice project using ReactJS and Tailwind. The landing page features two types of carousel implementations, creating an engaging visual experience. Essential pages like contact and services were designed with modern UI/UX principles, ensuring smooth navigation and user interaction. While the project lacks eco-friendly values despite its green aesthetic, it focuses on delivering a sleek, responsive interface with a flexible layout, reflecting the latest in web development trends.",
     "gallery": [],
-    "embed": false
+    "embed": true
   }
 ]
