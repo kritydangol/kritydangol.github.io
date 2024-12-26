@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6809da11.css",
-    "main.js": "/static/js/main.82aaf9fa.js",
+    "main.js": "/static/js/main.74c026ba.js",
     "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.76117f4511c16301eb31.pdf",
     "static/media/eternity 1.jpg": "/static/media/eternity 1.1fc274a7aa5c11e03893.jpg",
     "static/media/eternity - mockup.jpg": "/static/media/eternity - mockup.f33663d8ad3fecaa61ab.jpg",
@@ -26,14 +26,15 @@
     "static/media/UNEmail - 1.jpg": "/static/media/UNEmail - 1.9c8b9347f2e4deb514b8.jpg",
     "static/media/trisara franchise.jpg": "/static/media/trisara franchise.9f99b9d5e73ef3f68ff7.jpg",
     "static/media/trisara - mockup.jpg": "/static/media/trisara - mockup.5ddeac08ff66cdac51f8.jpg",
+    "static/media/PSD Laptop screen mockup wesbite template.jpeg": "/static/media/PSD Laptop screen mockup wesbite template.45638fc66bfcdbd6c80b.jpeg",
     "static/media/PSV - all pages.jpg": "/static/media/PSV - all pages.0f5bbdaeece7cabf19d5.jpg",
     "static/media/serene - mockup.jpg": "/static/media/serene - mockup.9acb027fb9d82a75f600.jpg",
     "static/media/sewa.jpg": "/static/media/sewa.5f63c9b9a050c56e3059.jpg",
     "static/media/DAH.jpg": "/static/media/DAH.fb5caab2b078437808de.jpg",
     "static/media/eternity.jpg": "/static/media/eternity.0591670efa2517dd4f13.jpg",
     "static/media/amt.jpg": "/static/media/amt.ff9e7e193f62de291d02.jpg",
+    "static/media/UNEmail.jpg": "/static/media/UNEmail.7ddd9a16024076f82924.jpg",
     "static/media/5.jpg": "/static/media/5.24114fc80af842590b4d.jpg",
-    "static/media/UNEmail.jpg": "/static/media/UNEmail.b263816f872688a6c04b.jpg",
     "static/media/CGroup - mockup.jpg": "/static/media/CGroup - mockup.c566cb6d494f39b081d3.jpg",
     "static/media/PSV phone.jpg": "/static/media/PSV phone.7de63ea4bf5068240194.jpg",
     "static/media/CGroup.jpg": "/static/media/CGroup.be885cf809f228f79f77.jpg",
@@ -60,13 +61,13 @@
     "static/media/CCharters 1.jpeg": "/static/media/CCharters 1.fc32754ba12845121f23.jpeg",
     "static/media/PSV laptop.jpg": "/static/media/PSV laptop.c88297d719a0cc1a68cc.jpg",
     "static/media/14.jpg": "/static/media/14.dd5e204146f497943322.jpg",
-    "static/media/UNEmail - mockup.jpeg": "/static/media/UNEmail - mockup.d4d37b01de36eb3fd0d3.jpeg",
     "static/media/CCharters.jpg": "/static/media/CCharters.7c392ce64fb9690148c6.jpg",
     "static/media/serene - mockup1.jpg": "/static/media/serene - mockup1.2d3ba388824845c9052b.jpg",
     "static/media/PSV mobile.jpg": "/static/media/PSV mobile.4b59495d7b5b03f7bb31.jpg",
     "static/media/13.jpg": "/static/media/13.a396adf0ccc0f92e7c6b.jpg",
     "static/media/15.jpg": "/static/media/15.c47e3b159f4fddd53a4e.jpg",
     "static/media/trisara - menu.jpeg": "/static/media/trisara - menu.486a18e196a9dd4200ff.jpeg",
+    "static/media/UNEmail - mockup.jpeg": "/static/media/UNEmail - mockup.34e036e8595b23bdee3c.jpeg",
     "static/media/PSV tablet.jpg": "/static/media/PSV tablet.8425ebe643c83dc74c9b.jpg",
     "static/media/CGroup 1.jpeg": "/static/media/CGroup 1.19a8701be77a850f8522.jpeg",
     "static/media/1.jpg": "/static/media/1.4040b47eee94ed93e645.jpg",
@@ -85,10 +86,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.6809da11.css.map": "/static/css/main.6809da11.css.map",
-    "main.82aaf9fa.js.map": "/static/js/main.82aaf9fa.js.map"
+    "main.74c026ba.js.map": "/static/js/main.74c026ba.js.map"
   },
   "entrypoints": [
     "static/css/main.6809da11.css",
-    "static/js/main.82aaf9fa.js"
+    "static/js/main.74c026ba.js"
   ]
 }
