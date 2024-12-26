@@ -184,7 +184,7 @@
     "tag": ["ui ux design"],
     "title": "UN Email - Newsletter",
     "link": "https://www.figma.com/design/xJbEjgEPpMWg2xedLcYB8c/UN-Bulletin%3A-Concept-1?node-id=0-1&node-type=canvas",
-    "tileImg": "",
+    "tileImg": "UNEmail.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -196,7 +196,7 @@
     "client": "United Nations",
     "year": 2021,
     "desc": "For the United Nations' email newsletter, I developed an admin panel that streamlines the process of formatting and sending newsletters to subscribers. Created in Figma, the admin panel offers a clean and efficient UI/UX design, enabling easy input of content, formatting, and previewing before emails are sent out. This design ensures consistency in the newsletters, which reflect the United Nations’ commitment to sustainable and inclusive economic growth, social development, and human rights. The project focused on making the process as user-friendly as possible, allowing the UN to efficiently manage and distribute newsletters while maintaining their high standards of professionalism and clarity.",
-    "gallery": [],
+    "gallery": ["UNEmail - mockup.jpeg", "UNEmail - 1.jpg"],
     "embed": true
   },
   {
