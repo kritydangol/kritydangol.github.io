@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6809da11.css",
-    "main.js": "/static/js/main.74c026ba.js",
+    "main.js": "/static/js/main.43fc89e1.js",
     "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.76117f4511c16301eb31.pdf",
     "static/media/eternity 1.jpg": "/static/media/eternity 1.1fc274a7aa5c11e03893.jpg",
     "static/media/eternity - mockup.jpg": "/static/media/eternity - mockup.f33663d8ad3fecaa61ab.jpg",
@@ -20,19 +20,25 @@
     "static/media/PSV family.png": "/static/media/PSV family.14d8b1c6aa7b101c2246.png",
     "static/media/CPT 2.jpg": "/static/media/CPT 2.2d61df182c7b6c1db4d9.jpg",
     "static/media/DAH 1.jpg": "/static/media/DAH 1.ac0b749fb5401c71d822.jpg",
+    "static/media/Minimalist desktop computer mockup.png": "/static/media/Minimalist desktop computer mockup.007cf2bd1f26282c3179.png",
     "static/media/nmsagro - mockup.jpg": "/static/media/nmsagro - mockup.56809a9fd7711596f7ce.jpg",
     "static/media/nmsagro.jpg": "/static/media/nmsagro.245c9e6b54dd05d2e5c6.jpg",
     "static/media/CPT - mockup.jpg": "/static/media/CPT - mockup.e7b17d2649c30a114fdb.jpg",
     "static/media/UNEmail - 1.jpg": "/static/media/UNEmail - 1.9c8b9347f2e4deb514b8.jpg",
     "static/media/trisara franchise.jpg": "/static/media/trisara franchise.9f99b9d5e73ef3f68ff7.jpg",
+    "static/media/techtagon 1.jpeg": "/static/media/techtagon 1.facce4c29a1f14415fd8.jpeg",
     "static/media/trisara - mockup.jpg": "/static/media/trisara - mockup.5ddeac08ff66cdac51f8.jpg",
     "static/media/PSD Laptop screen mockup wesbite template.jpeg": "/static/media/PSD Laptop screen mockup wesbite template.45638fc66bfcdbd6c80b.jpeg",
+    "static/media/ElderCare 1.jpeg": "/static/media/ElderCare 1.6a1ada86163cacb823c1.jpeg",
     "static/media/PSV - all pages.jpg": "/static/media/PSV - all pages.0f5bbdaeece7cabf19d5.jpg",
+    "static/media/ElderCare - mockup.jpeg": "/static/media/ElderCare - mockup.2f786407b735a81005e9.jpeg",
     "static/media/serene - mockup.jpg": "/static/media/serene - mockup.9acb027fb9d82a75f600.jpg",
     "static/media/sewa.jpg": "/static/media/sewa.5f63c9b9a050c56e3059.jpg",
     "static/media/DAH.jpg": "/static/media/DAH.fb5caab2b078437808de.jpg",
     "static/media/eternity.jpg": "/static/media/eternity.0591670efa2517dd4f13.jpg",
     "static/media/amt.jpg": "/static/media/amt.ff9e7e193f62de291d02.jpg",
+    "static/media/UNWeb.jpeg": "/static/media/UNWeb.8af90f8fba9cb4729b73.jpeg",
+    "static/media/ElderCare.jpg": "/static/media/ElderCare.7488ef919ef52a0f9a4b.jpg",
     "static/media/UNEmail.jpg": "/static/media/UNEmail.7ddd9a16024076f82924.jpg",
     "static/media/5.jpg": "/static/media/5.24114fc80af842590b4d.jpg",
     "static/media/CGroup - mockup.jpg": "/static/media/CGroup - mockup.c566cb6d494f39b081d3.jpg",
@@ -48,6 +54,7 @@
     "static/media/PSV tablets.jpg": "/static/media/PSV tablets.54211fff9feeb1f50b25.jpg",
     "static/media/8.jpg": "/static/media/8.47083bf26d479b315b89.jpg",
     "static/media/7.jpg": "/static/media/7.6c4512a2dc5b9353fe53.jpg",
+    "static/media/UNWeb 1.jpeg": "/static/media/UNWeb 1.ee88ddf402020319c15f.jpeg",
     "static/media/PSV - typography, colours (1).jpg": "/static/media/PSV - typography, colours (1).bdda6acd1c298d925534.jpg",
     "static/media/DAH - mockup.jpeg": "/static/media/DAH - mockup.0f82ca82f104c078eb9b.jpeg",
     "static/media/3.jpg": "/static/media/3.3103d551f70b695dbdfc.jpg",
@@ -57,11 +64,14 @@
     "static/media/trisara.jpg": "/static/media/trisara.e93a1a688d3c9e2bae0c.jpg",
     "static/media/PSV mockups.jpg": "/static/media/PSV mockups.f16a6b3dd49378b905e1.jpg",
     "static/media/sewa - mockup.jpeg": "/static/media/sewa - mockup.3f61a8dc6111213f334f.jpeg",
+    "static/media/techtagon - mockup.jpg": "/static/media/techtagon - mockup.c8460e4c93ab2cc03002.jpg",
     "static/media/CPT.jpg": "/static/media/CPT.b794ebafc28b866df2a6.jpg",
     "static/media/CCharters 1.jpeg": "/static/media/CCharters 1.fc32754ba12845121f23.jpeg",
     "static/media/PSV laptop.jpg": "/static/media/PSV laptop.c88297d719a0cc1a68cc.jpg",
     "static/media/14.jpg": "/static/media/14.dd5e204146f497943322.jpg",
     "static/media/CCharters.jpg": "/static/media/CCharters.7c392ce64fb9690148c6.jpg",
+    "static/media/techtagon.jpg": "/static/media/techtagon.a65d762e09f2ed355f0f.jpg",
+    "static/media/UNWeb - mockup.jpeg": "/static/media/UNWeb - mockup.1d735643f242afe3cb65.jpeg",
     "static/media/serene - mockup1.jpg": "/static/media/serene - mockup1.2d3ba388824845c9052b.jpg",
     "static/media/PSV mobile.jpg": "/static/media/PSV mobile.4b59495d7b5b03f7bb31.jpg",
     "static/media/13.jpg": "/static/media/13.a396adf0ccc0f92e7c6b.jpg",
@@ -86,10 +96,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.6809da11.css.map": "/static/css/main.6809da11.css.map",
-    "main.74c026ba.js.map": "/static/js/main.74c026ba.js.map"
+    "main.43fc89e1.js.map": "/static/js/main.43fc89e1.js.map"
   },
   "entrypoints": [
     "static/css/main.6809da11.css",
-    "static/js/main.74c026ba.js"
+    "static/js/main.43fc89e1.js"
   ]
 }
