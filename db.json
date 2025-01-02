@@ -415,7 +415,7 @@
     "tag": ["ui ux design", "practice"],
     "title": "TimeWatch",
     "link": "https://www.figma.com/design/KSevvRTWlOjMqqu3mfcApx/Achieve-|-CASIO?node-id=3-20&t=BlGeyPa0T4lkzP9H-1",
-    "tileImg": "",
+    "tileImg": "TimeWatch.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -427,7 +427,7 @@
     "client": "practice",
     "year": 2024,
     "desc": "For this practice project, I designed a basic eCommerce website for a fictional watch company. The website, created in Figma, includes a landing page, a product overview page, and a detailed page for individual product listings. The design focuses on clean aesthetics and intuitive navigation, ensuring users can easily browse through the watch collection. \n\nThe interface also reflects the luxury and precision associated with the brand, using minimalist design elements to highlight product features. This fictional company prides itself on offering high-quality branded watches, and the design supports that ethos by creating an upscale yet user-friendly shopping experience.",
-    "gallery": [],
+    "gallery": ["TimeWatch - mockup.jpeg", "TimeWatch1.jpeg"],
     "embed": true
   },
   {
