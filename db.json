@@ -407,7 +407,11 @@
     "client": "practice",
     "year": 2024,
     "desc": "For this fictional tech company, I created a home page designed in Figma with a focus on modern UI/UX principles. The design incorporated creative direction and prototyping, highlighting the company's fictional values of innovation, technology leadership, and customer-centric solutions. \n\nThe website layout is clean and intuitive, with a dynamic interface that presents the company's services and solutions effectively. This practice project allowed me to explore advanced wireframing and user interface techniques while delivering a design that mirrors the core attributes of a forward-thinking tech company. The landing page presents a clear call to action and showcases the potential of the fictional brand.",
-    "gallery": ["techtagon - mockup.jpg", "techtagon 1.jpeg"],
+    "gallery": [
+      "techtagon - mockup.jpg",
+      "techtagon 1.jpeg",
+      "techtagon - all pages.jpg"
+    ],
     "embed": true
   },
   {
