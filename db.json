@@ -287,7 +287,7 @@
     "tag": ["development"],
     "title": "Better Than Hotel",
     "link": "https://www.figma.com/design/8uDnDBCrAMmNezvKMZsqE2/Crocus-Pearl?node-id=0-1&t=vyzncMWYCcBDdlua-1",
-    "tileImg": "",
+    "tileImg": "bth.png",
     "selected": false,
     "role": ["Bootstrap", "UI / UX", "Website Development"],
     "client": "Better Than Hotel",
@@ -335,7 +335,7 @@
     "tag": ["development"],
     "title": "Octacore",
     "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?m=auto&t=4fyra0NN8tWYsJdo-6",
-    "tileImg": "",
+    "tileImg": "octacore.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -347,7 +347,7 @@
     "client": "Octacore",
     "year": 2024,
     "desc": "For Octacore, I developed a hybrid website using ReactJS and Tailwind that captures the brand’s innovative spirit through interactive design elements. The landing page features animated bubbles that rise and fall, creating a fluid, engaging experience that mirrors Octacore's flexible and adaptable approach to technology solutions. Other pages include clients, works, a detailed work page, and a career section, each with dynamic content fetched from APIs. \n\nThe site’s highlight is its unique visual aesthetic, reminiscent of a lava lamp, which sets it apart from traditional corporate websites. Octacore Solutions focuses on providing global IT services, and this project reflects their forward-thinking, innovative ethos.",
-    "gallery": [],
+    "gallery": ["octacore - all pages.jpg", "octacore - mockup.jpg"],
     "embed": false
   },
   {
