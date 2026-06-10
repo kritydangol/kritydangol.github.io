@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6809da11.css",
-    "main.js": "/static/js/main.f14b1234.js",
-    "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.76117f4511c16301eb31.pdf",
+    "main.js": "/static/js/main.cbc4609a.js",
+    "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.85173435f355087b5833.pdf",
     "static/media/eternity 1.jpg": "/static/media/eternity 1.1fc274a7aa5c11e03893.jpg",
     "static/media/eternity - mockup.jpg": "/static/media/eternity - mockup.f33663d8ad3fecaa61ab.jpg",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
@@ -27,13 +27,17 @@
     "static/media/CPT - mockup.jpg": "/static/media/CPT - mockup.e7b17d2649c30a114fdb.jpg",
     "static/media/UNEmail - 1.jpg": "/static/media/UNEmail - 1.9c8b9347f2e4deb514b8.jpg",
     "static/media/TimeWatch1.jpeg": "/static/media/TimeWatch1.58f8323b90158cf318d2.jpeg",
+    "static/media/bth.png": "/static/media/bth.9948df8777a03c0e5f08.png",
     "static/media/trisara franchise.jpg": "/static/media/trisara franchise.9f99b9d5e73ef3f68ff7.jpg",
     "static/media/techtagon 1.jpeg": "/static/media/techtagon 1.facce4c29a1f14415fd8.jpeg",
     "static/media/trisara - mockup.jpg": "/static/media/trisara - mockup.5ddeac08ff66cdac51f8.jpg",
     "static/media/PSD Laptop screen mockup wesbite template.jpeg": "/static/media/PSD Laptop screen mockup wesbite template.45638fc66bfcdbd6c80b.jpeg",
     "static/media/ElderCare 1.jpeg": "/static/media/ElderCare 1.6a1ada86163cacb823c1.jpeg",
     "static/media/PSV - all pages.jpg": "/static/media/PSV - all pages.0f5bbdaeece7cabf19d5.jpg",
+    "static/media/bth - all pages.jpg": "/static/media/bth - all pages.abdf5a8ad01717362255.jpg",
+    "static/media/octacore - all pages.jpg": "/static/media/octacore - all pages.9f1c43e42b9188eb27ba.jpg",
     "static/media/ElderCare - mockup.jpeg": "/static/media/ElderCare - mockup.2f786407b735a81005e9.jpeg",
+    "static/media/bth - mockup.jpg": "/static/media/bth - mockup.1d7fcba4a14b81aeca7c.jpg",
     "static/media/serene - mockup.jpg": "/static/media/serene - mockup.9acb027fb9d82a75f600.jpg",
     "static/media/sewa.jpg": "/static/media/sewa.5f63c9b9a050c56e3059.jpg",
     "static/media/DAH.jpg": "/static/media/DAH.fb5caab2b078437808de.jpg",
@@ -41,10 +45,12 @@
     "static/media/eternity.jpg": "/static/media/eternity.0591670efa2517dd4f13.jpg",
     "static/media/amt.jpg": "/static/media/amt.ff9e7e193f62de291d02.jpg",
     "static/media/UNWeb.jpeg": "/static/media/UNWeb.8af90f8fba9cb4729b73.jpeg",
+    "static/media/techtagon - all pages.jpg": "/static/media/techtagon - all pages.8aa63ef0c6c10a1e578d.jpg",
     "static/media/ElderCare.jpg": "/static/media/ElderCare.7488ef919ef52a0f9a4b.jpg",
     "static/media/UNEmail.jpg": "/static/media/UNEmail.7ddd9a16024076f82924.jpg",
     "static/media/5.jpg": "/static/media/5.24114fc80af842590b4d.jpg",
     "static/media/CGroup - mockup.jpg": "/static/media/CGroup - mockup.c566cb6d494f39b081d3.jpg",
+    "static/media/octacore - mockup.jpg": "/static/media/octacore - mockup.798454ef3fd15f2fae4f.jpg",
     "static/media/PSV phone.jpg": "/static/media/PSV phone.7de63ea4bf5068240194.jpg",
     "static/media/CGroup.jpg": "/static/media/CGroup.be885cf809f228f79f77.jpg",
     "static/media/9.jpg": "/static/media/9.d5e22598ead4b65e7039.jpg",
@@ -82,6 +88,7 @@
     "static/media/trisara - menu.jpeg": "/static/media/trisara - menu.486a18e196a9dd4200ff.jpeg",
     "static/media/UNEmail - mockup.jpeg": "/static/media/UNEmail - mockup.34e036e8595b23bdee3c.jpeg",
     "static/media/PSV tablet.jpg": "/static/media/PSV tablet.8425ebe643c83dc74c9b.jpg",
+    "static/media/octacore.jpg": "/static/media/octacore.67a7ab5c8cf03b820631.jpg",
     "static/media/CGroup 1.jpeg": "/static/media/CGroup 1.19a8701be77a850f8522.jpeg",
     "static/media/1.jpg": "/static/media/1.4040b47eee94ed93e645.jpg",
     "static/media/sewa 1.jpeg": "/static/media/sewa 1.9f386664d5dd8229c6d4.jpeg",
@@ -99,10 +106,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.6809da11.css.map": "/static/css/main.6809da11.css.map",
-    "main.f14b1234.js.map": "/static/js/main.f14b1234.js.map"
+    "main.cbc4609a.js.map": "/static/js/main.cbc4609a.js.map"
   },
   "entrypoints": [
     "static/css/main.6809da11.css",
-    "static/js/main.f14b1234.js"
+    "static/js/main.cbc4609a.js"
   ]
 }
