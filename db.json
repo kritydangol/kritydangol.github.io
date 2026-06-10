@@ -69,7 +69,7 @@
     "title": "Trisara - dynamic website development",
     "link": "https://trisaranepal.com/",
     "tileImg": "trisara.jpg",
-    "selected": true,
+    "selected": false,
     "role": ["Creative Direction", "UI / UX", "Website Development", "ReactJS"],
     "client": "Trisara",
     "year": "2023",
@@ -163,7 +163,7 @@
     "id": "UNWeb",
     "tag": ["ui ux design"],
     "title": "UN Website - Newsletter",
-    "link": "https://www.figma.com/design/YHOsC7fHWgJrRqRGVLtRTr/UN-Bulletin%3A-Backend-Wireframe?node-id=0-1&node-type=canvas&t=SDSbkawU3qCL1WRn-0",
+    "link": "https://embed.figma.com/proto/1Hh2NmxJEiN27bPzEwWDhz/UN-Newsletter-Designs?node-id=174-3049&scaling=scale-down-width&content-scaling=fixed&page-id=174%3A3048&starting-point-node-id=174%3A3049&embed-host=share&hide-ui=1",
     "tileImg": "UNWeb.jpeg",
     "selected": false,
     "role": [
@@ -183,7 +183,7 @@
     "id": "UNEmail",
     "tag": ["ui ux design"],
     "title": "UN Email - Newsletter",
-    "link": "https://www.figma.com/design/xJbEjgEPpMWg2xedLcYB8c/UN-Bulletin%3A-Concept-1?node-id=0-1&node-type=canvas",
+    "link": "https://embed.figma.com/proto/YHOsC7fHWgJrRqRGVLtRTr/UN-Bulletin--Backend-Wireframe?node-id=1-9&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A9&embed-host=share&hide-ui=1",
     "tileImg": "UNEmail.jpg",
     "selected": false,
     "role": [
@@ -225,7 +225,7 @@
   {
     "id": "CCharters",
     "tag": ["development", "ui ux design"],
-    "title": "Chariot Charters - UI/UX + Development",
+    "title": "Chariot Charters",
     "link": "https://www.chariotcharters.sg/",
     "tileImg": "CCharters.jpg",
     "selected": false,
@@ -294,7 +294,7 @@
     "year": 2023,
     "desc": "For Better Than Hotel, I developed a modern, responsive website using Bootstrap. The design includes a scroll snap feature on the landing page, allowing for smooth transitions between sections. I also developed several other pages, such as login, registration, and property details, which follow the same modern and user-friendly design approach. \n\nThis project introduced me to the scroll snap functionality, enhancing the website’s overall user experience. Better Than Hotel provides serviced accommodations in the UK, and the website reflects their commitment to hassle-free, high-quality stays, with a range of properties that cater to both short-term and long-term visitors.",
     "gallery": ["bth - mockup.jpg", "bth - all pages.jpg"],
-    "embed": true
+    "embed": false
   },
   {
     "id": "CGroup",
@@ -331,7 +331,7 @@
     "embed": false
   },
   {
-    "id": "Octacore",
+    "id": "octacore",
     "tag": ["development"],
     "title": "Octacore",
     "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?m=auto&t=4fyra0NN8tWYsJdo-6",
@@ -347,15 +347,15 @@
     "client": "Octacore",
     "year": 2024,
     "desc": "For Octacore, I developed a hybrid website using ReactJS and Tailwind that captures the brand’s innovative spirit through interactive design elements. The landing page features animated bubbles that rise and fall, creating a fluid, engaging experience that mirrors Octacore's flexible and adaptable approach to technology solutions. Other pages include clients, works, a detailed work page, and a career section, each with dynamic content fetched from APIs. \n\nThe site’s highlight is its unique visual aesthetic, reminiscent of a lava lamp, which sets it apart from traditional corporate websites. Octacore Solutions focuses on providing global IT services, and this project reflects their forward-thinking, innovative ethos.",
-    "gallery": ["octacore - all pages.jpg", "octacore - mockup.jpg"],
+    "gallery": ["octacore - mockup.jpg", "octacore - all pages.jpg"],
     "embed": false
   },
   {
     "id": "Foodcore",
     "tag": ["development"],
     "title": "Foodcore",
-    "link": "https://www.figma.com/proto/gRvMGTp9F1BJkHeWpc2VNF?node-id=0-1&t=4fyra0NN8tWYsJdo-6",
-    "tileImg": "",
+    "link": "https://embed.figma.com/proto/gRvMGTp9F1BJkHeWpc2VNF/Demo-Restaurant?node-id=290-1442&scaling=scale-down-width&content-scaling=fixed&page-id=73%3A2&starting-point-node-id=166%3A301&embed-host=share&hide-ui=1",
+    "tileImg": "foodcore.jpg",
     "selected": false,
     "role": [
       "Creative Direction",
@@ -367,14 +367,14 @@
     "client": "Foodcore",
     "year": 2024,
     "desc": "For Foodcore, I designed and developed a dynamic, responsive website using ReactJS and Tailwind. The focus was on creating an intuitive UI/UX design that highlights the brand’s commitment to delivering high-quality food services. The website includes a clean landing page, with sections dedicated to menu offerings, services, and customer testimonials. \n\nEach page was designed to enhance user engagement, with smooth transitions and easy-to-navigate content. The use of Tailwind for styling ensured a modern, polished look, and the responsive design guarantees a seamless experience across all devices. Foodcore aims to revolutionize the food industry, and the website reflects that mission.",
-    "gallery": [],
+    "gallery": ["foodcore - mockup.png", "foodcore - all pages.png"],
     "embed": true
   },
   {
     "id": "ElderCare",
     "tag": ["ui ux design", "practice"],
     "title": "ElderCare",
-    "link": "https://www.figma.com/proto/5tMR7YU2c9iOYX9zvvNALj/ULURU?page-id=0%3A1&node-id=6-1731&starting-point-node-id=6%3A1731&t=neyU9yJCQ4C4CU9f-1",
+    "link": "https://embed.figma.com/proto/5tMR7YU2c9iOYX9zvvNALj/ULURU?page-id=0%3A1&node-id=6-1731&starting-point-node-id=6%3A1731&scaling=scale-down&content-scaling=fixed&starting-point-node-id=527%3A2028&hide-ui=1&embed-host=share",
     "tileImg": "ElderCare.jpg",
     "selected": false,
     "role": [
@@ -394,7 +394,7 @@
     "id": "Techtagon",
     "tag": ["ui ux design", "practice"],
     "title": "Techtagon",
-    "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?node-id=1234-615&t=uFNvQbT1gHFThSOZ-1",
+    "link": "https://embed.figma.com/proto/jILTenOyaE5Ug6n0PqHAdY/Octacore?node-id=2535-42&scaling=min-zoom&content-scaling=fixed&page-id=1158%3A374&starting-point-node-id=1234%3A615&embed-host=share&hide-ui=1",
     "tileImg": "techtagon.jpg",
     "selected": false,
     "role": [
@@ -418,7 +418,7 @@
     "id": "TimeWatch",
     "tag": ["ui ux design", "practice"],
     "title": "TimeWatch",
-    "link": "https://www.figma.com/design/KSevvRTWlOjMqqu3mfcApx/Achieve-|-CASIO?node-id=3-20&t=BlGeyPa0T4lkzP9H-1",
+    "link": "https://embed.figma.com/proto/KSevvRTWlOjMqqu3mfcApx/Achieve-%7C-CASIO?node-id=405-1966&scaling=min-zoom&content-scaling=fixed&page-id=3%3A20&embed-host=share&hide-ui=1",
     "tileImg": "TimeWatch.jpg",
     "selected": false,
     "role": [
@@ -433,5 +433,46 @@
     "desc": "For this practice project, I designed a basic eCommerce website for a fictional watch company. The website, created in Figma, includes a landing page, a product overview page, and a detailed page for individual product listings. The design focuses on clean aesthetics and intuitive navigation, ensuring users can easily browse through the watch collection. \n\nThe interface also reflects the luxury and precision associated with the brand, using minimalist design elements to highlight product features. This fictional company prides itself on offering high-quality branded watches, and the design supports that ethos by creating an upscale yet user-friendly shopping experience.",
     "gallery": ["TimeWatch - mockup.jpeg", "TimeWatch1.jpeg"],
     "embed": true
+  },
+  {
+    "id": "alpine",
+    "tag": ["development", "ui ux design"],
+    "title": "Alpine Timepieces",
+    "link": "https://alpinetimepieces.com/",
+    "tileImg": "Alpine.gif",
+    "selected": true,
+    "role": [
+      "Creative Direction",
+      "NextJS",
+      "Tailwind",
+      "Figma",
+      "Prototyping",
+      "UI / UX"
+    ],
+    "client": "Alpine Timepieces",
+    "year": 2026,
+    "desc": "",
+    "gallery": [
+      "alpine - mockups.jpg",
+      "alpine - laptop.gif",
+      "alpine - laptop all.jpg",
+      "alpine - phone.gif",
+      "alpine - phone all.jpg"
+    ],
+    "embed": false
+  },
+  {
+    "id": "yala",
+    "tag": ["development"],
+    "title": "Yala Himalayan Dog Chews",
+    "link": "https://yalahimalayandogchew.com/",
+    "tileImg": "yala.jpg",
+    "selected": true,
+    "role": ["Creative Direction", "NextJS", "Tailwind", "GSAP"],
+    "client": "Yala Himalayan Dog Chews",
+    "year": 2026,
+    "desc": "",
+    "gallery": ["Yala - mockup.jpeg", "Yala1.jpeg"],
+    "embed": false
   }
 ]

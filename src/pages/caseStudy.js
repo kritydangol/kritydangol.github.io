@@ -59,16 +59,15 @@ const CaseStudy = () => {
                   >
                     {caseStudy[0].client}
                   </a>
+                ) : caseStudy[0].link !== "" && caseStudy[0].embed === true ? (
+                  // for embed
+                  <div
+                    onClick={handleLinkClick}
+                    className={`font-semibold link cursor-pointer`}
+                  >
+                    {caseStudy[0].client}
+                  </div>
                 ) : (
-                  // : caseStudy[0].link !== "" && caseStudy[0].embed === true ? (
-                  //   // for embed
-                  //   <div
-                  //     onClick={handleLinkClick}
-                  //     className={`font-semibold link cursor-pointer`}
-                  //   >
-                  //     {caseStudy[0].client}
-                  //   </div>
-                  // )
                   <div className={`font-semibold`}>{caseStudy[0].client}</div>
                 )}
                 <h5 className="subH pt-5">Year</h5>
@@ -80,7 +79,9 @@ const CaseStudy = () => {
               <div className="images">
                 {caseStudy[0].gallery.map((item, index) => (
                   <img
-                    src={require(`../assets/images/mockups/${caseStudy[0].id}/${item}`)}
+                    src={require(
+                      `../assets/images/mockups/${caseStudy[0].id}/${item}`,
+                    )}
                     alt={item}
                     key={index}
                     className="mb-7 border border-neutral-300 rounded w-full "
@@ -96,18 +97,18 @@ const CaseStudy = () => {
         )}
       </section>
       {isOverlayOpen && (
-        <div className="fixed inset-0 flex justify-center items-center z-[100000] w-screen">
+        <div className="fixed inset-0 flex justify-center items-center z-[100000] w-screen bg-gray-900/60">
           <button
-            className="absolute top-5 right-12 text-white text-5xl flex items-center"
+            className="absolute top-5 right-12 text-white text-5xl flex items-center bg-gray-900 hover:bg-gray-600 transition duration-300 rounded-full px-5 justify-center"
             onClick={handleCloseOverlay}
           >
-            &times; <span className="text-lg text-white">CLOSE</span>
+            &times; <span className="md:text-lg text-sm text-white">CLOSE</span>
           </button>
           <iframe
-            className="h-screen w-screen"
+            className="md:h-[90dvh] md:w-[90dvw] h-[80dvh] w-[90dvw] border-0 rounded"
             title="embed figma"
             src={caseStudy[0].link}
-            allowfullscreen
+            allowFullScreen
           ></iframe>
         </div>
       )}
