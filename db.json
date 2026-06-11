@@ -5,7 +5,7 @@
     "title": "PSV — responsive website development",
     "link": "https://parthstudent.vc/",
     "tileImg": "PSV Tile1.jpg",
-    "selected": true,
+    "selected": false,
     "role": [
       "Creative Direction",
       "UI / UX",
@@ -286,7 +286,7 @@
     "id": "bth",
     "tag": ["development"],
     "title": "Better Than Hotel",
-    "link": "https://www.figma.com/design/8uDnDBCrAMmNezvKMZsqE2/Crocus-Pearl?node-id=0-1&t=vyzncMWYCcBDdlua-1",
+    "link": "",
     "tileImg": "bth.png",
     "selected": false,
     "role": ["Bootstrap", "UI / UX", "Website Development"],
@@ -334,7 +334,7 @@
     "id": "octacore",
     "tag": ["development"],
     "title": "Octacore",
-    "link": "https://www.figma.com/design/jILTenOyaE5Ug6n0PqHAdY/Octacore?m=auto&t=4fyra0NN8tWYsJdo-6",
+    "link": "https://embed.figma.com/proto/jILTenOyaE5Ug6n0PqHAdY/Octacore?node-id=1195-893&scaling=scale-down-width&content-scaling=fixed&page-id=106%3A2&starting-point-node-id=1195%3A893&embed-host=share&hide-ui=1",
     "tileImg": "octacore.jpg",
     "selected": false,
     "role": [
@@ -451,7 +451,7 @@
     ],
     "client": "Alpine Timepieces",
     "year": 2026,
-    "desc": "",
+    "desc": "Alpine Timepieces is a fully dynamic eCommerce website built with Next.js and Tailwind for Nepal’s trusted source of authentic global watch brands and the official importer of Casio in Nepal. The project involved UI/UX design, prototyping, and frontend development, with a strong focus on responsiveness, smooth animations, and an engaging user experience. Designing the homepage was particularly enjoyable due to the creative freedom involved, especially when creating the Latest Trends carousel.\n\nThe project also gave me valuable experience working with brands, sub-brands, product management, and the checkout process. Built with ease of maintenance in mind, the platform allows the client to update products and content without requiring technical expertise.",
     "gallery": [
       "alpine - mockups.jpg",
       "alpine - laptop.gif",
@@ -466,13 +466,13 @@
     "tag": ["development"],
     "title": "Yala Himalayan Dog Chews",
     "link": "https://yalahimalayandogchew.com/",
-    "tileImg": "yala.jpg",
+    "tileImg": "yala.gif",
     "selected": true,
     "role": ["Creative Direction", "NextJS", "Tailwind", "GSAP"],
     "client": "Yala Himalayan Dog Chews",
     "year": 2026,
-    "desc": "",
-    "gallery": ["Yala - mockup.jpeg", "Yala1.jpeg"],
+    "desc": "I built an informative website for Yala Himalayan Dog Chews to showcase their natural, handcrafted dog treats inspired by a traditional Himalayan recipe. Built with Next.js and Tailwind, the site is fully responsive and focuses on a clean, modern browsing experience. The homepage stands out with a smooth custom GSAP animation of dog chews for mobile and desktop views, which adds a fun and engaging visual touch.\n\nThe site is also semi-dynamic, so the client can easily update products, team info, and other content without needing technical help. It also includes a simple form for quotation form where users can request pricing based on quantity, making the site both practical and easy to use.",
+    "gallery": ["yala - desktop.gif", "yala - mockups.jpg"],
     "embed": false
   }
 ]

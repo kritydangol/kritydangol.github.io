@@ -21,6 +21,7 @@ const SelectedProjects = () => {
           {/* mapping projects */}
           {projects
             .filter((project) => project.selected)
+            .sort((a, b) => b.year - a.year)
             .map((project) => (
               <a
                 key={project.id}
@@ -47,7 +48,9 @@ const SelectedProjects = () => {
                   {project.tileImg && (
                     <img
                       className="absolute top-0 left-0 z-[-1] h-full w-[100%] object-cover object-bottom rounded-lg"
-                      src={require(`../assets/images/mockups/${project.id}/${project.tileImg}`)}
+                      src={require(
+                        `../assets/images/mockups/${project.id}/${project.tileImg}`,
+                      )}
                       alt={project.title}
                     />
                   )}

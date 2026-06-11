@@ -43,7 +43,7 @@ const Nav = () => {
       <a href="/" className="logo z-10 flex w-fit">
         <img
           className="w-12 h-12 mr-2 object-cover"
-          src={require("../assets/images/logo-circle-06.png")}
+          src={require("../assets/images/avatar1.png")}
           alt="Logo"
         />
         <div className="w-fit">
