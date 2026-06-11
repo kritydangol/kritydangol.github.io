@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.d75295fe.css",
-    "main.js": "/static/js/main.33c2509c.js",
-    "static/media/alpine - laptop.gif": "/static/media/alpine - laptop.482c66774842f32d18ac.gif",
+    "main.js": "/static/js/main.90df8450.js",
+    "static/media/alpine - laptop.gif": "/static/media/alpine - laptop.d498acdc85cb1d51ac28.gif",
     "static/media/Alpine.gif": "/static/media/Alpine.918345ddb724e8d1dadc.gif",
     "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.85173435f355087b5833.pdf",
+    "static/media/yala - desktop.gif": "/static/media/yala - desktop.d41ebf5583fd272d76f6.gif",
     "static/media/alpine - phone.gif": "/static/media/alpine - phone.26afa3e31ae541edd70e.gif",
+    "static/media/yala.gif": "/static/media/yala.999162255d5c12154fdb.gif",
     "static/media/eternity 1.jpg": "/static/media/eternity 1.1fc274a7aa5c11e03893.jpg",
     "static/media/eternity - mockup.jpg": "/static/media/eternity - mockup.f33663d8ad3fecaa61ab.jpg",
     "static/media/alchi - prices posts mockups.jpg": "/static/media/alchi - prices posts mockups.6b5003e7953cb1657c55.jpg",
@@ -49,6 +51,7 @@
     "static/media/sewa.jpg": "/static/media/sewa.5f63c9b9a050c56e3059.jpg",
     "static/media/DAH.jpg": "/static/media/DAH.fb5caab2b078437808de.jpg",
     "static/media/TimeWatch - mockup.jpeg": "/static/media/TimeWatch - mockup.4cf424d7f3febc72f242.jpeg",
+    "static/media/yala - mockups.jpg": "/static/media/yala - mockups.cfe36a88e010a9478a8a.jpg",
     "static/media/eternity.jpg": "/static/media/eternity.0591670efa2517dd4f13.jpg",
     "static/media/amt.jpg": "/static/media/amt.ff9e7e193f62de291d02.jpg",
     "static/media/UNWeb.jpeg": "/static/media/UNWeb.8af90f8fba9cb4729b73.jpeg",
@@ -107,18 +110,19 @@
     "static/media/amt - mockup.jpeg": "/static/media/amt - mockup.0e8fe1cc4f7a0594b878.jpeg",
     "static/media/PSV Tile1.jpg": "/static/media/PSV Tile1.4e5c13c3ef43c2ae5c50.jpg",
     "static/media/CCharters - mockup.jpeg": "/static/media/CCharters - mockup.41aa3699eb314f576518.jpeg",
+    "static/media/alpine.jpg": "/static/media/alpine.fcefd021db5ddc920a53.jpg",
     "static/media/PSV Tile.jpg": "/static/media/PSV Tile.7f4edabbc61f6d77a2c9.jpg",
     "static/media/serene1.jpg": "/static/media/serene1.1169491faf7be6d27ff6.jpg",
     "static/media/serene.jpg": "/static/media/serene.30b5a8afa5f355af2ea5.jpg",
     "static/media/404.png": "/static/media/404.b4f9ebf66362188d0453.png",
-    "static/media/logo-circle-06.png": "/static/media/logo-circle-06.8b1bcf7ccf814a19be01.png",
+    "static/media/avatar1.png": "/static/media/avatar1.d050375550b92e900db3.png",
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.d75295fe.css.map": "/static/css/main.d75295fe.css.map",
-    "main.33c2509c.js.map": "/static/js/main.33c2509c.js.map"
+    "main.90df8450.js.map": "/static/js/main.90df8450.js.map"
   },
   "entrypoints": [
     "static/css/main.d75295fe.css",
-    "static/js/main.33c2509c.js"
+    "static/js/main.90df8450.js"
   ]
 }
