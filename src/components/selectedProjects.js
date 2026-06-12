@@ -9,7 +9,7 @@ const SelectedProjects = () => {
   return (
     <section id="projects" className="mt-10">
       <p className="subH">Top Projects</p>
-      <div className="flex justify-between items-center">
+      <div className="flex flex-wrap gap-x-10 justify-between items-center pb-5">
         <h3 className="midH">Selected Works</h3>
 
         <a className="link" href="/#/categories/all">

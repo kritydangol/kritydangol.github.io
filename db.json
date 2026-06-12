@@ -348,7 +348,7 @@
     "year": 2024,
     "desc": "For Octacore, I developed a hybrid website using ReactJS and Tailwind that captures the brand’s innovative spirit through interactive design elements. The landing page features animated bubbles that rise and fall, creating a fluid, engaging experience that mirrors Octacore's flexible and adaptable approach to technology solutions. Other pages include clients, works, a detailed work page, and a career section, each with dynamic content fetched from APIs. \n\nThe site’s highlight is its unique visual aesthetic, reminiscent of a lava lamp, which sets it apart from traditional corporate websites. Octacore Solutions focuses on providing global IT services, and this project reflects their forward-thinking, innovative ethos.",
     "gallery": ["octacore - mockup.jpg", "octacore - all pages.jpg"],
-    "embed": false
+    "embed": true
   },
   {
     "id": "Foodcore",
@@ -472,7 +472,11 @@
     "client": "Yala Himalayan Dog Chews",
     "year": 2026,
     "desc": "I built an informative website for Yala Himalayan Dog Chews to showcase their natural, handcrafted dog treats inspired by a traditional Himalayan recipe. Built with Next.js and Tailwind, the site is fully responsive and focuses on a clean, modern browsing experience. The homepage stands out with a smooth custom GSAP animation of dog chews for mobile and desktop views, which adds a fun and engaging visual touch.\n\nThe site is also semi-dynamic, so the client can easily update products, team info, and other content without needing technical help. It also includes a simple form for quotation form where users can request pricing based on quantity, making the site both practical and easy to use.",
-    "gallery": ["yala - desktop.gif", "yala - mockups.jpg"],
+    "gallery": [
+      "yala - laptop.gif",
+      "yala - desktop.gif",
+      "yala - mockups.jpg"
+    ],
     "embed": false
   }
-]
+] 
