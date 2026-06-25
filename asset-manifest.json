@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.9f7d2371.css",
-    "main.js": "/static/js/main.b1444267.js",
+    "main.js": "/static/js/main.4f133080.js",
     "static/media/alpine - laptop.gif": "/static/media/alpine - laptop.d498acdc85cb1d51ac28.gif",
     "static/media/Alpine.gif": "/static/media/Alpine.918345ddb724e8d1dadc.gif",
     "static/media/yala - laptop.gif": "/static/media/yala - laptop.b0cec330e5f565744e4a.gif",
     "static/media/yala.gif": "/static/media/yala.30c0000bc9fc101f7b1f.gif",
-    "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.85173435f355087b5833.pdf",
+    "static/media/Krity Dangol CV.pdf": "/static/media/Krity Dangol CV.dfeae4c1a6005ca69b89.pdf",
     "static/media/yala - desktop.gif": "/static/media/yala - desktop.426ad964a1c6f65358ea.gif",
     "static/media/alpine - phone.gif": "/static/media/alpine - phone.26afa3e31ae541edd70e.gif",
     "static/media/eternity 1.jpg": "/static/media/eternity 1.1fc274a7aa5c11e03893.jpg",
@@ -99,6 +99,7 @@
     "static/media/15.jpg": "/static/media/15.c47e3b159f4fddd53a4e.jpg",
     "static/media/trisara - menu.jpeg": "/static/media/trisara - menu.486a18e196a9dd4200ff.jpeg",
     "static/media/UNEmail - mockup.jpeg": "/static/media/UNEmail - mockup.34e036e8595b23bdee3c.jpeg",
+    "static/media/CPT socials.jpg": "/static/media/CPT socials.8bc41a14b24ce5042e04.jpg",
     "static/media/PSV tablet.jpg": "/static/media/PSV tablet.8425ebe643c83dc74c9b.jpg",
     "static/media/octacore.jpg": "/static/media/octacore.67a7ab5c8cf03b820631.jpg",
     "static/media/CGroup 1.jpeg": "/static/media/CGroup 1.19a8701be77a850f8522.jpeg",
@@ -120,10 +121,10 @@
     "static/media/avatar.png": "/static/media/avatar.3278f92514a12d6d5181.png",
     "index.html": "/index.html",
     "main.9f7d2371.css.map": "/static/css/main.9f7d2371.css.map",
-    "main.b1444267.js.map": "/static/js/main.b1444267.js.map"
+    "main.4f133080.js.map": "/static/js/main.4f133080.js.map"
   },
   "entrypoints": [
     "static/css/main.9f7d2371.css",
-    "static/js/main.b1444267.js"
+    "static/js/main.4f133080.js"
   ]
 }
