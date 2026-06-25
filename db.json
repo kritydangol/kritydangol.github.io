@@ -156,7 +156,7 @@
     "client": "Crocus Pearl Technologies",
     "year": 2023,
     "desc": "For Crocus Pearl Technologies, I developed a fully responsive and functional website using ReactJS and Bootstrap, focusing on delivering a seamless user experience. The website includes dynamic pages for the 'Works' section, which showcases the company's projects and services. Bootstrap was used to enhance the website’s styling, making it sleek and easy to navigate across all devices. \n\nAdditionally, I created various graphic designs using Adobe Illustrator to depict the brand’s core values. These designs were featured in social media posts and promotional materials, helping the company strengthen its visual identity. Crocus Pearl Technologies, a tech company with the slogan 'bloom with us,' aims to inspire growth through cutting-edge technological solutions, and the website reflects that vision by being modern, dynamic, and user-centric.",
-    "gallery": ["CPT - mockup.jpg", "CPT 2.jpg", "CPT 1.jpg"],
+    "gallery": ["CPT - mockup.jpg", "CPT 2.jpg", "CPT 1.jpg", "CPT socials.jpg"],
     "embed": false
   },
   {
@@ -471,7 +471,7 @@
     "role": ["Creative Direction", "NextJS", "Tailwind", "GSAP"],
     "client": "Yala Himalayan Dog Chews",
     "year": 2026,
-    "desc": "I built an informative website for Yala Himalayan Dog Chews to showcase their natural, handcrafted dog treats inspired by a traditional Himalayan recipe. Built with Next.js and Tailwind, the site is fully responsive and focuses on a clean, modern browsing experience. The homepage stands out with a smooth custom GSAP animation of dog chews for mobile and desktop views, which adds a fun and engaging visual touch.\n\nThe site is also semi-dynamic, so the client can easily update products, team info, and other content without needing technical help. It also includes a simple form for quotation form where users can request pricing based on quantity, making the site both practical and easy to use.",
+    "desc": "I built an informative website for Yala Himalayan Dog Chews to showcase their natural, handcrafted dog treats inspired by a traditional Himalayan recipe. Built with Next.js and Tailwind, the site is fully responsive and focuses on a clean, modern browsing experience. The homepage stands out with a smooth custom GSAP animation of dog chews for mobile and desktop views, which adds a fun and engaging visual touch.\n\nThe site is also semi-dynamic, so the client can easily update products, team info, and other content without needing technical help. It also includes a simple form for quotation where users can request pricing based on quantity, making the site both practical and easy to use.",
     "gallery": [
       "yala - laptop.gif",
       "yala - desktop.gif",
